@@ -685,54 +685,26 @@
       <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000001" buff_lifetime_id="0" buff_name="item_cmbt_dagger" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="pbs+0.15,cli+0.15" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
 	  <!-- Parry Dagger Buff -->
       <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000002" buff_lifetime_id="0" buff_name="item_pary_dagger" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="pbs+0.2,cli+0.1" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-
+	  
 	  <!-- HORSE EQUIPMENT -->
 	  <!-- Horse Saddles -->
-	  <!-- No Bags Horse Saddle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000018" buff_lifetime_id="0" buff_name="item_horse_saddle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cap+25" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- 1 Bag Horse Saddle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000003" buff_lifetime_id="0" buff_name="item_horse_saddle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cap+35" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- 2 Bags Horse Saddle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000004" buff_lifetime_id="0" buff_name="item_horse_saddle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cap+45" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- 3 Bags Horse Saddle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000005" buff_lifetime_id="0" buff_name="item_horse_saddle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cap+55" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- 4 Bags Horse Saddle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000006" buff_lifetime_id="0" buff_name="item_horse_saddle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cap+65" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- 5 Bags Horse Saddle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000007" buff_lifetime_id="0" buff_name="item_horse_saddle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cap+75" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000003" buff_lifetime_id="0" buff_name="item_horse_saddle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cap+75" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
 
 	  <!-- Horse Bridles -->
-	  <!-- Plain Horse Bridle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000019" buff_lifetime_id="0" buff_name="item_bridle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cou*1.1" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- Grooms Horse Bridle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000008" buff_lifetime_id="0" buff_name="item_bridle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cou*1.15" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- Cavalry Horse Bridle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000009" buff_lifetime_id="0" buff_name="item_bridle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cou*1.20" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- Knights Horse Bridle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000010" buff_lifetime_id="0" buff_name="item_bridle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cou*1.25" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- Noble Horse Bridle Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000011" buff_lifetime_id="0" buff_name="item_bridle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cou*1.3" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000004" buff_lifetime_id="0" buff_name="item_bridle" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cou*1.3" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
 
 	  <!-- Horse Shoes -->
-	  <!-- Travel Horse Shoe Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000020" buff_lifetime_id="0" buff_name="item_horse_shoe" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="rms*1.05" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- Military Horse Shoe Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000012" buff_lifetime_id="0" buff_name="item_horse_shoe" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="rms*1.10" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- Noble Horse Shoe Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000013" buff_lifetime_id="0" buff_name="item_horse_shoe" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="rms*1.15" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000005" buff_lifetime_id="0" buff_name="item_horse_shoe" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="rms*1.15" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
 
 	  <!-- Horse Spurs -->
-	  <!-- Plain Horse Spur Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="buff_spur_desc" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000021" buff_lifetime_id="0" buff_name="item_spur" buff_ui_name="buff_spur" buff_ui_order="90" buff_ui_type_id="1" buff_ui_visibility_id="2" duration="-1" icon_id="46" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="horse_riding+1" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- Cuman Horse Spur Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="buff_spur_desc" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000014" buff_lifetime_id="0" buff_name="item_spur" buff_ui_name="buff_spur" buff_ui_order="90" buff_ui_type_id="1" buff_ui_visibility_id="2" duration="-1" icon_id="46" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="horse_riding+2" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- Knight Horse Spur Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="buff_spur_desc" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000015" buff_lifetime_id="0" buff_name="item_spur" buff_ui_name="buff_spur" buff_ui_order="90" buff_ui_type_id="1" buff_ui_visibility_id="2" duration="-1" icon_id="46" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="horse_riding+3" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- Silver Horse Spur Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="buff_spur_desc" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000016" buff_lifetime_id="0" buff_name="item_spur" buff_ui_name="buff_spur" buff_ui_order="90" buff_ui_type_id="1" buff_ui_visibility_id="2" duration="-1" icon_id="46" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="horse_riding+4" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
-	  <!-- Golded Horse Spur Buff -->
-      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="buff_spur_desc" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000017" buff_lifetime_id="0" buff_name="item_spur" buff_ui_name="buff_spur" buff_ui_order="90" buff_ui_type_id="1" buff_ui_visibility_id="2" duration="-1" icon_id="46" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="horse_riding+5" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="buff_spur_desc" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000006" buff_lifetime_id="0" buff_name="item_spur" buff_ui_name="buff_spur" buff_ui_order="90" buff_ui_type_id="1" buff_ui_visibility_id="2" duration="-1" icon_id="46" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="horse_riding+5" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
 
+	  <!-- Horse Caparisons -->
+      <row buff_ai_tag_id="" buff_class_id="12" buff_desc="" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000007" buff_lifetime_id="0" buff_name="item_caparison" buff_ui_name="" buff_ui_order="" buff_ui_type_id="" buff_ui_visibility_id="" duration="-1" icon_id="0" implementation="Cpp:EquippableItemWeighted" is_persistent="True" params="cou*1.3" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+	  
+	  <!-- ANIMAL THREAT BUFF -->
+      <row buff_ai_tag_id="" buff_class_id="4" buff_desc="buff_animal_react_desc" buff_exclusivity_id="1" buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000008" buff_lifetime_id="1" buff_name="perk_animal_react" buff_ui_name="" buff_ui_order="" buff_ui_type_id="4" buff_ui_visibility_id="0" duration="-1" icon_id="0" implementation="Cpp:Constant" is_persistent="True" params="btw*2" slot_buff_ui_name="" slot_icon_id="" visual_effect="" />
+	  
       <!-- ========================================================== -->
       <!-- REWORKED AND NEW PERKS / END -->
       <!-- ========================================================== -->

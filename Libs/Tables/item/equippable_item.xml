@@ -21,7 +21,6 @@
       <row charisma="3" conspicuousness="-0.11" item_id="00000000-0000-0000-0000-000000000025" rpg_buff_weight="0" social_class_id="1" visibility="-0.02" wealth_level="0" />
       <row charisma="7" conspicuousness="0.03" item_id="00000000-0000-0000-0000-000000000032" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="4" conspicuousness="1" item_id="0082de35-b635-4b85-a9ec-95024713f3ab" rpg_buff_weight="" social_class_id="33" visibility="1" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="00c214ca-d9cb-4d2a-b3e8-95545fd2f3e9" rpg_buff_weight="0.5" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="10" conspicuousness="0" item_id="01b86c1e-1614-4310-8bed-10b7682e5815" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="6" conspicuousness="0" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="5" conspicuousness="-0.2" item_id="03589a69-d3f4-403a-a389-ca021e7c8f40" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
@@ -36,18 +35,15 @@
       <row charisma="13" conspicuousness="0" item_id="11324f3e-d7f0-49f7-b39d-14622de4d410" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="1" conspicuousness="1" item_id="13ba7468-11a2-483d-8cb9-25ce36a2d228" rpg_buff_weight="" social_class_id="0" visibility="1" wealth_level="0" />
       <row charisma="20" conspicuousness="0" item_id="14aaa78f-49fe-49aa-bf46-bc6b8b06a6b7" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="17" conspicuousness="0.75" item_id="15656c3e-d29e-48a8-bc0e-1451102a9ce5" rpg_buff_weight="0.7" social_class_id="14" visibility="0.6" wealth_level="0" />
       <row charisma="10" conspicuousness="0" item_id="1592a436-4a22-4636-b82d-14af8127ee01" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="11" conspicuousness="0" item_id="17b7104f-d747-41ed-b701-d964584a0b37" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="8" conspicuousness="0" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="15" conspicuousness="0.7" item_id="19d5def6-e491-43c7-ab1d-5978ac197485" rpg_buff_weight="0.5" social_class_id="33" visibility="0.6" wealth_level="0" />
       <row charisma="1" conspicuousness="1" item_id="19df1c5c-3dbf-45c0-ac01-336facf5f741" rpg_buff_weight="" social_class_id="0" visibility="1" wealth_level="0" />
       <row charisma="8" conspicuousness="0" item_id="1af2b27c-06bf-42a9-b203-8e7c83361d50" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="7" conspicuousness="0" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="3" conspicuousness="0" item_id="1ff6e150-de1d-4cff-b263-e3dad48eef1a" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="17" conspicuousness="0" item_id="214f7911-d9be-4260-b5cb-590f96ffde9a" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="15" conspicuousness="0" item_id="21afc054-37d2-4cce-928e-c7d0d2e295c5" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="13" conspicuousness="0.65" item_id="229d96aa-a435-4e89-85ce-8119a1df8228" rpg_buff_weight="0.2" social_class_id="43" visibility="0.6" wealth_level="0" />
       <row charisma="11" conspicuousness="0" item_id="24a7c868-f23f-4799-8e64-331435a77404" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="5" conspicuousness="1" item_id="26ddf0fa-c425-42a2-8879-fabaa66f414e" rpg_buff_weight="" social_class_id="0" visibility="1" wealth_level="0" />
       <row charisma="4" conspicuousness="1" item_id="275bc631-75cb-41ad-be6c-bc9f319fcb5d" rpg_buff_weight="" social_class_id="6" visibility="1" wealth_level="0" />
@@ -67,9 +63,7 @@
       <row charisma="5" conspicuousness="1" item_id="3e1e9a1d-37b5-4564-be23-af1017296d6c" rpg_buff_weight="" social_class_id="0" visibility="1" wealth_level="0" />
       <row charisma="11" conspicuousness="0" item_id="3e7657f2-d653-4e57-ae77-6f2225ac642b" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="7" conspicuousness="0" item_id="3ef71c79-57c2-4f28-8f31-a091d9b78798" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="40024d27-b1c4-6ef7-3ca0-98025de43f9e" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="2" conspicuousness="0.13" item_id="40031fce-5752-3279-92f6-b564d55aeb8f" rpg_buff_weight="0" social_class_id="0" visibility="0.12" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="40092838-9807-c0f7-4a48-264b6ed78c8c" rpg_buff_weight="0.4" social_class_id="0" visibility="0.2" wealth_level="0" />
       <row charisma="5" conspicuousness="-0.23" item_id="400b4bb0-a1d0-9bec-1b90-5b2bfcb9e9af" rpg_buff_weight="0" social_class_id="1" visibility="0.04" wealth_level="0" />
       <row charisma="17" conspicuousness="0.72" item_id="401179d4-8a48-cc9a-ceac-eeaf7eb7b099" rpg_buff_weight="0" social_class_id="33" visibility="0.64" wealth_level="0" />
       <row charisma="6" conspicuousness="0.21" item_id="40129e7b-b9e0-a193-1145-d53292caf7a1" rpg_buff_weight="0" social_class_id="33" visibility="0.06" wealth_level="0" />
@@ -78,7 +72,6 @@
       <row charisma="11" conspicuousness="0.22" item_id="4025719c-da4e-cb6e-963a-c26ca4cdaa9d" rpg_buff_weight="0" social_class_id="33" visibility="0.24" wealth_level="0" />
       <row charisma="0" conspicuousness="-0.5" item_id="40280c67-9421-1fc8-0d54-ae5d47c978b9" rpg_buff_weight="0" social_class_id="1" visibility="-0.46" wealth_level="0" />
       <row charisma="0" conspicuousness="-1" item_id="40298c73-9675-13b1-77ad-4ed61a6e36bb" rpg_buff_weight="" social_class_id="1" visibility="-1" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="402c55d2-ae62-bf47-823f-8a5760eab7bd" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="13" conspicuousness="0.15" item_id="402d9c88-ef9a-8eef-7475-107459ea1794" rpg_buff_weight="0" social_class_id="33" visibility="0.28" wealth_level="0" />
       <row charisma="11" conspicuousness="0.72" item_id="40317a13-b96c-e894-3334-e5d70b9420bb" rpg_buff_weight="0" social_class_id="33" visibility="0.68" wealth_level="0" />
       <row charisma="10" conspicuousness="0.56" item_id="40324632-16c8-5979-2c76-e38210ee2a9b" rpg_buff_weight="0" social_class_id="33" visibility="0.52" wealth_level="0" />
@@ -90,17 +83,14 @@
       <row charisma="20" conspicuousness="0.08" item_id="40692480-f24c-54fa-c938-50ccf45918b9" rpg_buff_weight="0" social_class_id="0" visibility="-0.12" wealth_level="0" />
       <row charisma="14" conspicuousness="0.21" item_id="406b05fb-c409-f2d0-ec82-8c9e6dd422b8" rpg_buff_weight="0" social_class_id="33" visibility="0.32" wealth_level="0" />
       <row charisma="7" conspicuousness="-0.39" item_id="406bc0f2-ba52-b3f7-8844-10bcdec68195" rpg_buff_weight="0" social_class_id="33" visibility="-0.28" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="406c92ad-4c17-25d7-84d7-28500800f59e" rpg_buff_weight="0.7" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="17" conspicuousness="0.67" item_id="406d2498-5b1e-90dc-4beb-37a0a67ce5a4" rpg_buff_weight="0" social_class_id="33" visibility="0.66" wealth_level="0" />
       <row charisma="15" conspicuousness="0.29" item_id="4076ced0-55f6-49a0-3364-e6183c03368f" rpg_buff_weight="0" social_class_id="0" visibility="0.16" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="407c5a00-2e73-f2dc-6a0b-8244c78e5da7" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="3" conspicuousness="0.09" item_id="407f6f52-d70e-7e3b-056d-cda8069aab86" rpg_buff_weight="0" social_class_id="33" visibility="-0.04" wealth_level="0" />
       <row charisma="14" conspicuousness="0.01" item_id="408660f0-4742-ef99-b434-7f52cfdc2b9c" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="15" conspicuousness="0.5" item_id="4088843b-6f0b-7016-1e16-e2455e33dcb6" rpg_buff_weight="0" social_class_id="33" visibility="0.48" wealth_level="0" />
       <row charisma="4" conspicuousness="-0.23" item_id="40975019-110c-86fc-4f18-5b36799744bb" rpg_buff_weight="0" social_class_id="1" visibility="-0.04" wealth_level="0" />
       <row charisma="4" conspicuousness="0.19" item_id="409cf64d-afc1-1c2c-0af2-2042f2d4f6a0" rpg_buff_weight="0" social_class_id="33" visibility="0.38" wealth_level="0" />
       <row charisma="6" conspicuousness="0.35" item_id="40a2b1d3-f475-a8f3-667a-075486518b8f" rpg_buff_weight="0" social_class_id="33" visibility="0.38" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="40a5de5a-d3a5-c4c3-f5f1-71ab661d55b4" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="8" conspicuousness="-0.09" item_id="40a9b459-1058-26a6-19f8-0e6ffe01418e" rpg_buff_weight="0" social_class_id="33" visibility="0.12" wealth_level="0" />
       <row charisma="10" conspicuousness="-0.12" item_id="40aed3da-9bdd-180b-65cd-fd81947fc3a9" rpg_buff_weight="0" social_class_id="1" visibility="0.04" wealth_level="0" />
       <row charisma="9" conspicuousness="-0.22" item_id="40af7f97-143c-95a5-5e0b-01efbfac29b6" rpg_buff_weight="0" social_class_id="33" visibility="-0.26" wealth_level="0" />
@@ -111,14 +101,12 @@
       <row charisma="19" conspicuousness="0.84" item_id="40b60983-804f-22fc-8259-ab4a6820829b" rpg_buff_weight="0" social_class_id="33" visibility="0.88" wealth_level="0" />
       <row charisma="4" conspicuousness="0.04" item_id="40bafc6f-ea0f-d9d2-57f7-0da666d60083" rpg_buff_weight="0" social_class_id="33" visibility="0.32" wealth_level="0" />
       <row charisma="17" conspicuousness="0.46" item_id="40c05582-26f8-b1dc-f0ba-80e717a8869e" rpg_buff_weight="0" social_class_id="33" visibility="0.24" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="40c16f73-5b83-c139-96eb-c39ff5e9e7a6" rpg_buff_weight="0.9" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="7" conspicuousness="-0.18" item_id="40c72054-15bf-abaa-ab7d-ee053314458c" rpg_buff_weight="0" social_class_id="1" visibility="0.02" wealth_level="0" />
       <row charisma="7" conspicuousness="-0.11" item_id="40c728ba-95cb-9ffc-7688-4ed73eb053ab" rpg_buff_weight="0" social_class_id="33" visibility="-0.02" wealth_level="0" />
       <row charisma="16" conspicuousness="0.7" item_id="40cda4e4-8741-4f52-e43c-71fec6d81a96" rpg_buff_weight="0" social_class_id="1" visibility="0.68" wealth_level="0" />
       <row charisma="12" conspicuousness="0.35" item_id="40d19389-b8e6-8f54-cf74-f3715b0cea8c" rpg_buff_weight="0" social_class_id="0" visibility="0.44" wealth_level="0" />
       <row charisma="5" conspicuousness="-0.02" item_id="40dac35d-5df7-e4b3-ba7c-ca2c9c706f93" rpg_buff_weight="0" social_class_id="1" visibility="0.26" wealth_level="0" />
       <row charisma="6" conspicuousness="-0.27" item_id="40dd1053-b0b7-2390-9f5d-b844104748b5" rpg_buff_weight="0" social_class_id="1" visibility="-0.1" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="40e576c7-74e8-216e-a4f0-a3aa6bd35387" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="6" conspicuousness="-0.09" item_id="40e66e8a-bf10-8c39-66e0-aac2eb644dba" rpg_buff_weight="0" social_class_id="33" visibility="0.12" wealth_level="0" />
       <row charisma="10" conspicuousness="0.25" item_id="40e7af0d-4262-1d6b-ea86-aaf55d6e76a2" rpg_buff_weight="0" social_class_id="33" visibility="0.28" wealth_level="0" />
       <row charisma="8" conspicuousness="-0.04" item_id="40ebc815-c78f-24ea-aff7-0e4beb4136b8" rpg_buff_weight="0" social_class_id="33" visibility="0.12" wealth_level="0" />
@@ -126,12 +114,10 @@
       <row charisma="2" conspicuousness="-0.51" item_id="40ffe5a0-95c6-1bb6-8347-25d93cfd4fbd" rpg_buff_weight="0" social_class_id="1" visibility="-0.52" wealth_level="0" />
       <row charisma="7" conspicuousness="0.55" item_id="41033745-5681-2a81-3010-446999b7f8ad" rpg_buff_weight="0" social_class_id="1" visibility="0.7" wealth_level="0" />
       <row charisma="13" conspicuousness="-0.52" item_id="4119b64e-f072-0cf2-4b8c-13e5ee901994" rpg_buff_weight="0" social_class_id="3" visibility="-0.56" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="411f568d-9e62-417c-38a1-ae108bb233ba" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="12" conspicuousness="0.23" item_id="412e44fb-0e4c-0e80-b763-0b6493b13fa0" rpg_buff_weight="0" social_class_id="0" visibility="0.26" wealth_level="0" />
       <row charisma="10" conspicuousness="0.38" item_id="4135abae-bcce-b9f7-7fff-9139b57aebbe" rpg_buff_weight="0" social_class_id="33" visibility="0.56" wealth_level="0" />
       <row charisma="12" conspicuousness="0.13" item_id="41366e7f-a0e5-0f23-142a-40f1ca76aabb" rpg_buff_weight="0" social_class_id="0" visibility="-0.04" wealth_level="0" />
       <row charisma="4" conspicuousness="1" item_id="413806e7-f3b7-c6cf-2309-e47ce3c97fa2" rpg_buff_weight="" social_class_id="33" visibility="1" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="41382adf-569c-4f33-90a0-36b6e874eca7" rpg_buff_weight="0.05" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="7" conspicuousness="-0.33" item_id="41392bb2-9214-92e9-0e7d-e0438149eaa4" rpg_buff_weight="0" social_class_id="1" visibility="-0.32" wealth_level="0" />
       <row charisma="10" conspicuousness="0.28" item_id="413a23a3-3d34-de11-abeb-2dfc9af846a9" rpg_buff_weight="0" social_class_id="33" visibility="0.56" wealth_level="0" />
       <row charisma="14" conspicuousness="-0.36" item_id="41412ccb-2199-b9bf-9c79-21c9227b94a7" rpg_buff_weight="0" social_class_id="3" visibility="-0.26" wealth_level="0" />
@@ -162,13 +148,11 @@
       <row charisma="4" conspicuousness="0.01" item_id="41acce88-081c-c9a2-e16a-e956bf39a2ac" rpg_buff_weight="0" social_class_id="1" visibility="0.24" wealth_level="0" />
       <row charisma="9" conspicuousness="-0.45" item_id="41afa317-7311-5ecb-8a91-94189c2dc2a9" rpg_buff_weight="0" social_class_id="33" visibility="-0.4" wealth_level="0" />
       <row charisma="2" conspicuousness="-0.68" item_id="41b0dcfd-e60f-dd06-41bd-08c8d4ba7d91" rpg_buff_weight="0" social_class_id="1" visibility="-0.64" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="41b3cfda-0a6c-c009-9482-4c78ea2f1980" rpg_buff_weight="0.65" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="1" conspicuousness="-0.32" item_id="41ba5cc8-60ba-5e3e-8e80-39270a2acf83" rpg_buff_weight="0" social_class_id="1" visibility="0.04" wealth_level="0" />
       <row charisma="12" conspicuousness="0.24" item_id="41bcef0c-d101-397a-0897-8367d9f8ffa6" rpg_buff_weight="0" social_class_id="3" visibility="0.58" wealth_level="0" />
       <row charisma="10" conspicuousness="-1" item_id="41bdd901-3106-cae3-ac2b-479ef7642a9a" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="12" conspicuousness="0.22" item_id="41be015c-6d05-d058-f5d8-62c17ac8c3a2" rpg_buff_weight="0" social_class_id="1" visibility="0.44" wealth_level="0" />
       <row charisma="5" conspicuousness="0.1" item_id="41c031a0-b9f5-4d3f-3968-7f453be343b5" rpg_buff_weight="0" social_class_id="33" visibility="0.28" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="41c05047-74e5-f23d-1fe8-b0a8db360087" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="0" conspicuousness="-1" item_id="41c13ac4-ee03-073c-3a31-3f04a97e6abd" rpg_buff_weight="" social_class_id="1" visibility="-1" wealth_level="0" />
       <row charisma="11" conspicuousness="0.27" item_id="41c44a2b-9d1c-4c64-f07a-bba3f7288ba0" rpg_buff_weight="0" social_class_id="0" visibility="0.38" wealth_level="0" />
       <row charisma="4" conspicuousness="0.1" item_id="41c75f0e-a8a1-e4f0-07be-67ebce8b7bab" rpg_buff_weight="0" social_class_id="3" visibility="0.32" wealth_level="0" />
@@ -180,14 +164,12 @@
       <row charisma="13" conspicuousness="0.34" item_id="41e550e4-12df-49f0-3b05-74959224a8a5" rpg_buff_weight="0" social_class_id="33" visibility="0.14" wealth_level="0" />
       <row charisma="12" conspicuousness="0.35" item_id="41e70a43-df7c-9acc-afe6-42dc972ee891" rpg_buff_weight="0" social_class_id="0" visibility="0.44" wealth_level="0" />
       <row charisma="10" conspicuousness="-1" item_id="41e9f784-dd0d-9329-b0e9-88d0527a2ebc" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="41f6e46c-bca6-16da-169a-f0c8f1a6e2ab" rpg_buff_weight="1" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="5" conspicuousness="-0.01" item_id="41fe34ab-46ea-6c34-da68-f1e66f46fb89" rpg_buff_weight="0" social_class_id="33" visibility="0.02" wealth_level="0" />
       <row charisma="18" conspicuousness="0.75" item_id="4206570b-ab9b-a407-e693-29b90e475d81" rpg_buff_weight="0" social_class_id="1" visibility="0.68" wealth_level="0" />
       <row charisma="0" conspicuousness="-1" item_id="42076ef6-c07e-c43f-b9a1-56bc290a95a0" rpg_buff_weight="" social_class_id="1" visibility="-1" wealth_level="0" />
       <row charisma="7" conspicuousness="0.03" item_id="420ee3b3-d9a6-583a-23f4-ec1399a1eea3" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="3" conspicuousness="0.31" item_id="420f7feb-dc22-a2ec-b2a6-e1178f8c8386" rpg_buff_weight="0" social_class_id="3" visibility="0.28" wealth_level="0" />
       <row charisma="15" conspicuousness="0.33" item_id="421f173c-99b2-f030-cedd-0ba2a25270ac" rpg_buff_weight="0" social_class_id="33" visibility="0.56" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="421ff758-4be3-cc11-1946-39ceb56aecb1" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="15" conspicuousness="0.46" item_id="4222ca69-3a10-91c1-91ff-26f36122b8a2" rpg_buff_weight="0" social_class_id="33" visibility="0.5" wealth_level="0" />
       <row charisma="19" conspicuousness="0.48" item_id="422917fc-435a-f436-3245-a356367f8881" rpg_buff_weight="0" social_class_id="33" visibility="0.52" wealth_level="0" />
       <row charisma="3" conspicuousness="0.1" item_id="422c924d-eed3-9183-f47f-3b62e6b66ea1" rpg_buff_weight="0" social_class_id="33" visibility="0.22" wealth_level="0" />
@@ -209,13 +191,11 @@
       <row charisma="3" conspicuousness="0.1" item_id="42960eae-d460-e350-5a80-e1689724269d" rpg_buff_weight="0" social_class_id="33" visibility="0.22" wealth_level="0" />
       <row charisma="12" conspicuousness="-0.45" item_id="429628f5-b491-51fe-d644-654f6fc13fbe" rpg_buff_weight="0" social_class_id="3" visibility="-0.3" wealth_level="0" />
       <row charisma="13" conspicuousness="0.1" item_id="429b05ff-5eec-37ac-e8c0-5e5a51feb99c" rpg_buff_weight="0" social_class_id="33" visibility="0.36" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="42a14b38-295a-a659-3e43-c1684a5dfa88" rpg_buff_weight="0.55" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="8" conspicuousness="0.26" item_id="42a18a5a-b2d0-07eb-14c7-ed9f665ca695" rpg_buff_weight="0" social_class_id="33" visibility="0.3" wealth_level="0" />
       <row charisma="9" conspicuousness="-0.4" item_id="42a467aa-a1d6-fe8d-31e2-a3fcda5a1f98" rpg_buff_weight="0" social_class_id="0" visibility="-0.5" wealth_level="0" />
       <row charisma="10" conspicuousness="-1" item_id="42a8fd44-fca0-79b6-e17e-461d966100a1" rpg_buff_weight="" social_class_id="3" visibility="0" wealth_level="0" />
       <row charisma="12" conspicuousness="0.01" item_id="42ab514e-a69d-e4b9-606d-3f46e0e6d0ad" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="4" conspicuousness="-0.23" item_id="42afd2cb-91ec-ad09-c39d-57d198dde4a4" rpg_buff_weight="0" social_class_id="1" visibility="0" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="42b152d3-d3f4-b390-088e-3127534281aa" rpg_buff_weight="0.25" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="19" conspicuousness="0.37" item_id="42bb0602-e6bc-5edd-b91c-ebc319568bad" rpg_buff_weight="0" social_class_id="0" visibility="0.28" wealth_level="0" />
       <row charisma="20" conspicuousness="1" item_id="42c04555-15cb-ac3a-aef4-e377a125aca5" rpg_buff_weight="0" social_class_id="1" visibility="1" wealth_level="0" />
       <row charisma="10" conspicuousness="0.39" item_id="42c0a17c-123a-6416-8620-56fcf1a5199c" rpg_buff_weight="0" social_class_id="33" visibility="0.3" wealth_level="0" />
@@ -223,7 +203,6 @@
       <row charisma="2" conspicuousness="0.47" item_id="42d6c8cd-d109-5bd2-0cbf-62f6dae942b9" rpg_buff_weight="0" social_class_id="1" visibility="0.64" wealth_level="0" />
       <row charisma="0" conspicuousness="-0.74" item_id="42de552f-eaac-ee43-5e36-129615d2b4ab" rpg_buff_weight="0" social_class_id="1" visibility="-0.74" wealth_level="0" />
       <row charisma="7" conspicuousness="0.24" item_id="42e146c8-f2d1-1db1-c44c-7482b0f307b2" rpg_buff_weight="0" social_class_id="3" visibility="0.46" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="42e8c6bf-a457-4ad9-48c8-445fea1507ae" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="9" conspicuousness="-0.21" item_id="42ed0221-fee6-22c1-a86a-70126610fa84" rpg_buff_weight="0" social_class_id="33" visibility="0" wealth_level="0" />
       <row charisma="18" conspicuousness="0.52" item_id="42ed6b9c-19c5-0b8c-5feb-bfe0d7001997" rpg_buff_weight="0" social_class_id="33" visibility="0.46" wealth_level="0" />
       <row charisma="2" conspicuousness="0" item_id="42f20475-2329-4771-8b12-0cad34574bc8" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
@@ -232,7 +211,6 @@
       <row charisma="9" conspicuousness="0.26" item_id="42fc11fb-bf16-152b-c94b-6493adf24686" rpg_buff_weight="0" social_class_id="33" visibility="0.3" wealth_level="0" />
       <row charisma="8" conspicuousness="-0.07" item_id="42ff5615-e472-bfb0-27e9-6ba3962eca9f" rpg_buff_weight="0" social_class_id="0" visibility="0.1" wealth_level="0" />
       <row charisma="11" conspicuousness="0.12" item_id="43043f1f-64ad-95cb-f55c-fd7d624ba294" rpg_buff_weight="0" social_class_id="33" visibility="0.28" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="43062de7-afe1-5743-5aec-d4dcff83c1b8" rpg_buff_weight="0.75" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="11" conspicuousness="0.19" item_id="430f6156-27f7-b985-9b1d-18c495273cbd" rpg_buff_weight="0" social_class_id="33" visibility="0.24" wealth_level="0" />
       <row charisma="17" conspicuousness="-0.08" item_id="4314de6e-9f05-d843-18d8-2de11aa07798" rpg_buff_weight="0" social_class_id="3" visibility="-0.2" wealth_level="0" />
       <row charisma="10" conspicuousness="0" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
@@ -251,7 +229,6 @@
       <row charisma="8" conspicuousness="-0.09" item_id="434e3f99-d8f6-bf7b-3e26-43d95b91f693" rpg_buff_weight="0" social_class_id="33" visibility="0.12" wealth_level="0" />
       <row charisma="6" conspicuousness="0.03" item_id="434f28e3-25e8-8bef-ee5b-1b331d106e99" rpg_buff_weight="0" social_class_id="0" visibility="0.18" wealth_level="0" />
       <row charisma="13" conspicuousness="0.31" item_id="4350ad68-f244-477a-f4af-f8e0019041ad" rpg_buff_weight="0" social_class_id="33" visibility="0.3" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4353f1e8-e0c6-30a6-c5e8-5b76a22093a0" rpg_buff_weight="0.5" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="13" conspicuousness="0.27" item_id="43631624-d640-42c8-be81-0a236b8ed094" rpg_buff_weight="0" social_class_id="33" visibility="0.24" wealth_level="0" />
       <row charisma="8" conspicuousness="0.28" item_id="436b6b1d-1471-da5f-ad03-f64bafbd8bb6" rpg_buff_weight="0" social_class_id="33" visibility="0.56" wealth_level="0" />
       <row charisma="17" conspicuousness="-0.11" item_id="4373f01b-b49e-5a74-31f1-6302dcda5d8f" rpg_buff_weight="0" social_class_id="0" visibility="-0.16" wealth_level="0" />
@@ -262,7 +239,6 @@
       <row charisma="10" conspicuousness="-0.32" item_id="439e49c5-e468-57c2-d44c-9ac6066f14b6" rpg_buff_weight="0" social_class_id="1" visibility="0.04" wealth_level="0" />
       <row charisma="16" conspicuousness="0.2" item_id="43a7cb95-710e-b5f4-35be-43f1a281a692" rpg_buff_weight="0" social_class_id="0" visibility="0.3" wealth_level="0" />
       <row charisma="3" conspicuousness="0.38" item_id="43c6062f-7a46-aa6a-ce45-9f8b90adb7a9" rpg_buff_weight="0" social_class_id="33" visibility="0.4" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="43c85848-0181-06b6-a870-2b3c951e8aa8" rpg_buff_weight="0.3" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="6" conspicuousness="-0.05" item_id="43dc25b5-3962-a772-7eeb-dd7820574395" rpg_buff_weight="0" social_class_id="1" visibility="0.1" wealth_level="0" />
       <row charisma="3" conspicuousness="-0.11" item_id="43dd7f89-93d5-801a-7dc6-824c367284b4" rpg_buff_weight="0" social_class_id="1" visibility="-0.02" wealth_level="0" />
       <row charisma="4" conspicuousness="0.24" item_id="43f19e40-1107-38aa-a226-5d6179e9b4a3" rpg_buff_weight="0" social_class_id="33" visibility="0.32" wealth_level="0" />
@@ -347,7 +323,6 @@
       <row charisma="11" conspicuousness="0.03" item_id="45e17389-6776-749b-838a-cd7229935fbb" rpg_buff_weight="0" social_class_id="0" visibility="0.12" wealth_level="0" />
       <row charisma="17" conspicuousness="0.24" item_id="45e28f40-6882-6a01-e281-25733f761f9f" rpg_buff_weight="0" social_class_id="0" visibility="0.26" wealth_level="0" />
       <row charisma="11" conspicuousness="0.03" item_id="45e290d0-92ed-2895-c1bb-7115baf54992" rpg_buff_weight="0" social_class_id="0" visibility="0.12" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="45e2b460-dbd4-4bf4-3643-33c2648d60bc" rpg_buff_weight="0.15" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="15" conspicuousness="0.29" item_id="45e3d8ac-5d54-0a39-8ec4-a321fc136991" rpg_buff_weight="0" social_class_id="0" visibility="0.16" wealth_level="0" />
       <row charisma="12" conspicuousness="0.41" item_id="45edc80c-1b34-a0f5-001c-a08a1fe632a6" rpg_buff_weight="0" social_class_id="33" visibility="0.44" wealth_level="0" />
       <row charisma="8" conspicuousness="-0.24" item_id="45ee23f0-9bbf-c895-f490-906644ac08b3" rpg_buff_weight="0" social_class_id="1" visibility="-0.08" wealth_level="0" />
@@ -375,16 +350,13 @@
       <row charisma="11" conspicuousness="0.06" item_id="465d76a9-1d09-8b19-8b7e-20a57e7e5495" rpg_buff_weight="0" social_class_id="33" visibility="0.26" wealth_level="0" />
       <row charisma="7" conspicuousness="0.43" item_id="4662e866-6a82-eb4b-ed98-26213ca118a8" rpg_buff_weight="0" social_class_id="1" visibility="0.42" wealth_level="0" />
       <row charisma="5" conspicuousness="0.07" item_id="46662768-5a8b-06ca-1352-d02f56fed083" rpg_buff_weight="0" social_class_id="33" visibility="0.26" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="466c49e3-6cbc-e962-2571-c44183da449d" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="1" conspicuousness="-0.02" item_id="46798a36-0e40-4822-ec6e-bf682955b0b4" rpg_buff_weight="0" social_class_id="33" visibility="0.08" wealth_level="0" />
       <row charisma="15" conspicuousness="0.29" item_id="4682ef21-53b0-55af-1017-588fe6af429e" rpg_buff_weight="0" social_class_id="0" visibility="0.16" wealth_level="0" />
       <row charisma="9" conspicuousness="0.18" item_id="468323ad-f0f0-bad7-c80b-6ae432977d91" rpg_buff_weight="0" social_class_id="33" visibility="0.32" wealth_level="0" />
       <row charisma="14" conspicuousness="0.28" item_id="46857626-d7c9-985d-4acc-a6ad9a79afa2" rpg_buff_weight="0" social_class_id="0" visibility="0.26" wealth_level="0" />
       <row charisma="8" conspicuousness="-0.09" item_id="46898847-2ffc-dcda-890e-8027524c2f91" rpg_buff_weight="0" social_class_id="33" visibility="0.12" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="468a36a5-1aa9-e1c8-1d01-2c778ef84ea9" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="13" conspicuousness="0.32" item_id="468bca8d-888c-8705-3828-75a80686c192" rpg_buff_weight="0" social_class_id="0" visibility="0.32" wealth_level="0" />
       <row charisma="3" conspicuousness="0.41" item_id="468cddc5-668b-9b8c-46b5-4b53c828f4ad" rpg_buff_weight="0" social_class_id="33" visibility="0.58" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4692f1e5-e4bc-c8af-1b0b-1da823ec1db9" rpg_buff_weight="0.2" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="7" conspicuousness="0.15" item_id="469b7b94-1191-fc54-f679-318a734b43be" rpg_buff_weight="0" social_class_id="3" visibility="0.24" wealth_level="0" />
       <row charisma="18" conspicuousness="0.45" item_id="46a124e4-481c-5880-d187-573c1d8a57b9" rpg_buff_weight="0" social_class_id="3" visibility="0.28" wealth_level="0" />
       <row charisma="15" conspicuousness="0.38" item_id="46a58b43-9c1c-5f0e-32a7-5655b44470b9" rpg_buff_weight="0" social_class_id="3" visibility="0.4" wealth_level="0" />
@@ -394,23 +366,19 @@
       <row charisma="8" conspicuousness="-0.09" item_id="46b1fa29-8a71-e06d-c1f0-499fc1ad86b9" rpg_buff_weight="0" social_class_id="33" visibility="0.12" wealth_level="0" />
       <row charisma="3" conspicuousness="0.4" item_id="46cf7471-dccd-7e3a-18e8-e4a2e05d7ea5" rpg_buff_weight="0" social_class_id="1" visibility="0.54" wealth_level="0" />
       <row charisma="8" conspicuousness="0.1" item_id="46eb884b-a0ed-7da8-4d4f-0a18284dc9bc" rpg_buff_weight="0" social_class_id="33" visibility="0.22" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="46ee8c8f-2c9a-3002-a31e-8623e2da529d" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="17" conspicuousness="0.75" item_id="46f0f01a-ec0e-82af-8947-fc15bcf1df82" rpg_buff_weight="0" social_class_id="1" visibility="0.68" wealth_level="0" />
       <row charisma="2" conspicuousness="-0.32" item_id="46f4ab47-ff0a-a617-7b7b-b3203a7ed7a5" rpg_buff_weight="0" social_class_id="1" visibility="0" wealth_level="0" />
       <row charisma="7" conspicuousness="0.37" item_id="46f60a88-47c9-9fa9-e55b-58553a841592" rpg_buff_weight="0" social_class_id="1" visibility="0.4" wealth_level="0" />
       <row charisma="1" conspicuousness="-0.32" item_id="470014a7-9032-6f6c-e448-b0f15bb03e81" rpg_buff_weight="0" social_class_id="1" visibility="0.04" wealth_level="0" />
       <row charisma="4" conspicuousness="-0.11" item_id="4700eb58-fa98-fb17-dcd2-34d12cd4febf" rpg_buff_weight="0" social_class_id="33" visibility="-0.02" wealth_level="0" />
       <row charisma="14" conspicuousness="0.01" item_id="4706bb3a-d722-2c20-a6e1-b4d4b6bbc18c" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="470d9803-e4cb-c9ae-da72-3466cf117cbb" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="7" conspicuousness="0.09" item_id="4715c753-bafa-df3e-d3a6-c3fcd5d76f8c" rpg_buff_weight="0" social_class_id="3" visibility="0.26" wealth_level="0" />
       <row charisma="2" conspicuousness="0.46" item_id="47253d38-5e4b-4c0a-225d-09c3c826e2ae" rpg_buff_weight="0" social_class_id="33" visibility="0.58" wealth_level="0" />
       <row charisma="16" conspicuousness="0.4" item_id="47267303-7658-40a7-b39c-57aa8093c176" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="2" conspicuousness="-0.44" item_id="4727da17-f74e-f71e-ec1b-c43fe01c9e96" rpg_buff_weight="0" social_class_id="1" visibility="-0.36" wealth_level="0" />
       <row charisma="12" conspicuousness="-0.81" item_id="473110cf-b888-a84b-7c65-e5b1beab47ac" rpg_buff_weight="0" social_class_id="3" visibility="-0.82" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="473709c6-2b26-5d05-57cf-50e4d6fceaa7" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="10" conspicuousness="0.57" item_id="4740da1a-d317-4248-0e00-9df6cd843ba5" rpg_buff_weight="0" social_class_id="0" visibility="0.36" wealth_level="0" />
       <row charisma="11" conspicuousness="-0.1" item_id="474aee53-2ae2-8127-4ea5-8dc971279596" rpg_buff_weight="0" social_class_id="3" visibility="0.1" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="475642da-17e6-c06e-b035-2b1ab31cbb8f" rpg_buff_weight="0.1" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="15" conspicuousness="0.5" item_id="475a8c7a-1162-6641-efe5-b8a401e72c8f" rpg_buff_weight="0" social_class_id="33" visibility="0.44" wealth_level="0" />
       <row charisma="9" conspicuousness="-0.26" item_id="475aeca0-ddcb-ca9e-069d-e33b01b6edb8" rpg_buff_weight="0" social_class_id="0" visibility="-0.22" wealth_level="0" />
       <row charisma="2" conspicuousness="-0.92" item_id="4765b22e-ac12-f985-ebfe-19f9c7e37481" rpg_buff_weight="0" social_class_id="1" visibility="-0.92" wealth_level="0" />
@@ -426,13 +394,11 @@
       <row charisma="7" conspicuousness="0.43" item_id="47aedf46-0047-053a-28f0-03e51a9f0baf" rpg_buff_weight="0" social_class_id="3" visibility="0.46" wealth_level="0" />
       <row charisma="3" conspicuousness="0.1" item_id="47af49ef-bdd7-2e07-2fc8-d53b6b4faea9" rpg_buff_weight="0" social_class_id="33" visibility="0.22" wealth_level="0" />
       <row charisma="16" conspicuousness="0.33" item_id="47b8a5a6-0912-c070-49b9-d126e8c55bbd" rpg_buff_weight="0" social_class_id="33" visibility="0.22" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="47c3342a-3be4-8fe6-696e-436555714b8f" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="8" conspicuousness="0.03" item_id="47c7f6cf-2f8b-9591-3825-c805205e71ac" rpg_buff_weight="0" social_class_id="33" visibility="0.22" wealth_level="0" />
       <row charisma="12" conspicuousness="0.14" item_id="47d11f76-1007-00c0-1c63-cfb2b02b0c80" rpg_buff_weight="0" social_class_id="33" visibility="0.08" wealth_level="0" />
       <row charisma="0" conspicuousness="0" item_id="47e60a8f-e458-454c-861f-bd596c9d18df" rpg_buff_weight="" social_class_id="1" visibility="-1" wealth_level="0" />
       <row charisma="18" conspicuousness="0.67" item_id="47eea19c-bb27-891b-e2e4-47e76c601d94" rpg_buff_weight="0" social_class_id="0" visibility="0.38" wealth_level="0" />
       <row charisma="6" conspicuousness="0.43" item_id="47f14e4b-26fc-207e-e891-c84ea2c85797" rpg_buff_weight="0" social_class_id="1" visibility="0.58" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="47fd7eb2-de81-37fc-0ca2-772fd3c54baa" rpg_buff_weight="0.85" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="3" conspicuousness="0.38" item_id="480650af-dda4-1ccc-d597-e13000639f9c" rpg_buff_weight="0" social_class_id="33" visibility="0.54" wealth_level="0" />
       <row charisma="7" conspicuousness="0.31" item_id="480b95cf-9c92-3b6f-df51-1e9a84701f8b" rpg_buff_weight="0" social_class_id="33" visibility="0.36" wealth_level="0" />
       <row charisma="1" conspicuousness="0.43" item_id="48146a0b-3476-c43f-63a0-5d9bf1ec1985" rpg_buff_weight="0" social_class_id="1" visibility="0.54" wealth_level="0" />
@@ -443,15 +409,12 @@
       <row charisma="6" conspicuousness="0.55" item_id="4824d5d0-8f58-c48e-5e80-34a1ce9795a6" rpg_buff_weight="0" social_class_id="1" visibility="0.7" wealth_level="0" />
       <row charisma="9" conspicuousness="0.18" item_id="482c587f-5fe2-fbe2-a72d-b85d7f0a2393" rpg_buff_weight="0" social_class_id="33" visibility="0.32" wealth_level="0" />
       <row charisma="10" conspicuousness="-0.53" item_id="4838434b-91d7-20b6-da95-33227d5fc6b4" rpg_buff_weight="0" social_class_id="0" visibility="-0.48" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4838fa1c-da32-9c55-b20b-d4b17b70ecac" rpg_buff_weight="0.35" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="7" conspicuousness="0.55" item_id="48399982-a538-e6c9-78c0-2cf1df976cad" rpg_buff_weight="0" social_class_id="1" visibility="0.66" wealth_level="0" />
       <row charisma="17" conspicuousness="0.24" item_id="4841e3ab-ec02-2953-6d7a-931f132459b5" rpg_buff_weight="0" social_class_id="0" visibility="0.12" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4849903a-5dd2-e0b8-bfd0-2e599509c68e" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="18" conspicuousness="0.37" item_id="4854fc59-9c4a-c3b4-21d3-f7f21bb97a85" rpg_buff_weight="0" social_class_id="3" visibility="0.2" wealth_level="0" />
       <row charisma="8" conspicuousness="-0.35" item_id="485e549c-73c9-6caa-2d62-f03de0c20e91" rpg_buff_weight="0" social_class_id="0" visibility="-0.58" wealth_level="0" />
       <row charisma="3" conspicuousness="-0.08" item_id="48641946-e22a-7925-8120-9f8825df12ac" rpg_buff_weight="0" social_class_id="1" visibility="0.1" wealth_level="0" />
       <row charisma="13" conspicuousness="-0.44" item_id="4865e91b-5644-2109-a0b2-539793a6fca6" rpg_buff_weight="0" social_class_id="3" visibility="-0.48" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4866cba5-da9f-00b9-bed9-2d135eb760ba" rpg_buff_weight="0.8" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="3" conspicuousness="0.37" item_id="486c1cda-e1ec-5d01-b1f1-1540d0863c9e" rpg_buff_weight="0" social_class_id="3" visibility="0.4" wealth_level="0" />
       <row charisma="3" conspicuousness="0.41" item_id="486d7cf9-9e4e-d88e-40da-bae153f2a3b5" rpg_buff_weight="0" social_class_id="33" visibility="0.62" wealth_level="0" />
       <row charisma="14" conspicuousness="0.31" item_id="486dd691-8359-fa6b-65bb-3d90424232bf" rpg_buff_weight="0" social_class_id="3" visibility="0.3" wealth_level="0" />
@@ -463,7 +426,6 @@
       <row charisma="8" conspicuousness="-0.04" item_id="4893589c-cdd8-887e-3e00-c1f53fab648c" rpg_buff_weight="0" social_class_id="0" visibility="0.08" wealth_level="0" />
       <row charisma="12" conspicuousness="-0.39" item_id="4897be0e-7054-cc15-f8a5-bc05bde0b6bd" rpg_buff_weight="0" social_class_id="1" visibility="-0.52" wealth_level="0" />
       <row charisma="9" conspicuousness="-0.09" item_id="4897feb7-a12e-ad0e-a93c-2699798d1ba7" rpg_buff_weight="0" social_class_id="33" visibility="0.12" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="48a1ea8c-c52a-9b35-fda6-8df247fc18a2" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="4" conspicuousness="1" item_id="48a3e071-1a87-a5c1-9291-568fdea21e8c" rpg_buff_weight="" social_class_id="33" visibility="-1" wealth_level="0" />
       <row charisma="20" conspicuousness="0.83" item_id="48a827cd-c6ea-4976-9561-327a122326b7" rpg_buff_weight="0" social_class_id="33" visibility="0.76" wealth_level="0" />
       <row charisma="6" conspicuousness="0.25" item_id="48aa8949-fd2a-39af-8a69-0d81290f42ae" rpg_buff_weight="0" social_class_id="33" visibility="0.34" wealth_level="0" />
@@ -512,7 +474,6 @@
       <row charisma="7" conspicuousness="-0.21" item_id="49a8b0d2-da70-7c04-b705-0fc7de26d881" rpg_buff_weight="0" social_class_id="1" visibility="-0.06" wealth_level="0" />
       <row charisma="3" conspicuousness="-0.21" item_id="49b1cf4e-d874-d9a6-25fd-b6e4fffc7680" rpg_buff_weight="0" social_class_id="1" visibility="-0.22" wealth_level="0" />
       <row charisma="1" conspicuousness="-0.62" item_id="49b4595d-298a-df15-0418-8a2633db7487" rpg_buff_weight="0" social_class_id="1" visibility="-0.58" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="49b83945-99a1-50ba-9107-c3d9846875b1" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="6" conspicuousness="-0.05" item_id="49bccc9b-8290-8958-5df2-471f9db9b784" rpg_buff_weight="0" social_class_id="33" visibility="0.26" wealth_level="0" />
       <row charisma="14" conspicuousness="0.15" item_id="49bf5eba-9762-38cb-162d-98248b894298" rpg_buff_weight="0" social_class_id="0" visibility="0.1" wealth_level="0" />
       <row charisma="17" conspicuousness="0.53" item_id="49ca1a1b-be96-f994-be7f-2adaa73d37b8" rpg_buff_weight="0" social_class_id="33" visibility="0.48" wealth_level="0" />
@@ -536,7 +497,6 @@
       <row charisma="1" conspicuousness="0.04" item_id="4a2e6701-7c43-b97a-0823-6e22ea1d8fb3" rpg_buff_weight="0" social_class_id="33" visibility="0.12" wealth_level="0" />
       <row charisma="3" conspicuousness="-0.5" item_id="4a30758f-c3f2-cf3c-84d0-4ba26c4d849c" rpg_buff_weight="0" social_class_id="1" visibility="-0.44" wealth_level="0" />
       <row charisma="13" conspicuousness="0.4" item_id="4a3446fa-4f4f-1792-3f20-2977b531aea8" rpg_buff_weight="0" social_class_id="33" visibility="0.44" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4a346515-2839-801d-3172-826486b9ee9d" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="14" conspicuousness="0.17" item_id="4a38d9e5-7092-4d00-f5e4-47533bb94dbc" rpg_buff_weight="0" social_class_id="3" visibility="0.34" wealth_level="0" />
       <row charisma="4" conspicuousness="0.43" item_id="4a3d8ffa-9a65-9e4c-ab86-c07a2898e699" rpg_buff_weight="0" social_class_id="1" visibility="0.5" wealth_level="0" />
       <row charisma="17" conspicuousness="0.77" item_id="4a444ba6-19ca-c4d4-114b-b922f88148b3" rpg_buff_weight="0" social_class_id="0" visibility="0.6" wealth_level="0" />
@@ -578,14 +538,12 @@
       <row charisma="13" conspicuousness="0.16" item_id="4afcfba0-8899-4509-b099-c30f58e100b8" rpg_buff_weight="0" social_class_id="33" visibility="0.28" wealth_level="0" />
       <row charisma="13" conspicuousness="-0.33" item_id="4b0bdc51-a989-db25-bccb-9fe09655a8b0" rpg_buff_weight="0" social_class_id="33" visibility="-0.2" wealth_level="0" />
       <row charisma="5" conspicuousness="0.01" item_id="4b0e9c04-57c7-cd6a-b916-97984fa73098" rpg_buff_weight="0" social_class_id="33" visibility="0.14" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4b1d6789-532c-97dd-48e0-51f2d0bd5db9" rpg_buff_weight="0.45" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="1" conspicuousness="0.04" item_id="4b1ddc3c-954f-da6d-4947-81621d77119e" rpg_buff_weight="0" social_class_id="33" visibility="0.24" wealth_level="0" />
       <row charisma="6" conspicuousness="0.03" item_id="4b31fbf6-01d3-fb06-a1d9-f284ab277ca0" rpg_buff_weight="0" social_class_id="0" visibility="0.18" wealth_level="0" />
       <row charisma="6" conspicuousness="0.22" item_id="4b3dae7a-eb8a-c312-3afe-b5e0db85d7b2" rpg_buff_weight="0" social_class_id="33" visibility="0.16" wealth_level="0" />
       <row charisma="4" conspicuousness="0.43" item_id="4b46c1f6-e72f-f6dd-e98c-491a6702c3b3" rpg_buff_weight="0" social_class_id="3" visibility="0.5" wealth_level="0" />
       <row charisma="0" conspicuousness="-0.4" item_id="4b509412-cf66-497f-7dc2-845e149d99bf" rpg_buff_weight="0" social_class_id="1" visibility="-0.4" wealth_level="0" />
       <row charisma="11" conspicuousness="0.61" item_id="4b50992e-c69e-37da-366e-dc0c804536ac" rpg_buff_weight="0" social_class_id="33" visibility="0.6" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4b609a17-9266-0e3e-75dc-d4d709533dba" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="15" conspicuousness="0.15" item_id="4b67ffb3-2b21-81bd-768b-57f9cecffcaa" rpg_buff_weight="0" social_class_id="1" visibility="0.18" wealth_level="0" />
       <row charisma="10" conspicuousness="0" item_id="4b6b9d8f-6b39-42da-90df-63d8d5adc68e" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="8" conspicuousness="0.34" item_id="4b808fa2-b621-57b3-e973-b695ce96e9b2" rpg_buff_weight="0" social_class_id="33" visibility="0.56" wealth_level="0" />
@@ -598,7 +556,6 @@
       <row charisma="10" conspicuousness="-0.32" item_id="4bade180-e6ba-1c8a-5c43-b980a22434b3" rpg_buff_weight="0" social_class_id="1" visibility="0.04" wealth_level="0" />
       <row charisma="2" conspicuousness="-0.32" item_id="4bb8c21f-fe2d-92f5-cf1f-7d2c809fb580" rpg_buff_weight="0" social_class_id="1" visibility="0" wealth_level="0" />
       <row charisma="10" conspicuousness="-1" item_id="4bba347a-dc31-4836-7995-3837dbbc3187" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4bc6e580-eb02-3c7e-1e5c-899767f21cbd" rpg_buff_weight="0.55" social_class_id="0" visibility="0.2" wealth_level="0" />
       <row charisma="7" conspicuousness="-0.03" item_id="4bc9a38b-a310-3ca7-cfa5-6eed1259ad86" rpg_buff_weight="0" social_class_id="33" visibility="0.18" wealth_level="0" />
       <row charisma="18" conspicuousness="0.45" item_id="4bcb4913-408e-a9bc-ead2-b294248a5e90" rpg_buff_weight="0" social_class_id="3" visibility="0.28" wealth_level="0" />
       <row charisma="8" conspicuousness="0.26" item_id="4bcba582-c984-44d9-225f-2895c7b912b3" rpg_buff_weight="0" social_class_id="33" visibility="0.3" wealth_level="0" />
@@ -645,7 +602,6 @@
       <row charisma="0" conspicuousness="-1" item_id="4cac53f7-2971-4b94-577a-a4b310a7c4a8" rpg_buff_weight="" social_class_id="1" visibility="-1" wealth_level="0" />
       <row charisma="0" conspicuousness="-1" item_id="4cb04f94-b9e2-3ffc-83bb-229c917e5194" rpg_buff_weight="" social_class_id="1" visibility="-1" wealth_level="0" />
       <row charisma="16" conspicuousness="0.3" item_id="4cbcab6e-332c-535c-e8ed-860581ced9ad" rpg_buff_weight="0" social_class_id="33" visibility="0.3" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4cc06ca7-46bf-609c-93de-3ce43481a28c" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="8" conspicuousness="-0.04" item_id="4cc0f5a0-1531-68a2-ff52-4d9234617db7" rpg_buff_weight="0" social_class_id="33" visibility="0.04" wealth_level="0" />
       <row charisma="13" conspicuousness="-0.48" item_id="4cc65a8a-3d0b-4a3b-bc3a-763027c4329c" rpg_buff_weight="0" social_class_id="3" visibility="-0.48" wealth_level="0" />
       <row charisma="4" conspicuousness="0.24" item_id="4cca04da-9b0a-3f16-b904-ecdf7c74a7b9" rpg_buff_weight="0" social_class_id="33" visibility="0.42" wealth_level="0" />
@@ -716,10 +672,8 @@
       <row charisma="3" conspicuousness="0.12" item_id="4e594114-e45f-24c4-73b8-be718de35eb3" rpg_buff_weight="0" social_class_id="33" visibility="0.2" wealth_level="0" />
       <row charisma="5" conspicuousness="-0.15" item_id="4e6ec506-03c3-d8fd-e1ec-f6882ea314b4" rpg_buff_weight="0" social_class_id="1" visibility="0.04" wealth_level="0" />
       <row charisma="7" conspicuousness="0.03" item_id="4e758a4d-1182-56e1-190f-658c91a45986" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4e75a619-e574-65af-b95f-6648c6db6295" rpg_buff_weight="0.4" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="16" conspicuousness="0.27" item_id="4e760438-c3b5-7acd-6329-55e19c4e8896" rpg_buff_weight="0" social_class_id="3" visibility="0.3" wealth_level="0" />
       <row charisma="10" conspicuousness="0.55" item_id="4e86424c-a3db-64e9-e7f9-c8108f1686a2" rpg_buff_weight="0" social_class_id="33" visibility="0.6" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4e874d43-cf70-1d41-7510-296b8e2c839d" rpg_buff_weight="0.95" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="5" conspicuousness="0.54" item_id="4e8bfdae-a38a-fae5-1177-b513733f1c90" rpg_buff_weight="0" social_class_id="33" visibility="0.44" wealth_level="0" />
       <row charisma="13" conspicuousness="0.53" item_id="4e969bae-648a-194c-5d9d-3e52a0225597" rpg_buff_weight="0" social_class_id="33" visibility="0.52" wealth_level="0" />
       <row charisma="6" conspicuousness="0.11" item_id="4e992c69-fcd2-57a1-5be3-5c2e03fcc0ba" rpg_buff_weight="0" social_class_id="33" visibility="0.2" wealth_level="0" />
@@ -749,7 +703,6 @@
       <row charisma="13" conspicuousness="0.17" item_id="4f24ba2e-3b5d-9e11-a55f-1861ef8b1098" rpg_buff_weight="0" social_class_id="33" visibility="0.26" wealth_level="0" />
       <row charisma="4" conspicuousness="0.29" item_id="4f2d2511-7ee5-4ec4-9fe9-79b76d83378a" rpg_buff_weight="0" social_class_id="33" visibility="0.32" wealth_level="0" />
       <row charisma="10" conspicuousness="0.61" item_id="4f36ba66-e139-fca3-42d5-b5d8bcaf91b9" rpg_buff_weight="0" social_class_id="33" visibility="0.6" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4f3d678e-553c-f810-86fe-5534db2e1ea9" rpg_buff_weight="0" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="1" conspicuousness="0.1" item_id="4f41911f-6b7a-6dc6-83fc-948c3d5d04b2" rpg_buff_weight="0" social_class_id="1" visibility="0.42" wealth_level="0" />
       <row charisma="0" conspicuousness="-0.5" item_id="4f4a20ad-4510-8df6-782a-e96c4aabd7b0" rpg_buff_weight="0" social_class_id="3" visibility="-0.56" wealth_level="0" />
       <row charisma="16" conspicuousness="-0.31" item_id="4f4b2cdc-1690-4e32-bba8-00eff2f14f0c" rpg_buff_weight="0" social_class_id="0" visibility="-0.48" wealth_level="0" />
@@ -759,7 +712,6 @@
       <row charisma="15" conspicuousness="0.5" item_id="4f56d88a-c1d6-6213-36c8-b44bb552b782" rpg_buff_weight="0" social_class_id="33" visibility="0.52" wealth_level="0" />
       <row charisma="4" conspicuousness="0.16" item_id="4f71cd89-9889-1498-ca5a-b8699c4afbaa" rpg_buff_weight="0" social_class_id="3" visibility="0.1" wealth_level="0" />
       <row charisma="4" conspicuousness="0.26" item_id="4f7541b9-7854-2e70-27e0-89029dda2782" rpg_buff_weight="0" social_class_id="33" visibility="0.26" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="4f7a8fa9-6701-df14-8a95-1166c9de20a3" rpg_buff_weight="0.6" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="8" conspicuousness="-0.24" item_id="4f8ccd8a-fa24-eac9-74e9-4c603ffed1ac" rpg_buff_weight="0" social_class_id="0" visibility="-0.24" wealth_level="0" />
       <row charisma="9" conspicuousness="0.33" item_id="4f8dc7eb-f1c4-f01a-dc3e-170d4288cd9d" rpg_buff_weight="0" social_class_id="33" visibility="0.54" wealth_level="0" />
       <row charisma="8" conspicuousness="0.1" item_id="4f953795-b11c-9a8a-c373-97c249e853ad" rpg_buff_weight="0" social_class_id="33" visibility="0.18" wealth_level="0" />
@@ -803,9 +755,7 @@
       <row charisma="5" conspicuousness="0" item_id="5ab5581a-be10-4520-9ab4-90c6985498d3" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="11" conspicuousness="0" item_id="5b7ed53e-3554-47c7-817b-b971a2d99713" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="13" conspicuousness="0" item_id="5bcd587a-4d97-4bad-a8b4-3248fc6d0cc6" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="11" conspicuousness="0.6" item_id="5c430200-dd37-408b-9b41-27684dac6d30" rpg_buff_weight="0.1" social_class_id="3" visibility="0.6" wealth_level="0" />
       <row charisma="10" conspicuousness="-1" item_id="5d3cdbd1-d972-4130-b861-aaf415678152" rpg_buff_weight="" social_class_id="33" visibility="0" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="5dc9c415-5b5a-4278-b507-053ae258f505" rpg_buff_weight="0.7" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="10" conspicuousness="0" item_id="5e079d0b-0909-45c8-9306-8ac579b7b407" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="9" conspicuousness="0" item_id="5e2ba1cd-4a42-407c-9261-8afdbc3e86b4" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="17" conspicuousness="0" item_id="60734204-5a17-47cc-8fa2-9e8dfdf4ed62" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
@@ -837,7 +787,6 @@
       <row charisma="11" conspicuousness="0" item_id="772c5d38-66b3-43f7-9757-5f10439aee97" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="6" conspicuousness="0" item_id="788c57a8-ae7a-43a7-8236-07fec193531c" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="5" conspicuousness="0" item_id="791ca878-59c2-455f-a3d1-c12bafa0e74f" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="79e78e2a-8c66-430d-aba4-040ffde5c66f" rpg_buff_weight="0.7" social_class_id="0" visibility="0.2" wealth_level="1" />
       <row charisma="16" conspicuousness="0.2" item_id="7bf71bcf-275a-4a01-ad3b-adb059b0bc80" rpg_buff_weight="0" social_class_id="1" visibility="0" wealth_level="0" />
       <row charisma="14" conspicuousness="0.2" item_id="7c1ee5f9-e089-4ee5-9f65-524976e86e7d" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="5" conspicuousness="1" item_id="7d102b4d-52ae-4abb-84ca-e976c2ccf8ef" rpg_buff_weight="" social_class_id="0" visibility="1" wealth_level="0" />
@@ -865,7 +814,6 @@
       <row charisma="15" conspicuousness="0" item_id="9d2561cc-892f-4527-94cc-4fa607102949" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="11" conspicuousness="0" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="2" conspicuousness="1" item_id="9e6badb0-3249-4e3c-9707-0092dc62572f" rpg_buff_weight="" social_class_id="6" visibility="1" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="9f30ca3f-65c0-42f4-be71-cb8f4cc2af7f" rpg_buff_weight="1" social_class_id="0" visibility="0.2" wealth_level="3" />
       <row charisma="16" conspicuousness="0" item_id="9f754566-7fb2-47e1-951b-22c27debb3c8" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="16" conspicuousness="0" item_id="9fb601d5-486c-4082-93cc-6356b0771b05" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="11" conspicuousness="0" item_id="a1ba1e1d-a9dd-4b31-b518-184070831576" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
@@ -874,14 +822,11 @@
       <row charisma="1" conspicuousness="1" item_id="a5b31bbc-1e11-4831-835b-c06d5b13a7da" rpg_buff_weight="" social_class_id="0" visibility="1" wealth_level="0" />
       <row charisma="12" conspicuousness="1" item_id="a7d5c50c-de7d-4982-969e-33fcbccb749a" rpg_buff_weight="" social_class_id="0" visibility="1" wealth_level="0" />
       <row charisma="9" conspicuousness="0" item_id="a8014877-ce10-4331-88ab-04173b6370ad" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="a9d80dd4-2792-463a-9fcb-825677667e69" rpg_buff_weight="1" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="4" conspicuousness="0" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="11" conspicuousness="0.1" item_id="aac0794c-8fb7-41f5-ba6a-90c313c286b2" rpg_buff_weight="0" social_class_id="3" visibility="0" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="ac0f228d-b1dd-493d-909d-105b07192ec9" rpg_buff_weight="0.85" social_class_id="0" visibility="0.2" wealth_level="2" />
       <row charisma="12" conspicuousness="0" item_id="aca90050-0b70-4ca0-9d29-b94326203c75" rpg_buff_weight="" social_class_id="14" visibility="0" wealth_level="0" />
       <row charisma="5" conspicuousness="0" item_id="ad443031-370e-4a63-ba12-ee3fc4c338a8" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="1" conspicuousness="1" item_id="ad6f0f01-aec4-44d1-982c-1210eb01b74a" rpg_buff_weight="" social_class_id="0" visibility="1" wealth_level="0" />
-      <row charisma="20" conspicuousness="0.8" item_id="af6f2946-ce54-4e38-9b2b-5ab95d5c4777" rpg_buff_weight="1" social_class_id="14" visibility="0.6" wealth_level="0" />
       <row charisma="11" conspicuousness="0" item_id="af7fd872-0830-4e33-843e-5c015bbe9e73" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="8" conspicuousness="0" item_id="b063cb37-8f17-49b9-88f8-04111fc81838" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="5" conspicuousness="1" item_id="b11aeb90-5752-48a2-962e-af64fe618b4d" rpg_buff_weight="" social_class_id="0" visibility="1" wealth_level="0" />
@@ -914,7 +859,6 @@
       <row charisma="4" conspicuousness="1" item_id="c9f0b623-8cbe-4934-bd40-49aa8ff465a3" rpg_buff_weight="" social_class_id="33" visibility="1" wealth_level="0" />
       <row charisma="15" conspicuousness="0.15" item_id="ca92311e-6413-4c6b-b47a-963211f174e1" rpg_buff_weight="" social_class_id="1" visibility="0" wealth_level="0" />
       <row charisma="14" conspicuousness="0.2" item_id="cea13fef-025c-47bb-b148-9783b9951acc" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
-      <row charisma="0" conspicuousness="0.2" item_id="cf103890-cd29-4d20-80bc-63522602d6c5" rpg_buff_weight="0.2" social_class_id="1" visibility="0.2" wealth_level="0" />
       <row charisma="7" conspicuousness="0" item_id="cf58c28c-f2bd-41a0-9c6d-764767d144cf" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="11" conspicuousness="0" item_id="cf84a3f5-781a-4f1d-94b7-db8745a9682e" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
       <row charisma="8" conspicuousness="0" item_id="cfa7a763-493e-41a7-98e8-7bd54bba4649" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
@@ -984,6 +928,97 @@
 	  <!-- Parry Dagger -->
       <row charisma="5" conspicuousness="1" item_id="s1d3w4yz-d4rk-t1m3-1111-000000000002" rpg_buff_weight="" social_class_id="0" visibility="1" wealth_level="0" />
 
+	  <!-- Horse Gear -->
+
+	  <!-- Horse Shoes -->
+	  <!-- Farm Shoes -->
+      <row charisma="0" conspicuousness="0.2" item_id="cf103890-cd29-4d20-80bc-63522602d6c5" rpg_buff_weight="0.87" social_class_id="3" visibility="0.2" wealth_level="0" />
+	  <!-- Traveller Shoes -->
+      <row charisma="0" conspicuousness="0.25" item_id="00c214ca-d9cb-4d2a-b3e8-95545fd2f3e9" rpg_buff_weight="0.91" social_class_id="60" visibility="0.2" wealth_level="1" />
+	  <!-- Noble Shoes -->
+      <row charisma="0" conspicuousness="0.3" item_id="5dc9c415-5b5a-4278-b507-053ae258f505" rpg_buff_weight="0.96" social_class_id="14" visibility="0.2" wealth_level="3" />
+	  <!-- Military Shoes -->
+      <row charisma="0" conspicuousness="0.35" item_id="a9d80dd4-2792-463a-9fcb-825677667e69" rpg_buff_weight="1" social_class_id="33" visibility="0.2" wealth_level="2" />
+
+	  <!-- Horse Bridles -->
+	  <!-- Plain Bridle -->
+      <row charisma="0" conspicuousness="0.2" item_id="40092838-9807-c0f7-4a48-264b6ed78c8c" rpg_buff_weight="0.77" social_class_id="3" visibility="0.2" wealth_level="0" />	
+	  <!-- Groom Bridle -->
+      <row charisma="0" conspicuousness="0.25" item_id="4bc6e580-eb02-3c7e-1e5c-899767f21cbd" rpg_buff_weight="0.81" social_class_id="60" visibility="0.25" wealth_level="1" />
+	  <!-- Cavalry Bridle -->
+      <row charisma="0" conspicuousness="0.3" item_id="79e78e2a-8c66-430d-aba4-040ffde5c66f" rpg_buff_weight="0.92" social_class_id="33" visibility="0.3" wealth_level="1" />
+	  <!-- Knight Bridle -->
+      <row charisma="0" conspicuousness="0.35" item_id="ac0f228d-b1dd-493d-909d-105b07192ec9" rpg_buff_weight="0.96" social_class_id="33" visibility="0.35" wealth_level="2" />
+	  <!-- Noble Bridle -->
+      <row charisma="0" conspicuousness="0.4" item_id="9f30ca3f-65c0-42f4-be71-cb8f4cc2af7f" rpg_buff_weight="1" social_class_id="14" visibility="0.4" wealth_level="3" />
+	  
+	  <!-- Horse Spurs -->
+	  <!-- Plain Spurs -->
+      <row charisma="11" conspicuousness="0.6" item_id="5c430200-dd37-408b-9b41-27684dac6d30" rpg_buff_weight="0.2" social_class_id="3" visibility="0.6" wealth_level="0" />
+	  <!-- Cuman Spurs -->
+      <row charisma="13" conspicuousness="0.65" item_id="229d96aa-a435-4e89-85ce-8119a1df8228" rpg_buff_weight="0.4" social_class_id="43" visibility="0.65" wealth_level="0" />
+	  <!-- Knight Spurs -->
+      <row charisma="15" conspicuousness="0.7" item_id="19d5def6-e491-43c7-ab1d-5978ac197485" rpg_buff_weight="0.6" social_class_id="33" visibility="0.7" wealth_level="1" />
+	  <!-- Silver Spurs -->
+      <row charisma="17" conspicuousness="0.75" item_id="15656c3e-d29e-48a8-bc0e-1451102a9ce5" rpg_buff_weight="0.8" social_class_id="14" visibility="0.75" wealth_level="2" />
+	  <!-- Golded Spurs -->
+      <row charisma="20" conspicuousness="0.8" item_id="af6f2946-ce54-4e38-9b2b-5ab95d5c4777" rpg_buff_weight="1" social_class_id="14" visibility="0.8" wealth_level="3" />
+	  
+	  <!-- Horse Saddles -->
+	  <!-- Plain Saddles 0-4 -->  
+      <row charisma="0" conspicuousness="0.2" item_id="41382adf-569c-4f33-90a0-36b6e874eca7" rpg_buff_weight="0.01" social_class_id="3" visibility="0.2" wealth_level="0" />
+      <row charisma="0" conspicuousness="0.2" item_id="475642da-17e6-c06e-b035-2b1ab31cbb8f" rpg_buff_weight="0.13" social_class_id="3" visibility="0.2" wealth_level="0" />
+      <row charisma="0" conspicuousness="0.2" item_id="45e2b460-dbd4-4bf4-3643-33c2648d60bc" rpg_buff_weight="0.27" social_class_id="3" visibility="0.2" wealth_level="0" />
+      <row charisma="0" conspicuousness="0.2" item_id="4692f1e5-e4bc-c8af-1b0b-1da823ec1db9" rpg_buff_weight="0.4" social_class_id="3" visibility="0.2" wealth_level="0" />
+      <row charisma="0" conspicuousness="0.2" item_id="42b152d3-d3f4-b390-088e-3127534281aa" rpg_buff_weight="0.53" social_class_id="3" visibility="0.2" wealth_level="0" />
+	  <!-- Hunter Saddles 0-4 -->
+      <row charisma="0" conspicuousness="0.3" item_id="43c85848-0181-06b6-a870-2b3c951e8aa8" rpg_buff_weight="0.27" social_class_id="60" visibility="0.3" wealth_level="1" />
+      <row charisma="0" conspicuousness="0.3" item_id="4838fa1c-da32-9c55-b20b-d4b17b70ecac" rpg_buff_weight="0.6" social_class_id="60" visibility="0.3" wealth_level="1" />
+      <row charisma="0" conspicuousness="0.3" item_id="4e75a619-e574-65af-b95f-6648c6db6295" rpg_buff_weight="0.73" social_class_id="60" visibility="0.3" wealth_level="1" />
+      <row charisma="0" conspicuousness="0.3" item_id="4b1d6789-532c-97dd-48e0-51f2d0bd5db9" rpg_buff_weight="0.87" social_class_id="60" visibility="0.3" wealth_level="1" />
+      <row charisma="0" conspicuousness="0.3" item_id="4353f1e8-e0c6-30a6-c5e8-5b76a22093a0" rpg_buff_weight="1" social_class_id="60" visibility="0.3" wealth_level="1" />
+	  <!-- Fine Saddles 0-4 -->
+      <row charisma="0" conspicuousness="0.4" item_id="42a14b38-295a-a659-3e43-c1684a5dfa88" rpg_buff_weight="0.07" social_class_id="33" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="4f7a8fa9-6701-df14-8a95-1166c9de20a3" rpg_buff_weight="0.27" social_class_id="33" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="41b3cfda-0a6c-c009-9482-4c78ea2f1980" rpg_buff_weight="0.4" social_class_id="33" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="406c92ad-4c17-25d7-84d7-28500800f59e" rpg_buff_weight="0.53" social_class_id="33" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="43062de7-afe1-5743-5aec-d4dcff83c1b8" rpg_buff_weight="0.67" social_class_id="33" visibility="0.4" wealth_level="2" />
+	  <!-- Noble Saddles 0-4 -->
+      <row charisma="0" conspicuousness="0.5" item_id="4866cba5-da9f-00b9-bed9-2d135eb760ba" rpg_buff_weight="0.13" social_class_id="14" visibility="0.5" wealth_level="3" />
+      <row charisma="0" conspicuousness="0.5" item_id="47fd7eb2-de81-37fc-0ca2-772fd3c54baa" rpg_buff_weight="0.4" social_class_id="14" visibility="0.5" wealth_level="3" />
+      <row charisma="0" conspicuousness="0.5" item_id="40c16f73-5b83-c139-96eb-c39ff5e9e7a6" rpg_buff_weight="0.53" social_class_id="14" visibility="0.5" wealth_level="3" />
+      <row charisma="0" conspicuousness="0.5" item_id="4e874d43-cf70-1d41-7510-296b8e2c839d" rpg_buff_weight="0.67" social_class_id="14" visibility="0.5" wealth_level="3" />
+      <row charisma="0" conspicuousness="0.5" item_id="41f6e46c-bca6-16da-169a-f0c8f1a6e2ab" rpg_buff_weight="0.8" social_class_id="14" visibility="0.5" wealth_level="3" />
+	  
+	  <!-- Horse Caparisons -->
+	  <!-- Small Caparisons -->
+      <row charisma="0" conspicuousness="0.2" item_id="4353f1e8-e0c6-30a6-c5e8-5b76a22093a0" rpg_buff_weight="0.125" social_class_id="60" visibility="0.2" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.2" item_id="473709c6-2b26-5d05-57cf-50e4d6fceaa7" rpg_buff_weight="0.125" social_class_id="60" visibility="0.2" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.2" item_id="407c5a00-2e73-f2dc-6a0b-8244c78e5da7" rpg_buff_weight="0.125" social_class_id="60" visibility="0.2" wealth_level="2" />
+	  <!-- Medium Caparisons -->
+      <row charisma="0" conspicuousness="0.3" item_id="468a36a5-1aa9-e1c8-1d01-2c778ef84ea9" rpg_buff_weight="0.25" social_class_id="60" visibility="0.3" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.3" item_id="411f568d-9e62-417c-38a1-ae108bb233ba" rpg_buff_weight="0.25" social_class_id="60" visibility="0.3" wealth_level="2" />
+	  <!-- Full Caparisons -->
+      <row charisma="0" conspicuousness="0.4" item_id="40024d27-b1c4-6ef7-3ca0-98025de43f9e" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="402c55d2-ae62-bf47-823f-8a5760eab7bd" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="40a5de5a-d3a5-c4c3-f5f1-71ab661d55b4" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="40e576c7-74e8-216e-a4f0-a3aa6bd35387" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="41c05047-74e5-f23d-1fe8-b0a8db360087" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="421ff758-4be3-cc11-1946-39ceb56aecb1" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="42e8c6bf-a457-4ad9-48c8-445fea1507ae" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="466c49e3-6cbc-e962-2571-c44183da449d" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="46ee8c8f-2c9a-3002-a31e-8623e2da529d" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="470d9803-e4cb-c9ae-da72-3466cf117cbb" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="47c3342a-3be4-8fe6-696e-436555714b8f" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="4849903a-5dd2-e0b8-bfd0-2e599509c68e" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="48a1ea8c-c52a-9b35-fda6-8df247fc18a2" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="49b83945-99a1-50ba-9107-c3d9846875b1" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="4a346515-2839-801d-3172-826486b9ee9d" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="4b609a17-9266-0e3e-75dc-d4d709533dba" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="4cc06ca7-46bf-609c-93de-3ce43481a28c" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+      <row charisma="0" conspicuousness="0.4" item_id="4f3d678e-553c-f810-86fe-5534db2e1ea9" rpg_buff_weight="0.5" social_class_id="60" visibility="0.4" wealth_level="2" />
+	  <!-- Mail Caparisons -->
+	  <!-- Lamellar Caparisons -->
     </rows>
   </table>
 </database>
