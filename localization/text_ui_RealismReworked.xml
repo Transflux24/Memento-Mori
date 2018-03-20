@@ -1,0 +1,761 @@
+<Table>
+    <!-- REWORKING -->
+    <Row>
+        <Cell>perk_heavy_swing_desc</Cell>
+        <Cell>Your attacks cause 20% greater damage, but cost you 20% more Stamina and you attack slower by 10%. Applies only to force weapons.</Cell>
+        <Cell>Your attacks cause 20% greater damage, but cost you 20% more Stamina and you attack slower by 10%. Applies only to weapons that require strength to wield.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_fast_striker_desc</Cell>
+        <Cell>Your attacks will demand 20% less stamina and will be 10% faster, but will also cause 15% less injury. Applies only to weapons that are based on agility.</Cell>
+        <Cell>Your attacks will demand 20% less stamina and will be 10% faster, but will also cause 15% less injury. Applies only to weapons that are based on agility.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_contemplative_desc</Cell>
+        <Cell>As long as you remain still, your tiredness and hunger level will slow down by 30%.</Cell>
+        <Cell>As long as you remain still, your tiredness and hunger level will slow down by 30%.</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_contemplative_desc</Cell>
+        <Cell>You don't move around, so you get tired or hungry at a much slower rate.</Cell>
+        <Cell>You don't move around, so you get tired or hungry at a much slower rate.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_intimidating_posture</Cell>
+        <Cell>Golem</Cell>
+        <Cell>Golem</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_intimidating_posture_desc</Cell>
+        <Cell>Wearing plate armour makes you more frightening than usual.</Cell>
+        <Cell>Wearing plate armour makes you more frightening than usual.</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_intimidating_posture_desc</Cell>
+        <Cell>Wearing plate armour makes you more frightening than usual.</Cell>
+        <Cell>Wearing plate armour makes you more frightening than usual.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_white_death_desc</Cell>
+        <Cell>Having killed a lot of people, with an arrow to the head, has earned you the nickname of "White Death". Your weapon sway is significantly reduced.</Cell>
+        <Cell>Having killed a lot of people, with an arrow to the head, has earned you the nickname of "White Death". Your weapon sway is significantly reduced.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_white_death_name</Cell>
+        <Cell>White Death</Cell>
+        <Cell>White Death</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_politician_desc</Cell>
+        <Cell>You have established your reputation and have become well connected enough. Your Reputation rises much faster than usual, negative acts have a lower effect on your reputation and the penalties for jail time last shorter.</Cell>
+        <Cell>You have established your reputation and have become well connected enough. Your Reputation rises much faster than usual, negative acts have a lower effect on your reputation and the penalties for jail time last shorter.
+        </Cell>
+    </Row>
+    <Row>
+        <Cell>perk_politician_name</Cell>
+        <Cell>Politician</Cell>
+        <Cell>Politician</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_politician_desc</Cell>
+        <Cell>You have managed to claw your way into politics. You face lower penalties for wrongdoing and your reputation improves faster.</Cell>
+        <Cell>You have managed to claw your way into politics. You face lower penalties for wrongdoing and your reputation improves faster.</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_politician_name</Cell>
+        <Cell>Politician</Cell>
+        <Cell>Politician</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_arms_dealer_desc</Cell>
+        <Cell>After much experience dealing with merchants, you've finally established yourself as a well known trader. The armor equipment you sell have a 15% higher price, and you're able to buy armor and equipment for 15% less.</Cell>
+        <Cell>After much experience dealing with merchants, you've finally established yourself as a well known trader. The armor equipment you sell have a 15% higher price, and you're able to buy armor and equipment for 15% less.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_arms_dealer_name</Cell>
+        <Cell>Arms Dealer</Cell>
+        <Cell>Arms Dealer</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_arms_dealer_desc</Cell>
+        <Cell>You get better prices for selling or buying armor equipment.</Cell>
+        <Cell>You get better prices for selling or buying armor equipment.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_cuman_in_killer</Cell>
+        <Cell>You've killed so many Cumans your reputation precedes you. Your enemies fear you; they are 15% more likely to flee from combat. Your attacks against them will also be 15% more effective.</Cell>
+        <Cell>You've killed so many Cumans your reputation precedes you. Your enemies fear you; they are 15% more likely to flee from combat. Your attacks against them will also be 15% more effective.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_man_in_killer</Cell>
+        <Cell>You've killed so many enemies that you've earned the nickname 'Death Knight'. Your enemies fear you; they are 15% more likely to flee from combat. Your attacks against them will also be 15% more effective.</Cell>
+        <Cell>You've killed so many enemies that you've earned the nickname 'Death Knight'. Your enemies fear you; they are 15% more likely to flee from combat. Your attacks against them will also be 15% more effective.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_man_nm_killer</Cell>
+        <Cell>Death Knight</Cell>
+        <Cell>Death Knight</Cell>
+    </Row>
+    <Row>
+        <Cell>buff_man_killer_desc</Cell>
+        <Cell>You scare the enemy with your terrifying reputation.</Cell>
+        <Cell>You scare the enemy with your terrifying reputation.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_tight_grip_desc</Cell>
+        <Cell>Your Stamina regeneration will not slow down in combat, even on the weapon backswing.</Cell>
+        <Cell>Your Stamina regeneration will not slow down in combat, even on the weapon backswing.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_tight_grip_name</Cell>
+        <Cell>Combat Conditioning</Cell>
+        <Cell>Combat Conditioning</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_drinking_habit_desc</Cell>
+        <Cell>While under the influence, your hand will shake 25% less and you'll gain +2 to your Bow skill, but while sober, your hand will shake 25% more.</Cell>
+        <Cell>While under the influence, your hand will shake 25% less and you'll gain +2 to your Bow skill, but while sober, your hand will shake 25% more.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_drinking_habit_name</Cell>
+        <Cell>Drunken Marksman</Cell>
+        <Cell>Drunken Marksman</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_wrestler_desc</Cell>
+        <Cell>You gain a 10% greater chance to overpower your opponent in a clinch.</Cell>
+        <Cell>You gain a 10% greater chance to overpower your opponent in a clinch.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_weapon_cruncher_desc</Cell>
+        <Cell>If you beat your opponent in a clinch, you'll damage his weapon 10% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.</Cell>
+        <Cell>If you beat your opponent in a clinch, you'll damage his weapon 10% more. A damaged weapon will cause much less damage, as well as its price being greatly reduced.
+        </Cell>
+    </Row>
+    <Row><Cell>perk_weapon_cruncher_name</Cell><Cell>Weapon-cruncher</Cell><Cell>Weapon-Cruncher</Cell></Row>
+	<Row>
+		<Cell>perk_wrestler_name</Cell>
+		<Cell>Amateur Grappler</Cell>
+		<Cell>Amateur Grappler</Cell>
+	</Row>
+    <Row>
+        <Cell>perk_clinch_master_desc</Cell>
+        <Cell>You gain a 20% greater chance to overpower your opponent in a clinch.</Cell>
+        <Cell>You gain a 20% greater chance to overpower your opponent in a clinch.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_clinch_master_name</Cell>
+        <Cell>Adept Grappler</Cell>
+        <Cell>Adept Grappler</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_clinch_master2_desc</Cell>
+        <Cell>You gain a 30% greater chance to overpower your opponent in a clinch.</Cell>
+        <Cell>You gain a 30% greater chance to overpower your opponent in a clinch.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_clinch_master2_name</Cell>
+        <Cell>Master Grappler</Cell>
+        <Cell>Master Grappler</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_headcrakcer_desc</Cell>
+        <Cell>You gain a 10% greater chance of knocking out an opponent with a blow to the head.</Cell>
+        <Cell>You gain a 10% greater chance of knocking out an opponent with a blow to the head.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_headcrakcer_name</Cell>
+        <Cell>Headcracker I</Cell>
+        <Cell>Headcracker I</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_headcrakcer2_desc</Cell>
+        <Cell>You gain a 18% greater chance of knocking out an opponent with a blow to the head.</Cell>
+        <Cell>You gain a 18% greater chance of knocking out an opponent with a blow to the head.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_headcrakcer2_name</Cell>
+        <Cell>Headcracker II</Cell>
+        <Cell>Headcracker II</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_headcrakcer3_desc</Cell>
+        <Cell>You gain a 25% greater chance of knocking out an opponent with a blow to the head.</Cell>
+        <Cell>You gain a 25% greater chance of knocking out an opponent with a blow to the head.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_headcrakcer3_name</Cell>
+        <Cell>Headcracker III</Cell>
+        <Cell>Headcracker III</Cell>
+    </Row>
+	<Row>
+		<Cell>perk_hard_hitter_desc</Cell>
+		<Cell>You deal 5% more damage in combat.</Cell>
+		<Cell>You deal 5% more damage in combat.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_hard_hitter_name</Cell>
+		<Cell>Hard Hitter</Cell>
+		<Cell>Hard Hitter</Cell>
+	</Row>
+    <Row>
+        <Cell>perk_highborn_desc</Cell>
+        <Cell>You gain +3 Speech when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Lowborn</Cell>
+        <Cell>You gain +3 Speech when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Lowborn</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_highborn_name</Cell>
+        <Cell>Highborn</Cell>
+        <Cell>Highborn</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_bard_desc</Cell>
+        <Cell>You gain +2 Charisma when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Gallant</Cell>
+        <Cell>You gain +2 Charisma when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Gallant</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_bard_name</Cell>
+        <Cell>Minstrel</Cell>
+        <Cell>Minstrel</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_knighterrant_desc</Cell>
+        <Cell>You gain +2 Badassness when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Minstrel</Cell>
+        <Cell>You gain +2 Badassness when talking to nobles and wealthy people.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Minstrel</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_knighterrant_name</Cell>
+        <Cell>Gallant</Cell>
+        <Cell>Gallant</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_leg_day_desc</Cell>
+        <Cell>You gain +1 Strength XP when you pick herbs.</Cell>
+        <Cell>You gain +1 Strength XP when you pick herbs.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_leg_day_name</Cell>
+        <Cell>Leg Day</Cell>
+        <Cell>Leg Day</Cell>
+    </Row>
+	<Row>
+		<Cell>perk_lone_hunter_name</Cell>
+		<Cell>Ranger</Cell>
+		<Cell>Ranger</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_lone_hunter_desc</Cell>
+		<Cell>You are 50% quieter whilst in forests.</Cell>
+		<Cell>You are 50% quieter whilst in forests.</Cell>
+	</Row>
+    <Row>
+        <Cell>perk_loose_tongue_desc</Cell>
+        <Cell>While drunk, you gain a 33% bonus to Speech and Charisma, but while hungover, these stats drop by 33%.</Cell>
+        <Cell>While drunk, you gain a 33% bonus to Speech and Charisma, but while hungover, these stats drop by 33%.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_loose_tongue_name</Cell>
+        <Cell>Loose Lips</Cell>
+        <Cell>Loose Lips</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_lowborn_desc</Cell>
+        <Cell>You gain +3 Speech when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Highborn</Cell>
+        <Cell>You gain +3 Speech when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Highborn</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_lowborn_name</Cell>
+        <Cell>Lowborn</Cell>
+        <Cell>Lowborn</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_rogue_desc</Cell>
+        <Cell>You gain +2 Charisma when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Leekuanian</Cell>
+        <Cell>You gain +2 Charisma when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Leekuanian</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_rogue_name</Cell>
+        <Cell>Dutertian</Cell>
+        <Cell>Dutertian</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_ruffian_desc</Cell>
+        <Cell>You gain +2 Badassness when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Dutertian</Cell>
+        <Cell>You gain +2 Badassness when talking to commoners.&lt;br/&gt;&amp;nbsp;&lt;br/&gt;Incompatible: Dutertian</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_ruffian_name</Cell>
+        <Cell>Leekuanian</Cell>
+        <Cell>Leekuanian</Cell>
+    </Row>
+	<Row>
+		<Cell>perk_physical_fitness_desc</Cell>
+		<Cell>You can sprint and run 5% faster.</Cell>
+		<Cell>You can sprint and run 5% faster.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_physical_fitness_name</Cell>
+		<Cell>Apex Performance</Cell>
+		<Cell>Apex Performance</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_gladiator_desc</Cell>
+		<Cell>You regenerate your stamina 10% quicker.</Cell>
+		<Cell>You regenerate your stamina 10% quicker.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_gladiator_name</Cell>
+		<Cell>Gladiator</Cell>
+		<Cell>Gladiator</Cell>
+	</Row>
+    <Row>
+        <Cell>perk_scout_1_desc</Cell>
+        <Cell>Slightly increases the sight distance of Fast Travel, and you have a 10% greater chance to evade.</Cell>
+        <Cell>Slightly increases the sight distance of Fast Travel, and you have a 10% greater chance to evade.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_scout_1_name</Cell>
+        <Cell>Scout I</Cell>
+        <Cell>Scout I</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_scout_2_desc</Cell>
+        <Cell>Increases the sight distance of Fast Travel, and you have a 20% greater chance to evade.</Cell>
+        <Cell>Increases the sight distance of Fast Travel, and you have a 20% greater chance to evade.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_scout_2_name</Cell>
+        <Cell>Scout II</Cell>
+        <Cell>Scout II</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_scout_3_desc</Cell>
+        <Cell>Greatly increases the sight distance of Fast Travel, and you have a 30% greater chance to evade.</Cell>
+        <Cell>Greatly increases the sight distance of Fast Travel, and you have a 30% greater chance to evade.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_scout_3_name</Cell>
+        <Cell>Scout III</Cell>
+        <Cell>Scout III</Cell>
+    </Row>
+	<Row>
+		<Cell>perk_marksman_desc_1</Cell>
+		<Cell>Shooting your Bow is 5% more accurate.</Cell>
+		<Cell>Shooting your Bow is 5% more accurate.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_marksman_name_1</Cell>
+		<Cell>Novice Marksman</Cell>
+		<Cell>Novice Marksman</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_marksman_desc_2</Cell>
+		<Cell>Shooting your Bow is 10% more accurate.</Cell>
+		<Cell>Shooting your Bow is 10% more accurate.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_marksman_name_2</Cell>
+		<Cell>Adept Marksman</Cell>
+		<Cell>Adept Marksman</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_marksman_desc_3</Cell>
+		<Cell>Shooting your Bow is 15% more accurate.</Cell>
+		<Cell>Shooting your Bow is 15% more accurate.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_marksman_name_3</Cell>
+		<Cell>Master Marksman</Cell>
+		<Cell>Master Marksman</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_martial_artist_desc</Cell>
+		<Cell>You can easily overcome pain, strikes will wound you 5% less.</Cell>
+		<Cell>You can easily overcome pain, strikes will wound you 5% less.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_martial_artist_name</Cell>
+		<Cell>Street Brawler</Cell>
+		<Cell>Street Brawler</Cell>
+	</Row>
+    <Row>
+        <Cell>perk_stronghold_desc</Cell>
+        <Cell>Blocking an opponent's blows will cost you 25% less Stamina.</Cell>
+        <Cell>Blocking an opponent's blows will cost you 25% less Stamina.</Cell>
+    </Row>
+    <Row>
+        <Cell>perk_stronghold_name</Cell>
+        <Cell>Stronghold</Cell>
+        <Cell>Stronghold</Cell>
+    </Row>
+	<Row>
+		<Cell>perk_proficiency_desc</Cell>
+		<Cell>Your maximum stamina is increased by 15%.</Cell>
+		<Cell>Your maximum stamina is increased by 15%.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_proficiency_name</Cell>
+		<Cell>War Veteran</Cell>
+		<Cell>War Veteran</Cell>
+	</Row>
+    <!-- REWORKING END -->
+
+	<!-- NPCs -->
+	<!-- Roads are Dangerous -->
+	<Row>
+		<Cell>soul_ui_name_merry</Cell>
+		<Cell>Merrymen</Cell>
+		<Cell>Merrymen</Cell>
+	</Row>
+	<Row>
+		<Cell>soul_ui_name_deserter</Cell>
+		<Cell>Deserter</Cell>
+		<Cell>Deserter</Cell>
+	</Row>
+	<Row>
+		<Cell>soul_ui_name_berserker</Cell>
+		<Cell>Berserker</Cell>
+		<Cell>Berserker</Cell>
+	</Row>
+	
+	<!-- ITEMS -->
+	<!-- Midnight Armor -->
+	<Row>
+		<Cell>ui_in_mdnt_b</Cell>
+		<Cell>A fine pair of boots commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine pair of boots commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_s</Cell>
+		<Cell>A fine quilted doublet commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine doublet commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_p</Cell>
+		<Cell>A fine pair of hose commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine pair of hose commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_g</Cell>
+		<Cell>A fine pair of leather gloves commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine pair of leather gloves commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_j</Cell>
+		<Cell>A fine pourpoint commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine pourpoint commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_c</Cell>
+		<Cell>A fine pair of chausses commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine pair of chausses commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_h</Cell>
+		<Cell>A fine quilted coif commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine quilted coif commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_s_2</Cell>
+		<Cell>A fine quilted doublet commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine doublet commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_j_2</Cell>
+		<Cell>A fine cotehardie commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine cotehardie commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_s_3</Cell>
+		<Cell>A fine black tunic commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine black tunic commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_s_4</Cell>
+		<Cell>A fine black tunic commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine black tunic commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_h_2</Cell>
+		<Cell>A fine cowl commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine cowl commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_j_3</Cell>
+		<Cell>A fine pourpoint commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine pourpoint commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_h_3</Cell>
+		<Cell>A fine hooded mantle commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine hooded mantle commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_mdnt_h_4</Cell>
+		<Cell>A fine hooded mantle commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+		<Cell>A fine hooded mantle commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_b</Cell>
+		<Cell>Midnight boots</Cell>
+		<Cell>Midnight boots</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_s</Cell>
+		<Cell>Midnight doublet</Cell>
+		<Cell>Midnight doublet</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_p</Cell>
+		<Cell>Midnight hose</Cell>
+		<Cell>Midnight hose</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_g</Cell>
+		<Cell>Midnight gloves</Cell>
+		<Cell>Midnight gloves</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_j</Cell>
+		<Cell>Midnight pourpoint</Cell>
+		<Cell>Midnight pourpoint</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_c</Cell>
+		<Cell>Midnight chausses</Cell>
+		<Cell>Midnight chausses</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_h</Cell>
+		<Cell>Midnight coif</Cell>
+		<Cell>Midnight coif</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_s_2</Cell>
+		<Cell>Midnight doublet (Short)</Cell>
+		<Cell>Midnight doublet (Short)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_j_2</Cell>
+		<Cell>Midnight cotehardie</Cell>
+		<Cell>Midnight cotehardie</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_s_3</Cell>
+		<Cell>Midnight tunic</Cell>
+		<Cell>Midnight tunic</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_s_4</Cell>
+		<Cell>Midnight tunic (short)</Cell>
+		<Cell>Midnight tunic (short)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_h_2</Cell>
+		<Cell>Midnight cowl</Cell>
+		<Cell>Midnight cowl</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_j_3</Cell>
+		<Cell>Midnight pourpoint (short)</Cell>
+		<Cell>Midnight pourpoint (short)</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_h_3</Cell>
+		<Cell>Midnight hood</Cell>
+		<Cell>Midnight hood</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_mdnt_h_4</Cell>
+		<Cell>Midnight hood</Cell>
+		<Cell>Midnight hood</Cell>
+	</Row>
+	<!-- Daggers -->
+	<Row>
+		<Cell>ui_in_asin_dagger</Cell>
+		<Cell>This dagger is not well suited for combat. It's most effective if you need to creep up on someone and dispose of them without attracting attention. </Cell>
+		<Cell>The dagger is the knife's more dangerous cousin. It's most effective if you need to creep up on someone and dispose of them without attracting attention. </Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_cmbt_dagger</Cell>
+		<Cell>This dagger is well suited for close quarter combat, but it is much shorter than typical weapons. Getting in close is key. </Cell>
+		<Cell>This dagger is well suited for close quarter combat, but it is much shorter than typical weapons. Getting in close is key. </Cell>
+	</Row>
+	<Row>
+		<Cell>ui_in_pary_dagger</Cell>
+		<Cell>This dagger is designed to be used in the off hand to allow for a lighter and quicker approach to defense. Be warned, a shield is a much better overall defensive choice. </Cell>
+		<Cell>This dagger is designed to be used in the off hand to allow for a lighter and quicker approach to defense. Be warned, a shield is a much better overall defensive choice. </Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_asin_dagger</Cell>
+		<Cell>Assassins Dagger</Cell>
+		<Cell>Assassins Dagger</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_cmbt_dagger</Cell>
+		<Cell>Combat Dagger</Cell>
+		<Cell>Assassins Dagger</Cell>
+	</Row>
+	<Row>
+		<Cell>ui_nm_pary_dagger</Cell>
+		<Cell>Parrying Dagger</Cell>
+		<Cell>Parrying Dagger</Cell>
+	</Row>
+
+	<!--New Combos -->
+	<!-- Polearms -->
+	<Row>
+		<Cell>perk_w_pla_combo01_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;With a rapid Zornhau from the Ox stance, parry the opponent's strike to the side from your left shoulder and thrust the point straight to his chest. </Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;With a rapid Zornhau from the Ox stance, parry the opponent's strike to the side from your left shoulder and thrust the point straight to his chest. </Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo01_name</Cell>
+		<Cell>Zorn ort: Wrath Strike</Cell>
+		<Cell>Zorn ort: Wrath Strike</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo02_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhytm: &amp;lt;/font&amp;gt;slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By means of rapid attacks, put the opponent on the defensive, then feint a stab, but instead of carrying it through, execute a Mittlehau around the opponent's blade straight to the face.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By means of rapid attacks, put the opponent on the defensive, then feint a stab, but instead of carrying it through, execute a Mittlehau around the opponent's blade straight to the face.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo02_name</Cell>
+		<Cell>Fehler: Scarmaker</Cell>
+		<Cell>Fehler: Scarmaker</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo03_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor2.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The 'third wonder' of swordfighting is a slash that will not defeat your opponent, but will make it difficult for him to continue. After a few misleading strikes, suddenly slash at the wrist.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor2.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The 'third wonder' of swordfighting is a slash that will not defeat your opponent, but will make it difficult for him to continue. After a few misleading strikes, suddenly slash at the wrist.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo03_name</Cell>
+		<Cell>Drei Wunder: Wrist</Cell>
+		<Cell>Drei Wunder: Wrist</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo04_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor0.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor2.dds" width="70" height="60" &amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The short edge strikes the face. After drawing back down you let the sword slip behind you and through the 'coda lunga e stretta' position strike unexpectedly with the other edge of the blade.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor0.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor2.dds" width="70" height="60" &amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The short edge strikes the face. After drawing back down you let the sword slip behind you and through the 'coda lunga e stretta' position strike unexpectedly with the other edge of the blade.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo04_name</Cell>
+		<Cell>False Edge</Cell>
+		<Cell>False Edge</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo05_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm:&amp;lt;/font&amp;gt; stab – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Pommel strike. Following a feint from the right, you run through the opponent's defence and strike him with the pommel of the sword. The technique is often used when passing into a clinch.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm:&amp;lt;/font&amp;gt; stab – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Pommel strike. Following a feint from the right, you run through the opponent's defence and strike him with the pommel of the sword. The technique is often used when passing into a clinch.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo05_name</Cell>
+		<Cell>Durchlauffen: Run through</Cell>
+		<Cell>Durchlauffen: Run through</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo06_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor2.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor2.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;After several strikes from unexpected sides, evade the opponent's blade by turning the short edge and striking with a slash to the unguarded face. If executed correctly, a very powerful technique.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Polearm&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor2.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor2.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;After several strikes from unexpected sides, evade the opponent's blade by turning the short edge and striking with a slash to the unguarded face. If executed correctly, a very powerful technique.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_pla_combo06_name</Cell>
+		<Cell>Duplieren: Doubling</Cell>
+		<Cell>Duplieren: Doubling</Cell>
+	</Row>
+	<!-- Axes -->
+	<Row>
+		<Cell>perk_w_axe_combo04_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Axe&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhytm: &amp;lt;/font&amp;gt;slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By means of rapid attacks, put the opponent on the defensive, then feint a stab, but instead of carrying it through, execute a Mittlehau around the opponent's blade straight to the face.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Axe&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By means of rapid attacks, put the opponent on the defensive, then feint a stab, but instead of carrying it through, execute a Mittlehau around the opponent's blade straight to the face.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_axe_combo04_name</Cell>
+		<Cell>Fehler: Scarmaker</Cell>
+		<Cell>Fehler: Scarmaker</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_axe_combo05_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Axe&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;With a rapid Zornhau from the Ox stance, parry the opponent's strike to the side from your left shoulder and thrust the point straight to his chest. </Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Axe&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;With a rapid Zornhau from the Ox stance, parry the opponent's strike to the side from your left shoulder and thrust the point straight to his chest. </Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_axe_combo05_name</Cell>
+		<Cell>Zorn ort: Wrath Strike</Cell>
+		<Cell>Zorn ort: Wrath Strike</Cell>
+	</Row>
+	<!-- Maces -->
+	<Row>
+		<Cell>perk_w_mce_combo04_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhytm: &amp;lt;/font&amp;gt;slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By means of rapid attacks, put the opponent on the defensive, then feint a stab, but instead of carrying it through, execute a Mittlehau around the opponent's blade straight to the face.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By means of rapid attacks, put the opponent on the defensive, then feint a stab, but instead of carrying it through, execute a Mittlehau around the opponent's blade straight to the face.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_mce_combo04_name</Cell>
+		<Cell>Fehler: Scarmaker</Cell>
+		<Cell>Fehler: Scarmaker</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_mce_combo05_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;With a rapid Zornhau from the Ox stance, parry the opponent's strike to the side from your left shoulder and thrust the point straight to his chest. </Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Mace&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;With a rapid Zornhau from the Ox stance, parry the opponent's strike to the side from your left shoulder and thrust the point straight to his chest. </Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_mce_combo05_name</Cell>
+		<Cell>Zorn ort: Wrath Strike</Cell>
+		<Cell>Zorn ort: Wrath Strike</Cell>
+	</Row>
+	<!-- Daggers -->
+	<Row>
+		<Cell>perk_w_dag_comb1</Cell>
+		<Cell>Double stab</Cell>
+		<Cell>Double stab</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_dag_comb1_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Dagger&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor2.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhytm: &amp;lt;/font&amp;gt;slash – slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;After a flurry of quick thrusts twist the point forward, guide the opponent’s weapon sideways with twin quick stabs and strike the exposed chest.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Dagger&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor2.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;After a flurry of quick thrusts twist the point forward, guide the opponent’s weapon sideways with twin quick stabs and strike the exposed chest.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_dag_comb2</Cell>
+		<Cell>Blunt Strike</Cell>
+		<Cell>Blunt Strike</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_dag_comb2_adesc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Dagger&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;stab – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Instead of a started strike from the right, strike unexpectedly at the opponent's face. Turn your weapon around his and strike him quickly with the blunt end. If you have a shield, use its edge for striking.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Dagger&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;stab – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Instead of a started strike from the right, strike unexpectedly at the opponent's face. Turn your weapon around his and strike him quickly with the blunt end. If you have a shield, use its edge for striking.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_dag_comb3</Cell>
+		<Cell>Halb Schwert: Half Sword</Cell>
+		<Cell>Halbschwert: Half Sword</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_dag_comb3_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Dagger&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhytm: &amp;lt;/font&amp;gt;slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;After deflecting a deceptive thrust, don't pull back, but instead lunge forward, grasp the middle of your blade with your free hand and will the full force of both arms, drive the point into the opponent's chest.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Dagger&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor3.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor5.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – stab – stab&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;After deflecting a deceptive thrust, don't pull back, but instead lunge forward, grasp the middle of your blade with your free hand and will the full force of both arms, drive the point into the opponent's chest.</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_dag_comb4</Cell>
+		<Cell>Drei Wunder: Forearm</Cell>
+		<Cell>Drei Wunder: Forearm</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_dag_comb4_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Dagger&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor0.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhytm: &amp;lt;/font&amp;gt;slash – slash – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The 'third wonder' of swordfighting is the 'Schnitt' or cut, which doesn't defeat the opponent, but makes it difficult for him to continue fighting. After several feints, slash unexpectedly at the opponent's forearm.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Dagger&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor0.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The 'third wonder' of swordfighting is the 'Schnitt' or cut, which doesn't defeat the opponent, but makes it difficult for him to continue fighting. After several feints, slash unexpectedly at the opponent's forearm.</Cell>
+	</Row>
+	<!-- Small Swords -->
+	<Row>
+		<Cell>perk_w_shs_comb005</Cell>
+		<Cell>Drei Wunder: Forearm</Cell>
+		<Cell>Drei Wunder: Forearm</Cell>
+	</Row>
+	<Row>
+		<Cell>perk_w_shs_comb005_desc</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Shortsword, Hunting Sword, Sabre&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor0.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhytm: &amp;lt;/font&amp;gt;slash – slash – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The 'third wonder' of swordfighting is the 'Schnitt' or cut, which doesn't defeat the opponent, but makes it difficult for him to continue fighting. After several feints, slash unexpectedly at the opponent's forearm.</Cell>
+		<Cell>&amp;lt;font color='#512D00'&amp;gt;Weapon: &amp;lt;/font&amp;gt;Shortsword, Hunting Sword, Sabre&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor0.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor4.dds" width="70" height="60"&amp;gt;&amp;lt;img src="img://Libs/UI/Textures/Dynamic/ccursor1.dds" width="70" height="60"&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;&amp;lt;font color='#512D00'&amp;gt;Rhythm: &amp;lt;/font&amp;gt;slash – slash – slash – slash&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;The 'third wonder' of swordfighting is the 'Schnitt' or cut, which doesn't defeat the opponent, but makes it difficult for him to continue fighting. After several feints, slash unexpectedly at the opponent's forearm.</Cell>
+	</Row>
+</Table>
