@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="rpg_sound" version="1">
+    <header>
+      <column name="decrement_per_second" type="real" />
+      <column name="intensity_oneshot" type="real" />
+      <column name="intensity_per_second" type="real" />
+      <column name="noisiness_multiplier" type="real" />
+      <column name="notification_cooldown" type="real" />
+      <column name="notification_threshold" type="real" />
+      <column name="rpg_sound_id" type="integer" />
+      <column name="rpg_sound_name" type="character varying" />
+    </header>
+    <rows>
+      <row decrement_per_second="0.1" intensity_oneshot="128" intensity_per_second="" noisiness_multiplier="0" notification_cooldown="3" notification_threshold="1" rpg_sound_id="1" rpg_sound_name="combat" />
+      <row decrement_per_second="0.25" intensity_oneshot="" intensity_per_second="18" noisiness_multiplier="0" notification_cooldown="3" notification_threshold="1.5" rpg_sound_id="2" rpg_sound_name="lockpick" />
+      <row decrement_per_second="0.8" intensity_oneshot="15" intensity_per_second="" noisiness_multiplier="2" notification_cooldown="2" notification_threshold="1.7" rpg_sound_id="3" rpg_sound_name="movement" />
+      <row decrement_per_second="0.2" intensity_oneshot="" intensity_per_second="32" noisiness_multiplier="0" notification_cooldown="3" notification_threshold="1" rpg_sound_id="4" rpg_sound_name="sharpener" />
+      <row decrement_per_second="0.5" intensity_oneshot="1250" intensity_per_second="" noisiness_multiplier="0" notification_cooldown="3" notification_threshold="1" rpg_sound_id="5" rpg_sound_name="whistle" />
+      <row decrement_per_second="0.1" intensity_oneshot="128" intensity_per_second="" noisiness_multiplier="0" notification_cooldown="3" notification_threshold="1" rpg_sound_id="6" rpg_sound_name="combatScript" />
+      <row decrement_per_second="0.2" intensity_oneshot="9" intensity_per_second="" noisiness_multiplier="0.5" notification_cooldown="3" notification_threshold="1" rpg_sound_id="7" rpg_sound_name="door" />
+    </rows>
+  </table>
+</database>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="armor_type" version="1">
+    <header>
+      <column name="armor_type_id" type="integer" />
+      <column name="armor_type_name" type="character varying" />
+      <column name="equip_buff_id" type="uuid" />
+    </header>
+    <rows>
+
+	  <!-- Armors -->
+      <row armor_type_id="1" armor_type_name="default cloth" equip_buff_id="" />
+      <row armor_type_id="2" armor_type_name="light leather" equip_buff_id="" />
+      <row armor_type_id="3" armor_type_name="heavy leather" equip_buff_id="" />
+	  <row armor_type_id="4" armor_type_name="chain" equip_buff_id="" />
+      <row armor_type_id="5" armor_type_name="plate" equip_buff_id="" />
+      <row armor_type_id="6" armor_type_name="decorated" equip_buff_id="" />
+      <row armor_type_id="7" armor_type_name="cloth" equip_buff_id="" />
+      <row armor_type_id="9" armor_type_name="shoe" equip_buff_id="" />  
+	  
+	  <!-- Horse Bridles -->
+      <row armor_type_id="12" armor_type_name="horse_bridle_plain" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000019" />
+      <row armor_type_id="13" armor_type_name="horse_bridle_groom" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000008" />
+      <row armor_type_id="14" armor_type_name="horse_bridle_cavalry" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000009" />
+      <row armor_type_id="15" armor_type_name="horse_bridle_knight" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000010" />
+      <row armor_type_id="16" armor_type_name="horse_bridle_noble" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000011" />
+	  
+	  <!-- Horse Saddles -->
+      <row armor_type_id="10" armor_type_name="horse_saddle_none" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000018" />
+      <row armor_type_id="17" armor_type_name="horse_saddle_one" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000003" />
+      <row armor_type_id="18" armor_type_name="horse_saddle_two" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000004" />
+      <row armor_type_id="19" armor_type_name="horse_saddle_three" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000005" />
+      <row armor_type_id="20" armor_type_name="horse_saddle_four" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000006" />
+      <row armor_type_id="21" armor_type_name="horse_saddle_five" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000007" /> 
+	  
+	  <!-- Horse Shoes -->
+      <row armor_type_id="11" armor_type_name="horse_shoe_farm" equip_buff_id="" />
+      <row armor_type_id="22" armor_type_name="horse_shoe_travel" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000020" />
+      <row armor_type_id="23" armor_type_name="horse_shoe_military" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000012" />
+      <row armor_type_id="24" armor_type_name="horse_shoe_noble" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000013" />
+	  
+	  <!-- Horse Spurs -->
+      <row armor_type_id="8" armor_type_name="spur_plain" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000021" />
+      <row armor_type_id="25" armor_type_name="spur_cuman" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000014" />
+      <row armor_type_id="26" armor_type_name="spur_knight" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000015" />
+      <row armor_type_id="27" armor_type_name="spur_silver" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000016" />
+      <row armor_type_id="28" armor_type_name="spur_gold" equip_buff_id="s1d3w4yz-d4rk-t1m3-2222-000000000017" /> 
+	  
+    </rows>
+  </table>
+</database>

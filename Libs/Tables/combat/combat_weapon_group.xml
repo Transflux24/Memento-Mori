@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="combat_weapon_group" version="1">
+    <header>
+      <column name="combat_priority" type="integer" />
+      <column name="combat_weapon_group_id" type="integer" />
+      <column name="combat_weapon_group_name" type="character varying" />
+      <column name="mn_tag" type="character varying" />
+    </header>
+    <rows>
+      <row combat_priority="2" combat_weapon_group_id="1" combat_weapon_group_name="One hand short weapons" mn_tag="shortWeapon" />
+      <row combat_priority="2" combat_weapon_group_id="2" combat_weapon_group_name="Left hand non-shield" mn_tag="noShieldFake" />
+      <row combat_priority="2" combat_weapon_group_id="3" combat_weapon_group_name="One hand heavy" mn_tag="shortHeavy" />
+      <row combat_priority="2" combat_weapon_group_id="4" combat_weapon_group_name="One hand sword" mn_tag="shortSword" />
+      <row combat_priority="2" combat_weapon_group_id="5" combat_weapon_group_name="LeftSword" mn_tag="anySword" />
+      <row combat_priority="2" combat_weapon_group_id="6" combat_weapon_group_name="Dagger and shield" mn_tag="DaggerShield" />
+      <row combat_priority="2" combat_weapon_group_id="7" combat_weapon_group_name="Small swords" mn_tag="SmallSword" />
+      <row combat_priority="2" combat_weapon_group_id="8" combat_weapon_group_name="All off hands" mn_tag="AllOffHand" />
+      <row combat_priority="2" combat_weapon_group_id="9" combat_weapon_group_name="Real non shield off hand" mn_tag="noShield" />
+      <row combat_priority="2" combat_weapon_group_id="10" combat_weapon_group_name="Two handed weapons" mn_tag="TwoHand" />
+      <row combat_priority="3" combat_weapon_group_id="11" combat_weapon_group_name="Polearms" mn_tag="Polearm" />
+    </rows>
+  </table>
+</database>

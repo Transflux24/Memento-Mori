@@ -1,0 +1,133 @@
+<AmbushNPCConfigurations>
+  <configurations>
+  	<cfg align="bandits">
+  		<spawnGroups>
+  			<grp class="bandits" minCnt="2" maxCnt="5" />
+  		</spawnGroups>
+  	</cfg>
+    <cfg align="bandits">
+      <spawnGroups>
+				<grp class="raubritters" minCnt="2" maxCnt="4" />
+				<grp class="bandits" minCnt="1" maxCnt="3" />
+      </spawnGroups>
+    </cfg>
+  	<cfg align="cumans">
+  		<spawnGroups>
+				<grp class="cumans" minCnt="2" maxCnt="4" />
+				<grp class="cumanArchers" minCnt="1" maxCnt="3" />
+  		</spawnGroups>
+  	</cfg>
+    <cfg align="cumans">
+      <spawnGroups>
+        <grp class="cumans" minCnt="2" maxCnt="7" />
+      </spawnGroups>
+    </cfg>
+  	<cfg align="lynchMob">
+  		<spawnGroups>
+  			<grp class="lynchmob" minCnt="2" maxCnt="8" />
+  		</spawnGroups>
+  	</cfg>
+    <cfg align="boars">
+      <spawnGroups>
+        <grp class="pigs" minCnt="1" maxCnt="5" />
+      </spawnGroups>
+    </cfg>
+		<cfg align="drunkards">
+			<spawnGroups>
+				<grp class="drunkards" minCnt="2" maxCnt="6" />
+			</spawnGroups>
+		</cfg>
+	<!-- Memento Mori -->
+	<cfg align="merrylads">
+  		<spawnGroups>
+  			<grp class="merrylads" minCnt="3" maxCnt="6" />
+  		</spawnGroups>
+  	</cfg>
+	<cfg align="bosses">
+  		<spawnGroups>
+  			<grp class="bosses" minCnt="1" maxCnt="1" />
+			<grp class="bandits" minCnt="3" maxCnt="5" />
+      </spawnGroups>
+    </cfg>
+	<cfg align="deserters">
+  		<spawnGroups>
+  			<grp class="deserters" minCnt="2" maxCnt="5" />
+  		</spawnGroups>
+  	</cfg>
+  </configurations>
+  <randomElements>
+    <element name="enemy">
+      <probTable>
+        <cell outValue="bandits" probability="0.15" />
+        <cell outValue="cumans" probability="0.15" />
+        <cell outValue="lynchMob" probability="0.15" />
+        <!-- <cell outValue="boars" probability="0.05" /> -->
+        <cell outValue="drunkards" probability="0.15" />
+	    <!-- Memento Mori -->
+        <cell outValue="merrylads" probability="0.12" />
+		<cell outValue="bosses" probability="0.08" />
+ 	    <cell outValue="deserters" probability="0.15" />
+      </probTable>
+    </element>
+    <element name="scene" dependency="enemy">
+      <probTable>
+        <cell dependentValue="bandits" outValue="assault"      probability="0.10" />
+        <cell dependentValue="bandits" outValue="lure"         probability="0.30" />
+        <cell dependentValue="bandits" outValue="obstacle"     probability="0.30" />
+        <cell dependentValue="bandits" outValue="halt"         probability="0.30" />
+        <cell dependentValue="cumans" outValue="assault"       probability="0.15" />
+        <cell dependentValue="cumans" outValue="lure"          probability="0.30" />
+        <cell dependentValue="cumans" outValue="obstacle"      probability="0.30" />
+        <cell dependentValue="cumans" outValue="halt"          probability="0.25" />
+        <cell dependentValue="lynchMob" outValue="assault"     probability="0.10" />
+        <cell dependentValue="lynchMob" outValue="lure"        probability="0.40" />
+        <cell dependentValue="lynchMob" outValue="obstacle"    probability="0.25" />
+        <cell dependentValue="lynchMob" outValue="halt"        probability="0.25" />
+        <cell dependentValue="boars" outValue="assault"        probability="1" />
+		<cell dependentValue="drunkards" outValue="assault"        probability="1" />
+	    <!-- Memento Mori -->
+	    <cell dependentValue="merrylads" outValue="lure"        probability="0.25" />
+        <cell dependentValue="merrylads" outValue="obstacle"        probability="0.25" />
+        <cell dependentValue="merrylads" outValue="assault"        probability="0.10" />
+        <cell dependentValue="merrylads" outValue="halt"        probability="0.40" />
+	    <cell dependentValue="bosses" outValue="assault"     probability="0.10" />
+        <cell dependentValue="bosses" outValue="lure"        probability="0.40" />
+        <cell dependentValue="bosses" outValue="obstacle"    probability="0.25" />
+        <cell dependentValue="bosses" outValue="halt"        probability="0.25" />
+	    <cell dependentValue="deserters" outValue="assault"      probability="0.10" />
+		<cell dependentValue="deserters" outValue="lure"      probability="0.30" />
+		<cell dependentValue="deserters" outValue="halt"      probability="0.30" />
+		<cell dependentValue="deserters" outValue="obstacle"      probability="0.30" />
+      </probTable>
+    </element>
+    <element name="lureType" dependency="enemy">
+      <probTable>
+        <cell dependentValue="bandits" outValue="chest"  probability="0.33" />
+		<cell dependentValue="bandits" outValue="person"  probability="0.33" />
+		<cell dependentValue="bandits" outValue="corpse"  probability="0.33" />
+        <cell dependentValue="cumans" outValue="corpse"  probability="0.5" />
+		<cell dependentValue="cumans" outValue="chest"  probability="0.5" />
+        <cell dependentValue="lynchMob" outValue="person"  probability="0.8" />
+		<cell dependentValue="lynchMob" outValue="corpse"  probability="0.2" />
+        <!-- Irrelevant, lure cannot happen for these enemies. Just needs a value for the script to work-->
+		<cell dependentValue="boars" outValue="corpse"  probability="1" />
+		<cell dependentValue="drunkards" outValue="corpse"  probability="1" />
+	    <!-- Memento Mori -->
+	  	<cell dependentValue="merrylads" outValue="chest"  probability="1" />
+	  	<cell dependentValue="bosses" outValue="person"  probability="1" />
+	    <cell dependentValue="deserters" outValue="chest"  probability="1" />
+      </probTable>
+    </element>
+    <element name="reaction" dependency="scene">
+      <probTable>
+        <cell dependentValue="obstacle" outValue="attack" probability="0.5" />
+        <cell dependentValue="obstacle" outValue="bark" probability="0.5" />
+        <cell dependentValue="lure" outValue="attack" probability="0.5" />
+        <cell dependentValue="lure" outValue="bark" probability="0.5" />
+        <cell dependentValue="assault" outValue="attack" probability="1" />
+        <cell dependentValue="halt" outValue="attack" probability="0.1" />
+        <cell dependentValue="halt" outValue="bark" probability="0.9" />
+      </probTable>
+    </element>
+  </randomElements>
+</AmbushNPCConfigurations>

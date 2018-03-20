@@ -1,0 +1,42 @@
+<!-- Roads are Dangerous -->
+<Row><Cell>soul_ui_name_merry</Cell><Cell>Merrymen</Cell><Cell>Merrymen</Cell></Row>
+<Row><Cell>soul_ui_name_deserter</Cell><Cell>Deserter</Cell><Cell>Deserter</Cell></Row>
+<Row><Cell>soul_ui_name_berserker</Cell><Cell>Berserker</Cell><Cell>Berserker</Cell></Row>
+<!-- Midnight Armor -->
+<Row><Cell>ui_in_mdnt_b</Cell><Cell>A fine pair of boots commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine pair of boots commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_s</Cell><Cell>A fine quilted doublet commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine doublet commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_p</Cell><Cell>A fine pair of hose commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine pair of hose commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_g</Cell><Cell>A fine pair of leather gloves commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine pair of leather gloves commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_j</Cell><Cell>A fine pourpoint commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine pourpoint commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_c</Cell><Cell>A fine pair of chausses commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine pair of chausses commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_h</Cell><Cell>A fine quilted coif commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine quilted coif commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_s_2</Cell><Cell>A fine quilted doublet commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine doublet commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_j_2</Cell><Cell>A fine cotehardie commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine cotehardie commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_s_3</Cell><Cell>A fine black tunic commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine black tunic commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_s_4</Cell><Cell>A fine black tunic commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine black tunic commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_h_2</Cell><Cell>A fine cowl commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine cowl commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_j_3</Cell><Cell>A fine pourpoint commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine pourpoint commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_h_3</Cell><Cell>A fine hooded mantle commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine hooded mantle commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_in_mdnt_h_4</Cell><Cell>A fine hooded mantle commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell><Cell>A fine hooded mantle commissioned by a travelling merchant of ill repute, but never paid for - Subtle, silent, and durable.</Cell></Row>
+<Row><Cell>ui_nm_mdnt_b</Cell><Cell>Midnight boots</Cell><Cell>Midnight boots</Cell></Row>
+<Row><Cell>ui_nm_mdnt_s</Cell><Cell>Midnight doublet</Cell><Cell>Midnight doublet</Cell></Row>
+<Row><Cell>ui_nm_mdnt_p</Cell><Cell>Midnight hose</Cell><Cell>Midnight hose</Cell></Row>
+<Row><Cell>ui_nm_mdnt_g</Cell><Cell>Midnight gloves</Cell><Cell>Midnight gloves</Cell></Row>
+<Row><Cell>ui_nm_mdnt_j</Cell><Cell>Midnight pourpoint</Cell><Cell>Midnight pourpoint</Cell></Row>
+<Row><Cell>ui_nm_mdnt_c</Cell><Cell>Midnight chausses</Cell><Cell>Midnight chausses</Cell></Row>
+<Row><Cell>ui_nm_mdnt_h</Cell><Cell>Midnight coif</Cell><Cell>Midnight coif</Cell></Row>
+<Row><Cell>ui_nm_mdnt_s_2</Cell><Cell>Midnight doublet (Short)</Cell><Cell>Midnight doublet (Short)</Cell></Row>
+<Row><Cell>ui_nm_mdnt_j_2</Cell><Cell>Midnight cotehardie</Cell><Cell>Midnight cotehardie</Cell></Row>
+<Row><Cell>ui_nm_mdnt_s_3</Cell><Cell>Midnight tunic</Cell><Cell>Midnight tunic</Cell></Row>
+<Row><Cell>ui_nm_mdnt_s_4</Cell><Cell>Midnight tunic (short)</Cell><Cell>Midnight tunic (short)</Cell></Row>
+<Row><Cell>ui_nm_mdnt_h_2</Cell><Cell>Midnight cowl</Cell><Cell>Midnight cowl</Cell></Row>
+<Row><Cell>ui_nm_mdnt_j_3</Cell><Cell>Midnight pourpoint (short)</Cell><Cell>Midnight pourpoint (short)</Cell></Row>
+<Row><Cell>ui_nm_mdnt_h_3</Cell><Cell>Midnight hood</Cell><Cell>Midnight hood</Cell></Row>
+<Row><Cell>ui_nm_mdnt_h_4</Cell><Cell>Midnight hood</Cell><Cell>Midnight hood</Cell></Row>
+<!-- Daggers -->
+<Row><Cell>ui_in_asin_dagger</Cell><Cell>This dagger is not well suited for combat. It's most effective if you need to creep up on someone and dispose of them without attracting attention. </Cell><Cell>The dagger is the knife's more dangerous cousin. It's most effective if you need to creep up on someone and dispose of them without attracting attention. </Cell></Row>
+<Row><Cell>ui_in_cmbt_dagger</Cell><Cell>This dagger is well suited for close quarter combat, but it is much shorter than typical weapons. Getting in close is key. </Cell><Cell>This dagger is well suited for close quarter combat, but it is much shorter than typical weapons. Getting in close is key. </Cell></Row>
+<Row><Cell>ui_in_pary_dagger</Cell><Cell>This dagger is designed to be used in the off hand to allow for a lighter and quicker approach to defense. Be warned, a shield is a much better overall defensive choice. </Cell><Cell>This dagger is designed to be used in the off hand to allow for a lighter and quicker approach to defense. Be warned, a shield is a much better overall defensive choice. </Cell></Row>
+<Row><Cell>ui_nm_asin_dagger</Cell><Cell>Assassins Dagger</Cell><Cell>Assassins Dagger</Cell></Row>
+<Row><Cell>ui_nm_cmbt_dagger</Cell><Cell>Combat Dagger</Cell><Cell>Assassins Dagger</Cell></Row>
+<Row><Cell>ui_nm_pary_dagger</Cell><Cell>Parrying Dagger</Cell><Cell>Parrying Dagger</Cell></Row>

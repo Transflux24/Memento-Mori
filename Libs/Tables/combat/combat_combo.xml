@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="combat_combo" version="1">
+    <header>
+      <column name="atk_l_weapon_class_id" type="integer" />
+      <column name="atk_l_weapon_group_id" type="integer" />
+      <column name="atk_r_weapon_class_id" type="integer" />
+      <column name="atk_r_weapon_group_id" type="integer" />
+      <column name="combat_combo_id" type="integer" />
+      <column name="combat_combo_name" type="character varying" />
+      <column name="combat_combo_strid" type="character varying" />
+    </header>
+    <rows>
+      <row atk_l_weapon_class_id="4" atk_l_weapon_group_id="" atk_r_weapon_class_id="4" atk_r_weapon_group_id="" combat_combo_id="1" combat_combo_name="Combo lsw 01 false edge" combat_combo_strid="lswd_01_falseedge" />
+      <row atk_l_weapon_class_id="4" atk_l_weapon_group_id="" atk_r_weapon_class_id="4" atk_r_weapon_group_id="" combat_combo_id="4" combat_combo_name="Combo lsw 02 pommel strike" combat_combo_strid="lswd_02_pommelstrike" />
+      <row atk_l_weapon_class_id="4" atk_l_weapon_group_id="" atk_r_weapon_class_id="4" atk_r_weapon_group_id="" combat_combo_id="5" combat_combo_name="Combo lsw 03 oxen hoof" combat_combo_strid="lswd_03_oxenhoof" />
+      <row atk_l_weapon_class_id="4" atk_l_weapon_group_id="" atk_r_weapon_class_id="4" atk_r_weapon_group_id="" combat_combo_id="6" combat_combo_name="Combo lsw 04 belly ache" combat_combo_strid="lswd_04_bellyache" />
+      <row atk_l_weapon_class_id="4" atk_l_weapon_group_id="" atk_r_weapon_class_id="4" atk_r_weapon_group_id="" combat_combo_id="7" combat_combo_name="Combo lsw 05 close shave" combat_combo_strid="lswd_05_closeshave" />
+      <row atk_l_weapon_class_id="4" atk_l_weapon_group_id="" atk_r_weapon_class_id="4" atk_r_weapon_group_id="" combat_combo_id="8" combat_combo_name="Combo lsw 06 scar maker" combat_combo_strid="lswd_06_scarmaker" />
+      <row atk_l_weapon_class_id="8" atk_l_weapon_group_id="" atk_r_weapon_class_id="" atk_r_weapon_group_id="1" combat_combo_id="9" combat_combo_name="Combo shd 01 head stab" combat_combo_strid="shld_01_stab" />
+      <row atk_l_weapon_class_id="8" atk_l_weapon_group_id="" atk_r_weapon_class_id="" atk_r_weapon_group_id="1" combat_combo_id="10" combat_combo_name="Combo shd 02 head  slum" combat_combo_strid="shld_02_slash" />
+      <row atk_l_weapon_class_id="8" atk_l_weapon_group_id="" atk_r_weapon_class_id="" atk_r_weapon_group_id="1" combat_combo_id="11" combat_combo_name="Combo shd 03 shield strike" combat_combo_strid="shld_03_shield" />
+      <row atk_l_weapon_class_id="8" atk_l_weapon_group_id="" atk_r_weapon_class_id="" atk_r_weapon_group_id="1" combat_combo_id="13" combat_combo_name="Combo shd 04 kick" combat_combo_strid="shld_04_kick" />
+      <row atk_l_weapon_class_id="8" atk_l_weapon_group_id="" atk_r_weapon_class_id="" atk_r_weapon_group_id="1" combat_combo_id="14" combat_combo_name="Combo shd 05 head slash" combat_combo_strid="shld_05_head" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="" atk_r_weapon_group_id="7" combat_combo_id="15" combat_combo_name="Combo srt 01 halfsword" combat_combo_strid="shrt_01_halfsword" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="" atk_r_weapon_group_id="7" combat_combo_id="16" combat_combo_name="Combo srt 02 doublestab" combat_combo_strid="shrt_02_doublestab" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="" atk_r_weapon_group_id="7" combat_combo_id="17" combat_combo_name="Combo srt 03 pommelstrike" combat_combo_strid="shrt_03_pommel" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="" atk_r_weapon_group_id="7" combat_combo_id="18" combat_combo_name="Combo srt 04 cut" combat_combo_strid="shrt_04_cut" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="3" atk_r_weapon_group_id="" combat_combo_id="19" combat_combo_name="Combo srt 05 diagonalstrike" combat_combo_strid="shrt_05_diagonal" />
+      <row atk_l_weapon_class_id="0" atk_l_weapon_group_id="" atk_r_weapon_class_id="12" atk_r_weapon_group_id="" combat_combo_id="20" combat_combo_name="Combo srt 06 backslash" combat_combo_strid="shrt_06_backslash" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="" atk_r_weapon_class_id="12" atk_r_weapon_group_id="" combat_combo_id="22" combat_combo_name="Combo now 01 punch" combat_combo_strid="now_01_punch" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="" atk_r_weapon_class_id="12" atk_r_weapon_group_id="" combat_combo_id="23" combat_combo_name="Combo now 02 punch" combat_combo_strid="now_02_punch" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="" atk_r_weapon_class_id="12" atk_r_weapon_group_id="" combat_combo_id="24" combat_combo_name="Combo now 03 kick" combat_combo_strid="now_03_kick" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="" atk_r_weapon_class_id="12" atk_r_weapon_group_id="" combat_combo_id="25" combat_combo_name="Combo now 04 kick" combat_combo_strid="now_04_kick" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="3" atk_r_weapon_group_id="" combat_combo_id="26" combat_combo_name="Combo srt 03 pommelstrike axe" combat_combo_strid="shrt_03_pommel_axe" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="5" atk_r_weapon_group_id="" combat_combo_id="27" combat_combo_name="Combo srt 03 pommelstrike mace" combat_combo_strid="shrt_03_pommel_mace" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="3" atk_r_weapon_group_id="" combat_combo_id="28" combat_combo_name="Combo srt 04 cut axe" combat_combo_strid="shrt_04_cut_axe" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="5" atk_r_weapon_group_id="" combat_combo_id="29" combat_combo_name="Combo srt 04 cut mace" combat_combo_strid="shrt_04_cut_mace" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="5" atk_r_weapon_group_id="" combat_combo_id="30" combat_combo_name="Combo srt 05 diagonalstrike mace" combat_combo_strid="shrt_05_diagonal_mace" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="" atk_r_weapon_group_id="7" combat_combo_id="32" combat_combo_name="Combo shd 03 shield strike (shs)" combat_combo_strid="shld_03_shield_shs" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="5" atk_r_weapon_group_id="" combat_combo_id="33" combat_combo_name="Combo shd 03 shield strike (mace)" combat_combo_strid="shld_03_shield_mace" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="3" atk_r_weapon_group_id="" combat_combo_id="34" combat_combo_name="Combo shd 03 shield strike (axe)" combat_combo_strid="shld_03_shield_axe" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="" atk_r_weapon_group_id="7" combat_combo_id="35" combat_combo_name="Combo shd 05 head slash (shs)" combat_combo_strid="shld_05_head_shs" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="3" atk_r_weapon_group_id="" combat_combo_id="36" combat_combo_name="Combo shd 05 head slash (axe)" combat_combo_strid="shld_05_head_axe" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="5" atk_r_weapon_group_id="" combat_combo_id="37" combat_combo_name="Combo shd 05 head slash (mace)" combat_combo_strid="shld_05_head_mace" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="5" atk_r_weapon_group_id="" combat_combo_id="38" combat_combo_name="Combo shd 02 head  slum (mace)" combat_combo_strid="shld_02_slash_mace" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="3" atk_r_weapon_group_id="" combat_combo_id="39" combat_combo_name="Combo shd 02 head  slum (axe)" combat_combo_strid="shld_02_slash_axe" />
+	  <!-- Short Swords -->
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="" atk_r_weapon_group_id="7" combat_combo_id="40" combat_combo_name="Combo srt 07 diagonalstrike" combat_combo_strid="shrt_07_diagonal" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="" atk_r_weapon_group_id="7" combat_combo_id="41" combat_combo_name="Combo shd 02 head  slum (srt)" combat_combo_strid="shld_02_slash_srt" />
+	  <!-- Axes -->
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="8" atk_r_weapon_class_id="3" atk_r_weapon_group_id="" combat_combo_id="42" combat_combo_name="Combo srt 08 scar maker (axe)" combat_combo_strid="shrt_08_scarmaker_axe" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="8" atk_r_weapon_class_id="3" atk_r_weapon_group_id="" combat_combo_id="43" combat_combo_name="Combo srt 09 oxen hoof (axe)" combat_combo_strid="shrt_09_oxenhoof_axe" />
+	  <!-- Maces -->
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="8" atk_r_weapon_class_id="5" atk_r_weapon_group_id="" combat_combo_id="44" combat_combo_name="Combo srt 10 scar maker (mce)" combat_combo_strid="lswd_10_scarmaker_mce" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="8" atk_r_weapon_class_id="5" atk_r_weapon_group_id="" combat_combo_id="45" combat_combo_name="Combo srt 11 oxen hoof (mce)" combat_combo_strid="lswd_11_oxenhoof_mce" />
+	  <!-- Polearms -->
+      <row atk_l_weapon_class_id="7" atk_l_weapon_group_id="" atk_r_weapon_class_id="7" atk_r_weapon_group_id="" combat_combo_id="46" combat_combo_name="Combo pla 01 false edge" combat_combo_strid="pola_01_falseedge" />
+      <row atk_l_weapon_class_id="7" atk_l_weapon_group_id="" atk_r_weapon_class_id="7" atk_r_weapon_group_id="" combat_combo_id="47" combat_combo_name="Combo pla 02 pommel strike" combat_combo_strid="pola_02_pommelstrike" />
+      <row atk_l_weapon_class_id="7" atk_l_weapon_group_id="" atk_r_weapon_class_id="7" atk_r_weapon_group_id="" combat_combo_id="48" combat_combo_name="Combo pla 03 oxen hoof" combat_combo_strid="pola_03_oxenhoof" />
+      <row atk_l_weapon_class_id="7" atk_l_weapon_group_id="" atk_r_weapon_class_id="7" atk_r_weapon_group_id="" combat_combo_id="49" combat_combo_name="Combo pla 04 belly ache" combat_combo_strid="pola_04_bellyache" />
+      <row atk_l_weapon_class_id="7" atk_l_weapon_group_id="" atk_r_weapon_class_id="7" atk_r_weapon_group_id="" combat_combo_id="50" combat_combo_name="Combo pla 05 close shave" combat_combo_strid="pola_05_closeshave" />
+      <row atk_l_weapon_class_id="7" atk_l_weapon_group_id="" atk_r_weapon_class_id="7" atk_r_weapon_group_id="" combat_combo_id="51" combat_combo_name="Combo pla 06 scar maker" combat_combo_strid="pola_06_scarmaker" />
+	  <!-- Daggers -->
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="14" atk_r_weapon_group_id="" combat_combo_id="52" combat_combo_name="Combo srt 01 halfsword (dag)" combat_combo_strid="shrt_01_halfsword_dag" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="14" atk_r_weapon_group_id="" combat_combo_id="53" combat_combo_name="Combo srt 02 doublestab (dag)" combat_combo_strid="shrt_02_doublestab_dag" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="9" atk_r_weapon_class_id="14" atk_r_weapon_group_id="" combat_combo_id="54" combat_combo_name="Combo srt 03 pommelstrike (dag)" combat_combo_strid="shrt_03_pommel_dag" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="2" atk_r_weapon_class_id="14" atk_r_weapon_group_id="" combat_combo_id="55" combat_combo_name="Combo srt 05 diagonalstrike (dag)" combat_combo_strid="shrt_05_diagonal_dag" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="14" atk_r_weapon_group_id="" combat_combo_id="56" combat_combo_name="Combo shd 02 head  slum (dag)" combat_combo_strid="shld_02_slash_dag" />
+      <row atk_l_weapon_class_id="" atk_l_weapon_group_id="6" atk_r_weapon_class_id="14" atk_r_weapon_group_id="" combat_combo_id="57" combat_combo_name="Combo shd 03 shield strike (dag)" combat_combo_strid="shld_03_shield_dag" />
+    </rows>
+  </table>
+</database>

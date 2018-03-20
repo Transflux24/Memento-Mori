@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="weapon2weapon_preset" version="1">
+    <header>
+      <column name="amount" type="integer" />
+      <column name="is_equipped" type="boolean" />
+      <column name="item_id" type="uuid" />
+      <column name="weapon_preset_id" type="uuid" />
+    </header>
+    <rows>
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="40082b32-2c2c-9d0b-c3ff-571e218ebe98" />
+      <row amount="20" is_equipped="True" item_id="ad6f0f01-aec4-44d1-982c-1210eb01b74a" weapon_preset_id="40082b32-2c2c-9d0b-c3ff-571e218ebe98" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="40082b32-2c2c-9d0b-c3ff-571e218ebe98" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="40097b14-966b-8a76-f80d-499482e79793" />
+      <row amount="1" is_equipped="True" item_id="b48f2290-b002-4b87-baf7-ad55a44727a1" weapon_preset_id="4017b981-b826-b9eb-d68b-28e1cebf2da4" />
+      <row amount="1" is_equipped="True" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" weapon_preset_id="4017b981-b826-b9eb-d68b-28e1cebf2da4" />
+      <row amount="1" is_equipped="True" item_id="a415c3a7-82f0-4a73-925a-bb2c1674955f" weapon_preset_id="4018c5b7-cdb3-386b-180a-4849bd64dca3" />
+      <row amount="1" is_equipped="True" item_id="3bafe608-b757-491d-a51c-3a48b758a6b8" weapon_preset_id="4019d20c-a876-519d-b750-984abc11d9b8" />
+      <row amount="25" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="4019d20c-a876-519d-b750-984abc11d9b8" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="4019d20c-a876-519d-b750-984abc11d9b8" />
+      <row amount="1" is_equipped="True" item_id="3e7657f2-d653-4e57-ae77-6f2225ac642b" weapon_preset_id="40250ede-7bf6-3152-d1d7-76667cd67394" />
+      <row amount="1" is_equipped="True" item_id="e3ee5787-f4c5-42b7-a900-33dc97c60706" weapon_preset_id="40250ede-7bf6-3152-d1d7-76667cd67394" />
+      <row amount="15" is_equipped="True" item_id="4fd563e5-a44a-4a6e-958d-95bcb196814a" weapon_preset_id="402a7bd2-b820-0209-d273-804a03eea29a" />
+      <row amount="1" is_equipped="True" item_id="65eb17e8-29e4-435f-98b1-74f577fe764c" weapon_preset_id="402a7bd2-b820-0209-d273-804a03eea29a" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="402a7bd2-b820-0209-d273-804a03eea29a" />
+      <row amount="1" is_equipped="True" item_id="3846de6d-530b-4fcb-9d45-aac007498f04" weapon_preset_id="402e07c7-a8f1-6633-5ae7-7122ecfd50a0" />
+      <row amount="1" is_equipped="True" item_id="d289be6f-a7cb-44b2-b2d0-a0a45105ef98" weapon_preset_id="402e07c7-a8f1-6633-5ae7-7122ecfd50a0" />
+      <row amount="1" is_equipped="True" item_id="ff88dfd6-181a-4de0-b82a-ad8f1d649bc8" weapon_preset_id="402e07c7-a8f1-6633-5ae7-7122ecfd50a0" />
+      <row amount="1" is_equipped="True" item_id="24a7c868-f23f-4799-8e64-331435a77404" weapon_preset_id="40304371-8ba4-a040-ae11-925f7282bc8d" />
+      <row amount="1" is_equipped="True" item_id="2e32ab30-aa7e-4628-8482-a229a68dfa72" weapon_preset_id="40304371-8ba4-a040-ae11-925f7282bc8d" />
+      <row amount="1" is_equipped="True" item_id="662a3ac5-5883-4b7d-bd84-173eaa136a73" weapon_preset_id="40330dd8-a6a3-f2ac-853c-e170535d58b2" />
+      <row amount="1" is_equipped="True" item_id="b48f2290-b002-4b87-baf7-ad55a44727a1" weapon_preset_id="40330dd8-a6a3-f2ac-853c-e170535d58b2" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="40344290-5e3c-baaf-8662-0fde393c2386" />
+      <row amount="1" is_equipped="True" item_id="ad443031-370e-4a63-ba12-ee3fc4c338a8" weapon_preset_id="40344290-5e3c-baaf-8662-0fde393c2386" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="40426c8e-d538-7f4b-2566-c50ecee00ab1" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="40426c8e-d538-7f4b-2566-c50ecee00ab1" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="404a491c-fecf-ecf8-343a-95a06d85a8b5" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="404a491c-fecf-ecf8-343a-95a06d85a8b5" />
+      <row amount="1" is_equipped="True" item_id="5bcd587a-4d97-4bad-a8b4-3248fc6d0cc6" weapon_preset_id="4060aa8c-d8f8-88f0-8a02-ae7c2df2aa9c" />
+      <row amount="1" is_equipped="True" item_id="823df2a1-bd59-4820-ab53-35e23c46149c" weapon_preset_id="4060aa8c-d8f8-88f0-8a02-ae7c2df2aa9c" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="40652dc5-099e-b3ab-614f-3ae210f7868d" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="40652dc5-099e-b3ab-614f-3ae210f7868d" />
+      <row amount="1" is_equipped="True" item_id="53dffc64-bf9c-4a28-af02-a2ec9705d4a7" weapon_preset_id="407b4c36-84a8-671d-70fb-02e541b2998a" />
+      <row amount="30" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="407b4c36-84a8-671d-70fb-02e541b2998a" />
+      <row amount="1" is_equipped="True" item_id="d14a845b-3787-4172-9fe4-f4dfcd6ac0ec" weapon_preset_id="407b4c36-84a8-671d-70fb-02e541b2998a" />
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="407e1e20-cf8e-462e-0b72-768cb4ca4f80" />
+      <row amount="1" is_equipped="True" item_id="2db35809-5a6b-4a5b-8782-eaf85c46f1d5" weapon_preset_id="40ad4e1c-f527-71eb-fa7f-b5fa06bdc8bb" />
+      <row amount="30" is_equipped="True" item_id="13ba7468-11a2-483d-8cb9-25ce36a2d228" weapon_preset_id="40ae4092-0d64-9e5d-149e-ba687a497f8b" />
+      <row amount="1" is_equipped="True" item_id="7fc2317f-6237-4423-82d2-8c809f651e85" weapon_preset_id="40ae4092-0d64-9e5d-149e-ba687a497f8b" />
+      <row amount="1" is_equipped="True" item_id="4cea28a0-0814-405a-bf24-4fd711f7eb63" weapon_preset_id="40b66e0d-7bff-ee3a-1fa3-9baad71aa8b9" />
+      <row amount="1" is_equipped="True" item_id="f7359b93-8312-4f13-8c51-ddb671a9edff" weapon_preset_id="40b66e0d-7bff-ee3a-1fa3-9baad71aa8b9" />
+      <row amount="1" is_equipped="True" item_id="e3ee5787-f4c5-42b7-a900-33dc97c60706" weapon_preset_id="40b831df-d697-267a-143e-eda679fe5ca3" />
+      <row amount="1" is_equipped="True" item_id="b48f2290-b002-4b87-baf7-ad55a44727a1" weapon_preset_id="40bc7084-e9b6-cf0d-2b93-7d4ab1b104af" />
+      <row amount="1" is_equipped="True" item_id="e0c5c6fb-6a02-4ead-9877-ff0464b92729" weapon_preset_id="40bc7084-e9b6-cf0d-2b93-7d4ab1b104af" />
+      <row amount="1" is_equipped="True" item_id="6c67d354-a472-442b-9d43-7ba805880aa6" weapon_preset_id="40c27d4d-b9d1-d3c2-a43d-9f16a680dd9f" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="40c27d4d-b9d1-d3c2-a43d-9f16a680dd9f" />
+      <row amount="1" is_equipped="True" item_id="791ca878-59c2-455f-a3d1-c12bafa0e74f" weapon_preset_id="40d345a3-9154-64b2-1ecf-8e8cf6e6e6b9" />
+      <row amount="1" is_equipped="True" item_id="30a02ab0-eb1d-4bf7-a53f-eb1004b2cbd8" weapon_preset_id="40d64edf-217d-1e4e-ae47-c7a7f3eee8a7" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="40d64edf-217d-1e4e-ae47-c7a7f3eee8a7" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="40dd3a2a-0a90-e549-2439-b53a14af06af" />
+      <row amount="1" is_equipped="True" item_id="4cea28a0-0814-405a-bf24-4fd711f7eb63" weapon_preset_id="40dd3a2a-0a90-e549-2439-b53a14af06af" />
+      <row amount="1" is_equipped="True" item_id="04c2c966-f55b-4afe-b0c2-bfdf4ba0deeb" weapon_preset_id="40dd53bd-08af-7a7a-521d-47437f29ad84" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="40dd53bd-08af-7a7a-521d-47437f29ad84" />
+      <row amount="1" is_equipped="True" item_id="00000000-0000-0000-0000-000000000005" weapon_preset_id="40df7e8f-6ea8-7b75-374e-cdfe6106398f" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="40df7e8f-6ea8-7b75-374e-cdfe6106398f" />
+      <row amount="1" is_equipped="True" item_id="9f754566-7fb2-47e1-951b-22c27debb3c8" weapon_preset_id="40e05671-e719-f104-fddb-8e00efa1f5a3" />
+      <row amount="30" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="40e3a5d0-9924-9041-19d5-459228c6ce92" />
+      <row amount="1" is_equipped="True" item_id="b063cb37-8f17-49b9-88f8-04111fc81838" weapon_preset_id="40e3a5d0-9924-9041-19d5-459228c6ce92" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="40e3a5d0-9924-9041-19d5-459228c6ce92" />
+      <row amount="1" is_equipped="True" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" weapon_preset_id="40e7e556-da0b-4ce8-221e-0c504155999e" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="40e8e63e-15dd-0d08-8e01-39713d0c8bba" />
+      <row amount="1" is_equipped="True" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" weapon_preset_id="40f048cf-a736-3616-1540-405ead6c14b7" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="4100cde3-b184-f4f1-c63e-4fd04ee4b987" />
+      <row amount="1" is_equipped="True" item_id="ad443031-370e-4a63-ba12-ee3fc4c338a8" weapon_preset_id="4103b7db-49b7-b8d2-0150-1c7e0cc239ba" />
+      <row amount="1" is_equipped="True" item_id="db0725ac-c0e0-41db-b7a6-2887c57df612" weapon_preset_id="410f2b06-8e64-05a5-d19f-c3c7531e3cb0" />
+      <row amount="1" is_equipped="True" item_id="2b652926-fb99-406f-9955-8a45dd1f1cd9" weapon_preset_id="41153b2b-5ad8-b39a-bd66-5dc4e6a83b94" />
+      <row amount="1" is_equipped="True" item_id="662a3ac5-5883-4b7d-bd84-173eaa136a73" weapon_preset_id="41153b2b-5ad8-b39a-bd66-5dc4e6a83b94" />
+      <row amount="1" is_equipped="True" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" weapon_preset_id="41160279-c049-affa-2748-5893f272a2b6" />
+      <row amount="1" is_equipped="True" item_id="cf84a3f5-781a-4f1d-94b7-db8745a9682e" weapon_preset_id="41160279-c049-affa-2748-5893f272a2b6" />
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="411d2ef0-4382-6ad0-7fc5-0907149933bb" />
+      <row amount="1" is_equipped="True" item_id="6de91117-0ce4-4a84-a903-3f0dcc1517a0" weapon_preset_id="411d2ef0-4382-6ad0-7fc5-0907149933bb" />
+      <row amount="1" is_equipped="True" item_id="931be8b2-e9e7-48f8-84f9-54f438d19cc4" weapon_preset_id="411f5092-3284-8d7b-c4e5-4ed038c64799" />
+      <row amount="1" is_equipped="True" item_id="7377215a-a0ca-44a2-b11a-113a024191ca" weapon_preset_id="4127ae07-b810-2867-2152-ac8a22987aab" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="4127ae07-b810-2867-2152-ac8a22987aab" />
+      <row amount="1" is_equipped="True" item_id="4bf59325-6ee7-4200-8b61-ed0c505674ae" weapon_preset_id="412b4c49-d29d-7190-fc6d-856d47847dbb" />
+      <row amount="1" is_equipped="True" item_id="5878eeed-a6b6-481c-ac10-9e7cd5958988" weapon_preset_id="412b4c49-d29d-7190-fc6d-856d47847dbb" />
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="4131dce5-fce1-e452-41cc-556206a40b8a" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="41365b56-428f-1665-007a-47e9bbf24d8c" />
+      <row amount="1" is_equipped="True" item_id="ee4d4a9d-dfe7-432e-80ae-6be5ac6c6225" weapon_preset_id="41365b56-428f-1665-007a-47e9bbf24d8c" />
+      <row amount="1" is_equipped="True" item_id="581f1eb0-7d42-4d6d-9609-9902d3690c07" weapon_preset_id="4140dfa6-ff57-5335-ff0b-1b7ae89b2aa8" />
+      <row amount="1" is_equipped="True" item_id="f7359b93-8312-4f13-8c51-ddb671a9edff" weapon_preset_id="4146a9fb-3eb5-f7d4-be87-87bd9c74e2ac" />
+      <row amount="1" is_equipped="True" item_id="13ba7468-11a2-483d-8cb9-25ce36a2d228" weapon_preset_id="415229fc-7d45-fe82-2abc-138d6a0e829d" />
+      <row amount="1" is_equipped="True" item_id="5bcd587a-4d97-4bad-a8b4-3248fc6d0cc6" weapon_preset_id="41615f14-f0ae-e604-38ca-195158a8f4a8" />
+      <row amount="1" is_equipped="True" item_id="ef79c956-744e-4731-a385-ecf9c57b3adc" weapon_preset_id="41615f14-f0ae-e604-38ca-195158a8f4a8" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="416792a0-ff3d-934a-2c90-5c79004ca7ab" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="416792a0-ff3d-934a-2c90-5c79004ca7ab" />
+      <row amount="15" is_equipped="True" item_id="d5e6764d-18ba-44cb-8dd0-6640a17785a8" weapon_preset_id="416792a0-ff3d-934a-2c90-5c79004ca7ab" />
+      <row amount="1" is_equipped="True" item_id="42f20475-2329-4771-8b12-0cad34574bc8" weapon_preset_id="41681c28-6e41-ca7f-9879-b0542c2c6297" />
+      <row amount="1" is_equipped="True" item_id="6de91117-0ce4-4a84-a903-3f0dcc1517a0" weapon_preset_id="41681c28-6e41-ca7f-9879-b0542c2c6297" />
+      <row amount="1" is_equipped="True" item_id="e6391b02-c09c-495d-a980-ad675d523fb3" weapon_preset_id="416ddfaa-a6d3-ba62-fe23-f997ebdd519b" />
+      <row amount="1" is_equipped="True" item_id="f07a9b9b-10b5-4662-8b2a-8e5cd34b04a3" weapon_preset_id="417eafa6-cbbe-58d9-d1ef-f907612dbda4" />
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="41811615-3dc3-9772-4823-ff878a9bddbf" />
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="41811615-3dc3-9772-4823-ff878a9bddbf" />
+      <row amount="1" is_equipped="True" item_id="6de91117-0ce4-4a84-a903-3f0dcc1517a0" weapon_preset_id="419205f2-8c77-06ba-6ee7-500695edaa9a" />
+      <row amount="1" is_equipped="True" item_id="e6391b02-c09c-495d-a980-ad675d523fb3" weapon_preset_id="419205f2-8c77-06ba-6ee7-500695edaa9a" />
+      <row amount="1" is_equipped="True" item_id="6de91117-0ce4-4a84-a903-3f0dcc1517a0" weapon_preset_id="41991464-fadc-c390-5afb-f635ef9c05ad" />
+      <row amount="1" is_equipped="True" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" weapon_preset_id="41991464-fadc-c390-5afb-f635ef9c05ad" />
+      <row amount="1" is_equipped="True" item_id="d14a845b-3787-4172-9fe4-f4dfcd6ac0ec" weapon_preset_id="41a39f6f-07e7-0f6f-0d4a-92270a14bfb0" />
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="41a499b6-a5f2-ff38-34dc-4b88697d8c9d" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="41a499b6-a5f2-ff38-34dc-4b88697d8c9d" />
+      <row amount="1" is_equipped="True" item_id="405c1865-413d-43b8-8db9-c44a0eefd350" weapon_preset_id="41ace40a-a0c7-b712-b8a3-da398c3fa0ad" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="41ace40a-a0c7-b712-b8a3-da398c3fa0ad" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="41af06b0-14f0-9a66-bc02-6d9d62736b9c" />
+      <row amount="1" is_equipped="True" item_id="3e7657f2-d653-4e57-ae77-6f2225ac642b" weapon_preset_id="41af06b0-14f0-9a66-bc02-6d9d62736b9c" />
+      <row amount="1" is_equipped="True" item_id="13ba7468-11a2-483d-8cb9-25ce36a2d228" weapon_preset_id="41ba7972-8b35-47e7-993e-ded98b5b449b" />
+      <row amount="1" is_equipped="True" item_id="7fc2317f-6237-4423-82d2-8c809f651e85" weapon_preset_id="41ba7972-8b35-47e7-993e-ded98b5b449b" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="41ba7972-8b35-47e7-993e-ded98b5b449b" />
+      <row amount="1" is_equipped="True" item_id="0d03afe4-9785-44d2-88d2-2c870de8dbfa" weapon_preset_id="41c310b5-e3ee-9007-fb3a-fd17ab5365b8" />
+      <row amount="1" is_equipped="True" item_id="13ba7468-11a2-483d-8cb9-25ce36a2d228" weapon_preset_id="41c310b5-e3ee-9007-fb3a-fd17ab5365b8" />
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="41c310b5-e3ee-9007-fb3a-fd17ab5365b8" />
+      <row amount="1" is_equipped="True" item_id="24a7c868-f23f-4799-8e64-331435a77404" weapon_preset_id="41d2badd-0076-b8eb-1364-343ce3bfab9c" />
+      <row amount="25" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="41d2badd-0076-b8eb-1364-343ce3bfab9c" />
+      <row amount="1" is_equipped="True" item_id="7c1ee5f9-e089-4ee5-9f65-524976e86e7d" weapon_preset_id="41d2badd-0076-b8eb-1364-343ce3bfab9c" />
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="41d33d4c-73b4-055b-c1c4-ec50e6faa88e" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="41f992be-0d44-6bea-a0d9-f7bf16700885" />
+      <row amount="1" is_equipped="True" item_id="7c1ee5f9-e089-4ee5-9f65-524976e86e7d" weapon_preset_id="41f992be-0d44-6bea-a0d9-f7bf16700885" />
+      <row amount="25" is_equipped="True" item_id="802507e9-d620-47b5-ae66-08fcc314e26a" weapon_preset_id="41f992be-0d44-6bea-a0d9-f7bf16700885" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="420750e6-f34f-2af8-f42f-5bf2f8d01aac" />
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="420897ef-5acc-7e52-00d8-98135ed6d894" />
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="420897ef-5acc-7e52-00d8-98135ed6d894" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="420d6d69-76e8-69c0-7360-6e86cab80e9f" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="420d6d69-76e8-69c0-7360-6e86cab80e9f" />
+      <row amount="10" is_equipped="True" item_id="d5e6764d-18ba-44cb-8dd0-6640a17785a8" weapon_preset_id="420d6d69-76e8-69c0-7360-6e86cab80e9f" />
+      <row amount="1" is_equipped="True" item_id="7fc2317f-6237-4423-82d2-8c809f651e85" weapon_preset_id="42193955-6ce7-e158-9e34-838586f618b9" />
+      <row amount="1" is_equipped="True" item_id="a415c3a7-82f0-4a73-925a-bb2c1674955f" weapon_preset_id="42193955-6ce7-e158-9e34-838586f618b9" />
+      <row amount="30" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="42193955-6ce7-e158-9e34-838586f618b9" />
+      <row amount="1" is_equipped="True" item_id="86386baf-5228-4a29-b545-4e6784b81f7c" weapon_preset_id="421c4bbb-f0e7-2a08-a35a-ce54f0f8d6ba" />
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="421fc804-d264-998d-391f-45a12b33cf9a" />
+      <row amount="40" is_equipped="True" item_id="dfea5d01-b25c-414a-9ab4-6911a5f82118" weapon_preset_id="421fc804-d264-998d-391f-45a12b33cf9a" />
+      <row amount="1" is_equipped="True" item_id="e38a3c49-811b-4ff2-80d6-fc4d49d89ba5" weapon_preset_id="421fc804-d264-998d-391f-45a12b33cf9a" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="42271e39-95a3-c851-c8c7-4ee0847294a1" />
+      <row amount="1" is_equipped="True" item_id="6c67d354-a472-442b-9d43-7ba805880aa6" weapon_preset_id="4230174d-0e22-10bb-4f1a-f6154cbdfdbe" />
+      <row amount="1" is_equipped="True" item_id="e5ab81a9-d02e-4361-acf5-ac755df7f2dc" weapon_preset_id="4230174d-0e22-10bb-4f1a-f6154cbdfdbe" />
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="4241505b-2709-ce0d-773e-c373cef97d95" />
+      <row amount="30" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="4241505b-2709-ce0d-773e-c373cef97d95" />
+      <row amount="1" is_equipped="True" item_id="e38a3c49-811b-4ff2-80d6-fc4d49d89ba5" weapon_preset_id="4241505b-2709-ce0d-773e-c373cef97d95" />
+      <row amount="1" is_equipped="True" item_id="01b86c1e-1614-4310-8bed-10b7682e5815" weapon_preset_id="424ccbc3-9bc8-3a71-39f3-24f5e21c5a9b" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="4254c9bf-7bb5-4030-14ad-94976a4f18a9" />
+      <row amount="1" is_equipped="True" item_id="5b7ed53e-3554-47c7-817b-b971a2d99713" weapon_preset_id="4254c9bf-7bb5-4030-14ad-94976a4f18a9" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="42587089-cc8c-f4d6-2a78-de3278493190" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="42587089-cc8c-f4d6-2a78-de3278493190" />
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="4261e5a8-8ab9-f052-1978-a156fdcc99a7" />
+      <row amount="1" is_equipped="True" item_id="772c5d38-66b3-43f7-9757-5f10439aee97" weapon_preset_id="4261e5a8-8ab9-f052-1978-a156fdcc99a7" />
+      <row amount="1" is_equipped="True" item_id="488d9792-0dbf-41dc-a320-753d94d1f1b6" weapon_preset_id="4271ffca-78d7-a90b-368c-ade857bee094" />
+      <row amount="1" is_equipped="True" item_id="24a7c868-f23f-4799-8e64-331435a77404" weapon_preset_id="42751162-6f3c-7d91-5369-069ed01f87a0" />
+      <row amount="1" is_equipped="True" item_id="823df2a1-bd59-4820-ab53-35e23c46149c" weapon_preset_id="42751162-6f3c-7d91-5369-069ed01f87a0" />
+      <row amount="1" is_equipped="True" item_id="481e7576-a6ee-4732-ba2f-98b88b430c41" weapon_preset_id="4275d9d4-b597-49d5-f89b-dc78ce8a308f" />
+      <row amount="30" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4275d9d4-b597-49d5-f89b-dc78ce8a308f" />
+      <row amount="1" is_equipped="True" item_id="788c57a8-ae7a-43a7-8236-07fec193531c" weapon_preset_id="4275d9d4-b597-49d5-f89b-dc78ce8a308f" />
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="427c21af-72c1-3bca-b109-96adcc18bbac" />
+      <row amount="1" is_equipped="True" item_id="b97a2084-a5ca-4d16-ab58-e4665afe212f" weapon_preset_id="427c21af-72c1-3bca-b109-96adcc18bbac" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="428167c8-cd98-8f34-8f25-e4413e0fd3b1" />
+      <row amount="1" is_equipped="True" item_id="d133cf8c-dc76-48ca-a823-cf837e7f0f99" weapon_preset_id="428167c8-cd98-8f34-8f25-e4413e0fd3b1" />
+      <row amount="1" is_equipped="True" item_id="58ef3e13-d40f-4b25-b4bc-3b06df0f2578" weapon_preset_id="4283e900-192f-d031-5941-2e6a2a128c86" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="42957522-3e37-9efd-adb2-0a3b61c52b94" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="42957522-3e37-9efd-adb2-0a3b61c52b94" />
+      <row amount="1" is_equipped="True" item_id="4c0874f3-67f9-4e5f-ad53-9ed29156acd5" weapon_preset_id="42b18f9b-39b8-cf65-e1eb-0dccc45e2f9c" />
+      <row amount="1" is_equipped="True" item_id="ef79c956-744e-4731-a385-ecf9c57b3adc" weapon_preset_id="42b18f9b-39b8-cf65-e1eb-0dccc45e2f9c" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="42b3ad6f-cc12-bcb2-eee9-e359a0b523a0" />
+      <row amount="1" is_equipped="True" item_id="214f7911-d9be-4260-b5cb-590f96ffde9a" weapon_preset_id="42b5972a-2042-1e52-9443-8207849c74a5" />
+      <row amount="1" is_equipped="True" item_id="d70b732b-c924-4dad-aa56-2f27e6e9c656" weapon_preset_id="42b5972a-2042-1e52-9443-8207849c74a5" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="42b7eb96-c42f-c371-cc82-95bff4beab85" />
+      <row amount="1" is_equipped="True" item_id="b173f48f-6f4f-42eb-a119-37d2402e74f0" weapon_preset_id="42b7eb96-c42f-c371-cc82-95bff4beab85" />
+      <row amount="1" is_equipped="True" item_id="00000000-0000-0000-0000-000000000005" weapon_preset_id="42bfe343-ab5f-435e-e678-3708fec680bc" />
+      <row amount="1" is_equipped="True" item_id="30a02ab0-eb1d-4bf7-a53f-eb1004b2cbd8" weapon_preset_id="42c3de65-aa93-7b5d-1f84-9e36c718c598" />
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="42c3de65-aa93-7b5d-1f84-9e36c718c598" />
+      <row amount="1" is_equipped="True" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" weapon_preset_id="42c42c12-389c-101c-ae3d-be4313b61dab" />
+      <row amount="1" is_equipped="True" item_id="db35e15d-ccc0-4c59-b76e-f7d6be6939f2" weapon_preset_id="42c73480-4b60-fbdf-9512-5f2badbf52b3" />
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="42c9c4fb-0ab3-6fdb-96a7-8776135cc3af" />
+      <row amount="1" is_equipped="True" item_id="f7359b93-8312-4f13-8c51-ddb671a9edff" weapon_preset_id="42c9c4fb-0ab3-6fdb-96a7-8776135cc3af" />
+      <row amount="1" is_equipped="True" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" weapon_preset_id="42cf784f-4889-2747-6408-ed2d6d5e6692" />
+      <row amount="1" is_equipped="True" item_id="d133cf8c-dc76-48ca-a823-cf837e7f0f99" weapon_preset_id="42cf784f-4889-2747-6408-ed2d6d5e6692" />
+      <row amount="1" is_equipped="True" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" weapon_preset_id="42df1e99-9d7d-499a-18dc-cd40cc579ab7" />
+      <row amount="1" is_equipped="True" item_id="eef9a291-fa86-454b-9a01-22d92647f5f1" weapon_preset_id="42df1e99-9d7d-499a-18dc-cd40cc579ab7" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="42e010dc-69e9-f8ab-21c3-1ec48af19fac" />
+      <row amount="1" is_equipped="True" item_id="ad443031-370e-4a63-ba12-ee3fc4c338a8" weapon_preset_id="42e010dc-69e9-f8ab-21c3-1ec48af19fac" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="42f5c571-af2b-8493-27d8-a1a628a47db8" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="42f5c571-af2b-8493-27d8-a1a628a47db8" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="42f8fd1a-a1af-b311-2bc8-856a75b483b3" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="42f974e4-dad3-e6be-12f0-3165e687a4b7" />
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="42f974e4-dad3-e6be-12f0-3165e687a4b7" />
+      <row amount="1" is_equipped="True" item_id="1592a436-4a22-4636-b82d-14af8127ee01" weapon_preset_id="431d2d05-c551-246d-84c6-459f97988cbe" />
+      <row amount="1" is_equipped="True" item_id="d5ca8f35-28ec-4bf3-b042-7c97ce4c4f14" weapon_preset_id="432141ad-5493-97a6-de3a-bf3afe46798e" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="4327cdf1-606f-cdae-629a-0f225e048bb6" />
+      <row amount="1" is_equipped="True" item_id="5ab5581a-be10-4520-9ab4-90c6985498d3" weapon_preset_id="433a97fa-0908-6b03-2eff-933c09864097" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="434b7943-192f-f954-13b6-3ddd244834aa" />
+      <row amount="1" is_equipped="True" item_id="cf58c28c-f2bd-41a0-9c6d-764767d144cf" weapon_preset_id="434b7943-192f-f954-13b6-3ddd244834aa" />
+      <row amount="1" is_equipped="True" item_id="5878eeed-a6b6-481c-ac10-9e7cd5958988" weapon_preset_id="4362277a-804b-8641-b8a5-2444b2622b9a" />
+      <row amount="1" is_equipped="True" item_id="42f20475-2329-4771-8b12-0cad34574bc8" weapon_preset_id="436a6f3b-3c08-df21-4007-f7eca6d8fc88" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4394b50e-80a5-5b55-5277-e90fd78959a4" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="4394b50e-80a5-5b55-5277-e90fd78959a4" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="439dcf0d-199d-6fec-02a4-62f1639ff491" />
+      <row amount="12" is_equipped="True" item_id="ad6f0f01-aec4-44d1-982c-1210eb01b74a" weapon_preset_id="439dcf0d-199d-6fec-02a4-62f1639ff491" />
+      <row amount="1" is_equipped="True" item_id="931be8b2-e9e7-48f8-84f9-54f438d19cc4" weapon_preset_id="43a910e8-b093-d353-7541-3f707eb3bf82" />
+      <row amount="1" is_equipped="True" item_id="214f7911-d9be-4260-b5cb-590f96ffde9a" weapon_preset_id="43b8c784-9244-7640-027b-1cea6bbb88bd" />
+      <row amount="1" is_equipped="True" item_id="60734204-5a17-47cc-8fa2-9e8dfdf4ed62" weapon_preset_id="43b8c784-9244-7640-027b-1cea6bbb88bd" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="43bcd33b-e5e2-1f2a-3888-45dca2db6e83" />
+      <row amount="1" is_equipped="True" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" weapon_preset_id="43c922e1-cb1a-ed32-7854-11881b5a3dba" />
+      <row amount="1" is_equipped="True" item_id="b129a71e-cadb-47db-bc2c-6ce85e3b278c" weapon_preset_id="43c922e1-cb1a-ed32-7854-11881b5a3dba" />
+      <row amount="1" is_equipped="True" item_id="8468933a-7d6b-4cf9-92f0-af5874d40a9b" weapon_preset_id="43ceac0b-d21b-be48-3089-6761901989a4" />
+      <row amount="1" is_equipped="True" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" weapon_preset_id="44029346-47e5-f738-d961-487580e65695" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="440ff9ad-f7c7-8bac-622b-65044d52f8a9" />
+      <row amount="1" is_equipped="True" item_id="608922e3-0405-4110-a026-dcd3c69b2bf2" weapon_preset_id="440ff9ad-f7c7-8bac-622b-65044d52f8a9" />
+      <row amount="1" is_equipped="True" item_id="d7a081e8-2b8c-49d0-915d-2d3c8d4c5274" weapon_preset_id="441563d0-6b5a-2abb-5599-43a24141f5a6" />
+      <row amount="1" is_equipped="True" item_id="85b71c81-e087-47f1-a290-bb80ed1bfaf2" weapon_preset_id="4418497f-14ac-9bc8-e146-4fc24d6d18a0" />
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="44192120-0184-e0fe-ee6c-0e59f3dda0b6" />
+      <row amount="1" is_equipped="True" item_id="871cbc55-35cf-4397-846e-7bf05d4308c7" weapon_preset_id="44192120-0184-e0fe-ee6c-0e59f3dda0b6" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="441b2944-2408-2c43-81c1-da296931c887" />
+      <row amount="36" is_equipped="True" item_id="ad6f0f01-aec4-44d1-982c-1210eb01b74a" weapon_preset_id="441b2944-2408-2c43-81c1-da296931c887" />
+      <row amount="1" is_equipped="True" item_id="1af2b27c-06bf-42a9-b203-8e7c83361d50" weapon_preset_id="442b18a1-9757-92f4-c4ab-c4c88c65c58b" />
+      <row amount="1" is_equipped="True" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" weapon_preset_id="442b18a1-9757-92f4-c4ab-c4c88c65c58b" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="4433efff-270e-b701-3760-6e6cc451be99" />
+      <row amount="1" is_equipped="True" item_id="30a02ab0-eb1d-4bf7-a53f-eb1004b2cbd8" weapon_preset_id="4433efff-270e-b701-3760-6e6cc451be99" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="443cead5-50eb-5e34-f35f-781c79327ca7" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="443cead5-50eb-5e34-f35f-781c79327ca7" />
+      <row amount="1" is_equipped="True" item_id="0eb0ac15-f0d9-49ce-9dd8-b37381a7a508" weapon_preset_id="4443ac46-8757-8824-c1ae-0a6ccc47789b" />
+      <row amount="1" is_equipped="True" item_id="214f7911-d9be-4260-b5cb-590f96ffde9a" weapon_preset_id="4443ac46-8757-8824-c1ae-0a6ccc47789b" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="44674727-ec51-ac3a-e463-2de3f864eab2" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="4479fba2-700d-1c83-e6d7-6661bc4bdf9c" />
+      <row amount="1" is_equipped="True" item_id="cfa7a763-493e-41a7-98e8-7bd54bba4649" weapon_preset_id="4479fba2-700d-1c83-e6d7-6661bc4bdf9c" />
+      <row amount="1" is_equipped="True" item_id="6de91117-0ce4-4a84-a903-3f0dcc1517a0" weapon_preset_id="4488e6b8-96cc-cd40-9c18-5e9312492bbe" />
+      <row amount="1" is_equipped="True" item_id="ee4d4a9d-dfe7-432e-80ae-6be5ac6c6225" weapon_preset_id="4488e6b8-96cc-cd40-9c18-5e9312492bbe" />
+      <row amount="1" is_equipped="True" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" weapon_preset_id="44b0fd8e-68ea-50a3-ebf5-bce909985cbe" />
+      <row amount="1" is_equipped="True" item_id="a1ba1e1d-a9dd-4b31-b518-184070831576" weapon_preset_id="44b0fd8e-68ea-50a3-ebf5-bce909985cbe" />
+      <row amount="1" is_equipped="True" item_id="1592a436-4a22-4636-b82d-14af8127ee01" weapon_preset_id="44c11ad2-cd60-b961-5757-28c899c2ccb7" />
+      <row amount="1" is_equipped="True" item_id="3846de6d-530b-4fcb-9d45-aac007498f04" weapon_preset_id="44c6abd2-9dc0-fe11-1454-c9863b1aa8bd" />
+      <row amount="1" is_equipped="True" item_id="ff88dfd6-181a-4de0-b82a-ad8f1d649bc8" weapon_preset_id="44c6abd2-9dc0-fe11-1454-c9863b1aa8bd" />
+      <row amount="1" is_equipped="True" item_id="4ac3347e-a93a-4cc0-9ba5-add86391bc12" weapon_preset_id="44d7d394-52d9-c452-9ce7-c2848d65d2ba" />
+      <row amount="30" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="44ddeed0-0fda-b4e1-98ad-ed10bae923a1" />
+      <row amount="1" is_equipped="True" item_id="e38a3c49-811b-4ff2-80d6-fc4d49d89ba5" weapon_preset_id="44ddeed0-0fda-b4e1-98ad-ed10bae923a1" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="44ddeed0-0fda-b4e1-98ad-ed10bae923a1" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="44fbacbe-3a8b-a99e-06e0-e7a37a7f989a" />
+      <row amount="1" is_equipped="True" item_id="75f6a7ef-7144-46c6-b044-b94ab4167f67" weapon_preset_id="44fbacbe-3a8b-a99e-06e0-e7a37a7f989a" />
+      <row amount="1" is_equipped="True" item_id="6ec15d56-4f77-4751-af72-e6225f825ae8" weapon_preset_id="45048d0d-1ef2-2e3a-ceb8-ae14163352b2" />
+      <row amount="1" is_equipped="True" item_id="cfa7a763-493e-41a7-98e8-7bd54bba4649" weapon_preset_id="45048d0d-1ef2-2e3a-ceb8-ae14163352b2" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="451adbce-649d-5492-e10a-37164fef2095" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="451adbce-649d-5492-e10a-37164fef2095" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="452e45f5-960e-392e-ec5e-dcc3527908b9" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="452e45f5-960e-392e-ec5e-dcc3527908b9" />
+      <row amount="1" is_equipped="True" item_id="662a3ac5-5883-4b7d-bd84-173eaa136a73" weapon_preset_id="45366524-0c57-d1d5-d6f0-bd1355b6909a" />
+      <row amount="1" is_equipped="True" item_id="8e2ccaa1-17c2-4cef-b378-e71dc83bddb7" weapon_preset_id="453716f5-0ac4-dd63-4653-aa0544006ea8" />
+      <row amount="1" is_equipped="True" item_id="ef79c956-744e-4731-a385-ecf9c57b3adc" weapon_preset_id="453716f5-0ac4-dd63-4653-aa0544006ea8" />
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="454a60ca-726b-8dda-5822-fa334935cd97" />
+      <row amount="1" is_equipped="True" item_id="04c2c966-f55b-4afe-b0c2-bfdf4ba0deeb" weapon_preset_id="45507dc0-00dd-c9f1-4465-853ce7df9096" />
+      <row amount="1" is_equipped="True" item_id="24a7c868-f23f-4799-8e64-331435a77404" weapon_preset_id="45507dc0-00dd-c9f1-4465-853ce7df9096" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="45573d13-8bb1-66c5-97bb-c3a9565684be" />
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="456f7c92-efd3-21ef-468d-152483d25db1" />
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="456f7c92-efd3-21ef-468d-152483d25db1" />
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="4571b7dd-5b20-b051-f599-591992541fb3" />
+      <row amount="1" is_equipped="False" item_id="2c9e4731-1858-423d-a898-a15484507cb7" weapon_preset_id="4571b7dd-5b20-b051-f599-591992541fb3" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="4571b7dd-5b20-b051-f599-591992541fb3" />
+      <row amount="1" is_equipped="False" item_id="8f2764bc-e4e7-407a-b1ed-8ee221b2bb5d" weapon_preset_id="4571b7dd-5b20-b051-f599-591992541fb3" />
+      <row amount="1" is_equipped="True" item_id="c8c010e2-4ae9-42b3-8b02-df7d797237f9" weapon_preset_id="4571b7dd-5b20-b051-f599-591992541fb3" />
+      <row amount="10" is_equipped="True" item_id="d5e6764d-18ba-44cb-8dd0-6640a17785a8" weapon_preset_id="4571b7dd-5b20-b051-f599-591992541fb3" />
+      <row amount="1" is_equipped="False" item_id="e5fc1a89-9bb1-44a9-a524-c6834a5e2e76" weapon_preset_id="4571b7dd-5b20-b051-f599-591992541fb3" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="4571b7dd-5b20-b051-f599-591992541fb3" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="4579f321-d2bc-620c-4f9f-9e7357790982" />
+      <row amount="1" is_equipped="True" item_id="cfa7a763-493e-41a7-98e8-7bd54bba4649" weapon_preset_id="4579f321-d2bc-620c-4f9f-9e7357790982" />
+      <row amount="1" is_equipped="True" item_id="04c2c966-f55b-4afe-b0c2-bfdf4ba0deeb" weapon_preset_id="45a0fbef-d214-8dc0-1475-57997e5f958f" />
+      <row amount="1" is_equipped="True" item_id="d5ca8f35-28ec-4bf3-b042-7c97ce4c4f14" weapon_preset_id="45a0fbef-d214-8dc0-1475-57997e5f958f" />
+      <row amount="1" is_equipped="True" item_id="709c3428-ee1c-4fbe-87d1-8282660308fb" weapon_preset_id="45b780e0-8936-bacf-4145-ffcd2dd31c8f" />
+      <row amount="1" is_equipped="True" item_id="cfa7a763-493e-41a7-98e8-7bd54bba4649" weapon_preset_id="45b780e0-8936-bacf-4145-ffcd2dd31c8f" />
+      <row amount="1" is_equipped="True" item_id="709c3428-ee1c-4fbe-87d1-8282660308fb" weapon_preset_id="45b788b1-c8a2-2564-5600-5e4ecefab1ac" />
+      <row amount="1" is_equipped="True" item_id="58649b63-8239-4ef5-a834-5530d145fe95" weapon_preset_id="45bbc06a-749d-b7b3-da1b-3638206b29a4" />
+      <row amount="1" is_equipped="True" item_id="b97a2084-a5ca-4d16-ab58-e4665afe212f" weapon_preset_id="45bbc06a-749d-b7b3-da1b-3638206b29a4" />
+      <row amount="1" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="45bbc06a-749d-b7b3-da1b-3638206b29a4" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="45c13a44-2c46-8be9-7bc0-5338bf99ed8e" />
+      <row amount="1" is_equipped="True" item_id="965cc83a-1d34-416f-aabd-c4a461a6e583" weapon_preset_id="45c13a44-2c46-8be9-7bc0-5338bf99ed8e" />
+      <row amount="20" is_equipped="True" item_id="278d26d1-e9a7-4354-84f9-37d20cb72b45" weapon_preset_id="45c1b1a4-b400-3d37-4ed8-722b4df4649d" />
+      <row amount="1" is_equipped="True" item_id="6e06e314-5cc0-41eb-a7b6-69896b121413" weapon_preset_id="45c1b1a4-b400-3d37-4ed8-722b4df4649d" />
+      <row amount="1" is_equipped="True" item_id="f07a9b9b-10b5-4662-8b2a-8e5cd34b04a3" weapon_preset_id="45c1b1a4-b400-3d37-4ed8-722b4df4649d" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="45d1e13c-cd2f-6b5e-5650-1c0e3fa631bc" />
+      <row amount="1" is_equipped="True" item_id="a1ba1e1d-a9dd-4b31-b518-184070831576" weapon_preset_id="45d3ddf3-6bcc-ab12-e27d-616efe0197a9" />
+      <row amount="1" is_equipped="True" item_id="ee4d4a9d-dfe7-432e-80ae-6be5ac6c6225" weapon_preset_id="45d3ddf3-6bcc-ab12-e27d-616efe0197a9" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="45d88073-9b9e-3a35-8991-65a1dca2da95" />
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="45d88073-9b9e-3a35-8991-65a1dca2da95" />
+      <row amount="1" is_equipped="True" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" weapon_preset_id="45e154a8-ffb8-d9d6-38b5-438a70fe21a5" />
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="45e38db8-2027-22c8-922b-36a624b285a5" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="45e38db8-2027-22c8-922b-36a624b285a5" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="45ea68b1-b57c-dba1-111d-acc0ed64908e" />
+      <row amount="1" is_equipped="True" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" weapon_preset_id="45ea68b1-b57c-dba1-111d-acc0ed64908e" />
+      <row amount="32" is_equipped="True" item_id="19df1c5c-3dbf-45c0-ac01-336facf5f741" weapon_preset_id="45ee1efe-0529-d9a3-c98f-b88954fb6ab8" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="45ee1efe-0529-d9a3-c98f-b88954fb6ab8" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="45ee1efe-0529-d9a3-c98f-b88954fb6ab8" />
+      <row amount="1" is_equipped="True" item_id="9d2561cc-892f-4527-94cc-4fa607102949" weapon_preset_id="45f52c63-679a-b2ef-fb7c-bd888a12718e" />
+      <row amount="1" is_equipped="True" item_id="24a7c868-f23f-4799-8e64-331435a77404" weapon_preset_id="460b0a68-2d62-5826-8575-c45d307230b8" />
+      <row amount="1" is_equipped="True" item_id="a1ba1e1d-a9dd-4b31-b518-184070831576" weapon_preset_id="460b0a68-2d62-5826-8575-c45d307230b8" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="460f92eb-cede-7f88-10d4-b1e096a01586" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="460f92eb-cede-7f88-10d4-b1e096a01586" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="4617eb74-fbd7-8956-74c4-bbb64242a9ba" />
+      <row amount="1" is_equipped="True" item_id="8ef902ea-0c32-44c9-b101-71f35b9cbe3d" weapon_preset_id="4617eb74-fbd7-8956-74c4-bbb64242a9ba" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="461fbeb2-b99b-617f-c092-a737a95a8980" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="461fbeb2-b99b-617f-c092-a737a95a8980" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="462ac64d-cb61-bb0a-4e97-ea68122a3eac" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="46303f9d-a372-863e-dfd9-ef3e72143d88" />
+      <row amount="1" is_equipped="True" item_id="db35e15d-ccc0-4c59-b76e-f7d6be6939f2" weapon_preset_id="46371a64-7306-9d3d-7083-da5614144b9a" />
+      <row amount="1" is_equipped="True" item_id="ec470e0c-5bbd-43bb-803e-0e7867253c25" weapon_preset_id="463dc53f-86c2-5b8c-a9eb-12ad15d3139c" />
+      <row amount="1" is_equipped="True" item_id="4ac3347e-a93a-4cc0-9ba5-add86391bc12" weapon_preset_id="463dc7cb-5397-33bf-8b06-4ed7b2bd2ca4" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="4641e904-2cbb-f2ca-4eae-374cfcaaa5a4" />
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="4643a40a-4fd2-2611-babd-daf81eee94a5" />
+      <row amount="1" is_equipped="True" item_id="6c67d354-a472-442b-9d43-7ba805880aa6" weapon_preset_id="4654ecea-ef27-9c8d-cfa6-b2b6af0d9992" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="4654ecea-ef27-9c8d-cfa6-b2b6af0d9992" />
+      <row amount="1" is_equipped="True" item_id="5ab5581a-be10-4520-9ab4-90c6985498d3" weapon_preset_id="465ab1a3-f015-81f3-eb4a-2e5607d37395" />
+      <row amount="1" is_equipped="True" item_id="6c67d354-a472-442b-9d43-7ba805880aa6" weapon_preset_id="465ab1a3-f015-81f3-eb4a-2e5607d37395" />
+      <row amount="1" is_equipped="True" item_id="931be8b2-e9e7-48f8-84f9-54f438d19cc4" weapon_preset_id="46741069-8251-9ba1-ae95-4e3477f6ae84" />
+      <row amount="1" is_equipped="True" item_id="eef9a291-fa86-454b-9a01-22d92647f5f1" weapon_preset_id="46741069-8251-9ba1-ae95-4e3477f6ae84" />
+      <row amount="1" is_equipped="True" item_id="aca90050-0b70-4ca0-9d29-b94326203c75" weapon_preset_id="46795460-914d-bce2-3d77-abdb48d3ac8e" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="467acda7-76f4-bbcd-7200-73c10b289fa5" />
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="467b1794-6d17-a436-824a-e8fb7bb5e1ac" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="467b1794-6d17-a436-824a-e8fb7bb5e1ac" />
+      <row amount="1" is_equipped="True" item_id="4c0874f3-67f9-4e5f-ad53-9ed29156acd5" weapon_preset_id="4682f83d-691f-44b4-92a3-096327e2b38e" />
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="4685a6df-4003-0ee0-400b-2af175782e9c" />
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="4694fa83-c608-b0c3-52ee-4eedde9480ac" />
+      <row amount="1" is_equipped="True" item_id="a1ba1e1d-a9dd-4b31-b518-184070831576" weapon_preset_id="4694fa83-c608-b0c3-52ee-4eedde9480ac" />
+      <row amount="1" is_equipped="True" item_id="b59ab3c7-f70b-4de4-937e-074e97bfe327" weapon_preset_id="469ba026-fb42-0ca7-0920-37c937f3fbb8" />
+      <row amount="1" is_equipped="True" item_id="405c1865-413d-43b8-8db9-c44a0eefd350" weapon_preset_id="46b12b9b-c4f5-56cb-b904-f069e0178a9c" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="46b12b9b-c4f5-56cb-b904-f069e0178a9c" />
+      <row amount="1" is_equipped="True" item_id="7fc2317f-6237-4423-82d2-8c809f651e85" weapon_preset_id="46b6ad6e-1f12-39b0-ff48-2e5bee97b08e" />
+      <row amount="30" is_equipped="True" item_id="802507e9-d620-47b5-ae66-08fcc314e26a" weapon_preset_id="46b6ad6e-1f12-39b0-ff48-2e5bee97b08e" />
+      <row amount="1" is_equipped="True" item_id="1592a436-4a22-4636-b82d-14af8127ee01" weapon_preset_id="46bfc63e-4c07-4a4c-f08b-d117c06243be" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="46bfc63e-4c07-4a4c-f08b-d117c06243be" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="46c5453d-753e-796a-37ba-853e617c8583" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="46c5453d-753e-796a-37ba-853e617c8583" />
+      <row amount="1" is_equipped="True" item_id="4cea28a0-0814-405a-bf24-4fd711f7eb63" weapon_preset_id="46d39bba-dcce-a16b-607f-6c1ca5e1a5aa" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="46d39bba-dcce-a16b-607f-6c1ca5e1a5aa" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="46d4f9bc-c66f-053e-13e2-eb56d58a80b6" />
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="46e52656-6b00-2ec3-5572-83f82ba32792" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="46e52656-6b00-2ec3-5572-83f82ba32792" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="46f17c88-982c-152d-2b8f-45466c77698f" />
+      <row amount="24" is_equipped="True" item_id="ad6f0f01-aec4-44d1-982c-1210eb01b74a" weapon_preset_id="46f17c88-982c-152d-2b8f-45466c77698f" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="46f768ab-f341-acc1-7d74-9ec349138095" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="46f768ab-f341-acc1-7d74-9ec349138095" />
+      <row amount="20" is_equipped="True" item_id="ad6f0f01-aec4-44d1-982c-1210eb01b74a" weapon_preset_id="46fe4c25-90f4-bb5c-e81a-b3bc109b1aac" />
+      <row amount="1" is_equipped="True" item_id="deb5276d-4926-4545-bdda-f457cac8bc01" weapon_preset_id="46fe4c25-90f4-bb5c-e81a-b3bc109b1aac" />
+      <row amount="1" is_equipped="True" item_id="662a3ac5-5883-4b7d-bd84-173eaa136a73" weapon_preset_id="4707dc44-0c3d-7172-d365-b26b211ef4a1" />
+      <row amount="1" is_equipped="True" item_id="b48f2290-b002-4b87-baf7-ad55a44727a1" weapon_preset_id="4707dc44-0c3d-7172-d365-b26b211ef4a1" />
+      <row amount="1" is_equipped="True" item_id="75f6a7ef-7144-46c6-b044-b94ab4167f67" weapon_preset_id="470efd0e-1d27-3e45-a7dc-378fee2f7b9e" />
+      <row amount="1" is_equipped="True" item_id="931be8b2-e9e7-48f8-84f9-54f438d19cc4" weapon_preset_id="470efd0e-1d27-3e45-a7dc-378fee2f7b9e" />
+      <row amount="1" is_equipped="True" item_id="3846de6d-530b-4fcb-9d45-aac007498f04" weapon_preset_id="472c00b7-ce79-139d-2f26-0e1e392625a4" />
+      <row amount="1" is_equipped="True" item_id="4b6b9d8f-6b39-42da-90df-63d8d5adc68e" weapon_preset_id="472c00b7-ce79-139d-2f26-0e1e392625a4" />
+      <row amount="1" is_equipped="True" item_id="5878eeed-a6b6-481c-ac10-9e7cd5958988" weapon_preset_id="473a46e8-2615-9cbf-42fa-3b82dd0ce794" />
+      <row amount="1" is_equipped="True" item_id="608922e3-0405-4110-a026-dcd3c69b2bf2" weapon_preset_id="473a46e8-2615-9cbf-42fa-3b82dd0ce794" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="47404754-bb9a-a4e8-8b12-af6ef7db64be" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4746a1a0-9de8-7a3a-4584-e33c68f79796" />
+      <row amount="1" is_equipped="True" item_id="788c57a8-ae7a-43a7-8236-07fec193531c" weapon_preset_id="4746a1a0-9de8-7a3a-4584-e33c68f79796" />
+      <row amount="1" is_equipped="True" item_id="214f7911-d9be-4260-b5cb-590f96ffde9a" weapon_preset_id="475605cb-a6c1-b093-e757-696947d54988" />
+      <row amount="1" is_equipped="True" item_id="7377215a-a0ca-44a2-b11a-113a024191ca" weapon_preset_id="475a6b30-fe1e-6517-17a8-f63e9e65fea6" />
+      <row amount="1" is_equipped="True" item_id="f7359b93-8312-4f13-8c51-ddb671a9edff" weapon_preset_id="475a6b30-fe1e-6517-17a8-f63e9e65fea6" />
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="479ab5ba-5ae8-feb8-f20b-17377f2314a0" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="479ab5ba-5ae8-feb8-f20b-17377f2314a0" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="479e5d45-b6d4-fdf6-d9e1-382aa8a73ab4" />
+      <row amount="1" is_equipped="True" item_id="cf84a3f5-781a-4f1d-94b7-db8745a9682e" weapon_preset_id="479e5d45-b6d4-fdf6-d9e1-382aa8a73ab4" />
+      <row amount="1" is_equipped="True" item_id="539f94d5-d9b4-4e0b-a0b1-8403d27d96ff" weapon_preset_id="47a0d526-469b-7c8d-1665-f22b93e47dbf" />
+      <row amount="1" is_equipped="True" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" weapon_preset_id="47a0d526-469b-7c8d-1665-f22b93e47dbf" />
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="47ac555f-19ff-3334-f5d8-0f05b04840a9" />
+      <row amount="1" is_equipped="True" item_id="7fc2317f-6237-4423-82d2-8c809f651e85" weapon_preset_id="47ac555f-19ff-3334-f5d8-0f05b04840a9" />
+      <row amount="30" is_equipped="True" item_id="802507e9-d620-47b5-ae66-08fcc314e26a" weapon_preset_id="47ac555f-19ff-3334-f5d8-0f05b04840a9" />
+      <row amount="1" is_equipped="True" item_id="bd0beb13-9c64-40fb-988c-ed1f0a122b14" weapon_preset_id="47b1ab03-4029-c7f9-03f5-67bb7df932a1" />
+      <row amount="1" is_equipped="True" item_id="e16b0af6-fb6a-43e2-9a9c-1b8c227e64b8" weapon_preset_id="47b1ab03-4029-c7f9-03f5-67bb7df932a1" />
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="47b6dd61-44cd-911e-622a-4b7522d35586" />
+      <row amount="1" is_equipped="True" item_id="6c67d354-a472-442b-9d43-7ba805880aa6" weapon_preset_id="47b6dd61-44cd-911e-622a-4b7522d35586" />
+      <row amount="1" is_equipped="True" item_id="3e7657f2-d653-4e57-ae77-6f2225ac642b" weapon_preset_id="47ca2dca-6879-f1df-0680-cbbc4f0d28ab" />
+      <row amount="1" is_equipped="True" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" weapon_preset_id="47ca2dca-6879-f1df-0680-cbbc4f0d28ab" />
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="47cb815a-2279-d01d-afbf-d1c5e4892784" />
+      <row amount="1" is_equipped="True" item_id="ee4d4a9d-dfe7-432e-80ae-6be5ac6c6225" weapon_preset_id="47cb815a-2279-d01d-afbf-d1c5e4892784" />
+      <row amount="1" is_equipped="True" item_id="b97a2084-a5ca-4d16-ab58-e4665afe212f" weapon_preset_id="47e7fd73-0ed7-74ee-08ec-e22a573d7ea3" />
+      <row amount="1" is_equipped="True" item_id="d133cf8c-dc76-48ca-a823-cf837e7f0f99" weapon_preset_id="47e7fd73-0ed7-74ee-08ec-e22a573d7ea3" />
+      <row amount="1" is_equipped="True" item_id="57ace80d-3683-486a-93b1-1bbe4c21e598" weapon_preset_id="47e8210a-65f9-3fb4-7018-12146dc9498d" />
+      <row amount="1" is_equipped="True" item_id="488d9792-0dbf-41dc-a320-753d94d1f1b6" weapon_preset_id="47e89ef6-9a0a-3e37-f6de-346c8a7d0692" />
+      <row amount="1" is_equipped="True" item_id="823df2a1-bd59-4820-ab53-35e23c46149c" weapon_preset_id="47e89ef6-9a0a-3e37-f6de-346c8a7d0692" />
+      <row amount="1" is_equipped="True" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" weapon_preset_id="47fcf7c7-f916-5e1c-1b5a-4409621f4999" />
+      <row amount="1" is_equipped="True" item_id="7377215a-a0ca-44a2-b11a-113a024191ca" weapon_preset_id="47fcf7c7-f916-5e1c-1b5a-4409621f4999" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="480a47e2-1106-2e83-e14c-bd1e834642b3" />
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="480a47e2-1106-2e83-e14c-bd1e834642b3" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="48153f2a-1d96-6552-7d9c-e50730b6239b" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="4816451f-406c-61ae-bd26-09fad2eb6e9a" />
+      <row amount="1" is_equipped="True" item_id="405c1865-413d-43b8-8db9-c44a0eefd350" weapon_preset_id="4818c3cb-bf5d-a235-0a3e-e02a335b25ae" />
+      <row amount="1" is_equipped="True" item_id="931be8b2-e9e7-48f8-84f9-54f438d19cc4" weapon_preset_id="4818c3cb-bf5d-a235-0a3e-e02a335b25ae" />
+      <row amount="1" is_equipped="True" item_id="5878eeed-a6b6-481c-ac10-9e7cd5958988" weapon_preset_id="4821b59f-84c3-227d-3f12-561015511cb8" />
+      <row amount="1" is_equipped="True" item_id="d133cf8c-dc76-48ca-a823-cf837e7f0f99" weapon_preset_id="4821b59f-84c3-227d-3f12-561015511cb8" />
+      <row amount="1" is_equipped="True" item_id="1af2b27c-06bf-42a9-b203-8e7c83361d50" weapon_preset_id="48271a75-6e1e-269a-f768-51b8aecd6da2" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="48271a75-6e1e-269a-f768-51b8aecd6da2" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="482739ea-257e-b73f-71f9-18a6e8007399" />
+      <row amount="1" is_equipped="True" item_id="e0c5c6fb-6a02-4ead-9877-ff0464b92729" weapon_preset_id="482739ea-257e-b73f-71f9-18a6e8007399" />
+      <row amount="1" is_equipped="True" item_id="4ac3347e-a93a-4cc0-9ba5-add86391bc12" weapon_preset_id="482b5513-69cc-e484-1dd5-cc9ad10d5ba2" />
+      <row amount="1" is_equipped="True" item_id="d70b732b-c924-4dad-aa56-2f27e6e9c656" weapon_preset_id="482b5513-69cc-e484-1dd5-cc9ad10d5ba2" />
+      <row amount="1" is_equipped="True" item_id="0ad36c8c-cfc7-44ab-8e8f-fe85e7646b71" weapon_preset_id="4831691d-f6d9-6b93-1c4b-7fcf2c0a42b2" />
+      <row amount="1" is_equipped="True" item_id="ff88dfd6-181a-4de0-b82a-ad8f1d649bc8" weapon_preset_id="4840279e-cdb3-1490-d494-fd1474b39585" />
+      <row amount="1" is_equipped="True" item_id="b063cb37-8f17-49b9-88f8-04111fc81838" weapon_preset_id="48573c31-c6e3-8f7e-4616-a0082cdb69ac" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="485bedcb-bbb9-de8f-c157-ed700aadc499" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="485bedcb-bbb9-de8f-c157-ed700aadc499" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="485ed919-3dc4-3066-c56c-887f832dd8a1" />
+      <row amount="1" is_equipped="True" item_id="e6391b02-c09c-495d-a980-ad675d523fb3" weapon_preset_id="485ed919-3dc4-3066-c56c-887f832dd8a1" />
+      <row amount="1" is_equipped="True" item_id="6ec15d56-4f77-4751-af72-e6225f825ae8" weapon_preset_id="486ae199-8fe4-72ea-18a2-4df7c5f959b5" />
+      <row amount="1" is_equipped="True" item_id="d5ca8f35-28ec-4bf3-b042-7c97ce4c4f14" weapon_preset_id="48711bac-3602-2096-ec76-5886799851a8" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4876b800-2bff-bb92-9008-e03b0c92edb8" />
+      <row amount="1" is_equipped="True" item_id="e6391b02-c09c-495d-a980-ad675d523fb3" weapon_preset_id="4876b800-2bff-bb92-9008-e03b0c92edb8" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="488697ea-451a-105a-ae94-175359dca2b0" />
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="488697ea-451a-105a-ae94-175359dca2b0" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="4891d887-ff04-27a0-7c27-4a0a1ab0dfb6" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="489a6120-7ada-365d-c7b3-960887685c90" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="48a315dc-bbd4-83b4-c5a4-af27b276a2a7" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="48bc3075-96b0-6b44-792a-21f205f773b5" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="48bec329-6bea-5e06-103d-d7caf161699d" />
+      <row amount="1" is_equipped="True" item_id="04c2c966-f55b-4afe-b0c2-bfdf4ba0deeb" weapon_preset_id="48ce1671-63de-4ff2-b39c-eff71d4e68ba" />
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="48ce1671-63de-4ff2-b39c-eff71d4e68ba" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="48d3d3e3-53ae-cdfe-e333-b1d077a3618f" />
+      <row amount="20" is_equipped="True" item_id="ad6f0f01-aec4-44d1-982c-1210eb01b74a" weapon_preset_id="48d3d3e3-53ae-cdfe-e333-b1d077a3618f" />
+      <row amount="1" is_equipped="True" item_id="871cbc55-35cf-4397-846e-7bf05d4308c7" weapon_preset_id="48d90e5d-ada8-693f-750a-9420f989d5bc" />
+      <row amount="1" is_equipped="True" item_id="a5b31bbc-1e11-4831-835b-c06d5b13a7da" weapon_preset_id="48d90e5d-ada8-693f-750a-9420f989d5bc" />
+      <row amount="1" is_equipped="True" item_id="b063cb37-8f17-49b9-88f8-04111fc81838" weapon_preset_id="48d90e5d-ada8-693f-750a-9420f989d5bc" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="48e488a5-b54e-b984-1ce6-3f58e1a0cbaa" />
+      <row amount="1" is_equipped="True" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" weapon_preset_id="48e488a5-b54e-b984-1ce6-3f58e1a0cbaa" />
+      <row amount="1" is_equipped="True" item_id="75f6a7ef-7144-46c6-b044-b94ab4167f67" weapon_preset_id="48e7f664-0a0a-3682-c0eb-b8051c6fce95" />
+      <row amount="1" is_equipped="True" item_id="b97a2084-a5ca-4d16-ab58-e4665afe212f" weapon_preset_id="48e7f664-0a0a-3682-c0eb-b8051c6fce95" />
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="48fd1d3f-41eb-ac43-4728-18855cc527a4" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="48fd1d3f-41eb-ac43-4728-18855cc527a4" />
+      <row amount="1" is_equipped="True" item_id="8e2ccaa1-17c2-4cef-b378-e71dc83bddb7" weapon_preset_id="49076fcd-420d-8169-ed7b-9eaae0c6d196" />
+      <row amount="1" is_equipped="True" item_id="709c3428-ee1c-4fbe-87d1-8282660308fb" weapon_preset_id="4910360b-9861-d3f2-b9cf-15684b8b51b1" />
+      <row amount="30" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="4910360b-9861-d3f2-b9cf-15684b8b51b1" />
+      <row amount="1" is_equipped="True" item_id="e38a3c49-811b-4ff2-80d6-fc4d49d89ba5" weapon_preset_id="4910360b-9861-d3f2-b9cf-15684b8b51b1" />
+      <row amount="1" is_equipped="True" item_id="5878eeed-a6b6-481c-ac10-9e7cd5958988" weapon_preset_id="491e302b-2cc9-31eb-b534-64137ae8aa95" />
+      <row amount="1" is_equipped="True" item_id="d133cf8c-dc76-48ca-a823-cf837e7f0f99" weapon_preset_id="491e302b-2cc9-31eb-b534-64137ae8aa95" />
+      <row amount="1" is_equipped="True" item_id="4b6b9d8f-6b39-42da-90df-63d8d5adc68e" weapon_preset_id="4932db0d-29c5-3c9e-4379-eb826ea3e59e" />
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="49343ccf-6398-9733-596f-6b19e9e89c83" />
+      <row amount="1" is_equipped="True" item_id="cea13fef-025c-47bb-b148-9783b9951acc" weapon_preset_id="49343ccf-6398-9733-596f-6b19e9e89c83" />
+      <row amount="40" is_equipped="True" item_id="dfea5d01-b25c-414a-9ab4-6911a5f82118" weapon_preset_id="49343ccf-6398-9733-596f-6b19e9e89c83" />
+      <row amount="1" is_equipped="True" item_id="e6391b02-c09c-495d-a980-ad675d523fb3" weapon_preset_id="49498b34-8b26-e11f-ca9b-3dd02b58b8b4" />
+      <row amount="20" is_equipped="True" item_id="278d26d1-e9a7-4354-84f9-37d20cb72b45" weapon_preset_id="49508979-7914-cbb5-e560-4a2d17994691" />
+      <row amount="1" is_equipped="True" item_id="6e06e314-5cc0-41eb-a7b6-69896b121413" weapon_preset_id="49508979-7914-cbb5-e560-4a2d17994691" />
+      <row amount="1" is_equipped="True" item_id="871cbc55-35cf-4397-846e-7bf05d4308c7" weapon_preset_id="4952273b-d40d-91e6-1fe8-801992b165aa" />
+      <row amount="1" is_equipped="True" item_id="e6391b02-c09c-495d-a980-ad675d523fb3" weapon_preset_id="495b0e37-2355-4ca7-41b4-49cbdaa20c82" />
+      <row amount="1" is_equipped="True" item_id="eef9a291-fa86-454b-9a01-22d92647f5f1" weapon_preset_id="495b0e37-2355-4ca7-41b4-49cbdaa20c82" />
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="495e4bd7-be6b-bffc-4b0d-b0b6968cf9a1" />
+      <row amount="1" is_equipped="True" item_id="b48f2290-b002-4b87-baf7-ad55a44727a1" weapon_preset_id="495e4bd7-be6b-bffc-4b0d-b0b6968cf9a1" />
+      <row amount="1" is_equipped="True" item_id="4bf59325-6ee7-4200-8b61-ed0c505674ae" weapon_preset_id="495f337b-0aa0-f43c-c087-4508a8aec7bd" />
+      <row amount="1" is_equipped="True" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" weapon_preset_id="495f337b-0aa0-f43c-c087-4508a8aec7bd" />
+      <row amount="1" is_equipped="True" item_id="5bcd587a-4d97-4bad-a8b4-3248fc6d0cc6" weapon_preset_id="49714631-8194-2bbf-a329-3792108e449f" />
+      <row amount="1" is_equipped="True" item_id="11324f3e-d7f0-49f7-b39d-14622de4d410" weapon_preset_id="497ad961-4e5f-49c3-7a93-019327e54d8e" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="498895ef-0fbc-a91e-a17b-92af5afa0b88" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="498895ef-0fbc-a91e-a17b-92af5afa0b88" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="4989194e-6279-2d9d-99ca-2bcb789a2e91" />
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="4989194e-6279-2d9d-99ca-2bcb789a2e91" />
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="498ac31a-320e-4e80-9f19-722f328eccb4" />
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="498ac31a-320e-4e80-9f19-722f328eccb4" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="499fd33a-55e5-f5ce-a2d8-0a94f1945ba1" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="49a5918a-8396-ad7c-a9ae-cf968986639f" />
+      <row amount="1" is_equipped="True" item_id="cf84a3f5-781a-4f1d-94b7-db8745a9682e" weapon_preset_id="49a5918a-8396-ad7c-a9ae-cf968986639f" />
+      <row amount="1" is_equipped="True" item_id="e5ab81a9-d02e-4361-acf5-ac755df7f2dc" weapon_preset_id="49a606bf-973a-7c2e-1622-18dfc7fc91ba" />
+      <row amount="1" is_equipped="True" item_id="5e2ba1cd-4a42-407c-9261-8afdbc3e86b4" weapon_preset_id="49b5c516-b2d9-ada9-2a77-44a8ca1a2182" />
+      <row amount="1" is_equipped="True" item_id="7377215a-a0ca-44a2-b11a-113a024191ca" weapon_preset_id="49c05939-bff3-d273-4dba-a36e653b9283" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="49c05939-bff3-d273-4dba-a36e653b9283" />
+      <row amount="1" is_equipped="True" item_id="3bafe608-b757-491d-a51c-3a48b758a6b8" weapon_preset_id="49c68478-63ec-17cb-9579-31f98a744e8f" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="49c68478-63ec-17cb-9579-31f98a744e8f" />
+      <row amount="25" is_equipped="True" item_id="d5e6764d-18ba-44cb-8dd0-6640a17785a8" weapon_preset_id="49c68478-63ec-17cb-9579-31f98a744e8f" />
+      <row amount="1" is_equipped="True" item_id="e16b0af6-fb6a-43e2-9a9c-1b8c227e64b8" weapon_preset_id="49e43702-bbce-023e-1c44-37a8a26e378e" />
+      <row amount="1" is_equipped="True" item_id="871cbc55-35cf-4397-846e-7bf05d4308c7" weapon_preset_id="49e71c56-ee59-05f8-5ec3-26f7deba1189" />
+      <row amount="1" is_equipped="True" item_id="d133cf8c-dc76-48ca-a823-cf837e7f0f99" weapon_preset_id="49e71c56-ee59-05f8-5ec3-26f7deba1189" />
+      <row amount="1" is_equipped="True" item_id="788c57a8-ae7a-43a7-8236-07fec193531c" weapon_preset_id="49ecf162-269e-1826-8ac8-a76f3ffa81bf" />
+      <row amount="1" is_equipped="True" item_id="e0c5c6fb-6a02-4ead-9877-ff0464b92729" weapon_preset_id="4a19f7ff-d7fe-59e2-1b0d-c7b8e2825fbc" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="4a1b99b6-7533-2b05-edb8-39d47aa96cb8" />
+      <row amount="30" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4a1b99b6-7533-2b05-edb8-39d47aa96cb8" />
+      <row amount="1" is_equipped="True" item_id="788c57a8-ae7a-43a7-8236-07fec193531c" weapon_preset_id="4a1b99b6-7533-2b05-edb8-39d47aa96cb8" />
+      <row amount="1" is_equipped="True" item_id="30a02ab0-eb1d-4bf7-a53f-eb1004b2cbd8" weapon_preset_id="4a288787-715f-7766-d98c-818fa7c100b9" />
+      <row amount="1" is_equipped="True" item_id="e3ee5787-f4c5-42b7-a900-33dc97c60706" weapon_preset_id="4a288787-715f-7766-d98c-818fa7c100b9" />
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="4a2fea67-a8e5-1f85-0b21-1ae7aa585ba6" />
+      <row amount="1" is_equipped="True" item_id="cf84a3f5-781a-4f1d-94b7-db8745a9682e" weapon_preset_id="4a2fea67-a8e5-1f85-0b21-1ae7aa585ba6" />
+      <row amount="1" is_equipped="True" item_id="1592a436-4a22-4636-b82d-14af8127ee01" weapon_preset_id="4a319210-1369-687b-0d69-7a4dfc551e94" />
+      <row amount="1" is_equipped="True" item_id="53dffc64-bf9c-4a28-af02-a2ec9705d4a7" weapon_preset_id="4a319210-1369-687b-0d69-7a4dfc551e94" />
+      <row amount="30" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="4a319210-1369-687b-0d69-7a4dfc551e94" />
+      <row amount="1" is_equipped="True" item_id="21afc054-37d2-4cce-928e-c7d0d2e295c5" weapon_preset_id="4a390d6f-4fa0-d0b9-0662-4a8627e3d8b8" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="4a462169-f81a-f0dc-4fd5-fb320da53b85" />
+      <row amount="1" is_equipped="True" item_id="ef79c956-744e-4731-a385-ecf9c57b3adc" weapon_preset_id="4a462169-f81a-f0dc-4fd5-fb320da53b85" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="4a4870c6-4d27-9032-05cb-da74f7e29cb2" />
+      <row amount="1" is_equipped="True" item_id="7377215a-a0ca-44a2-b11a-113a024191ca" weapon_preset_id="4a4870c6-4d27-9032-05cb-da74f7e29cb2" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="4a60bab7-9fa1-9c91-931c-f5e905214cbb" />
+      <row amount="1" is_equipped="True" item_id="cea13fef-025c-47bb-b148-9783b9951acc" weapon_preset_id="4a60bab7-9fa1-9c91-931c-f5e905214cbb" />
+      <row amount="1" is_equipped="True" item_id="dfea5d01-b25c-414a-9ab4-6911a5f82118" weapon_preset_id="4a60bab7-9fa1-9c91-931c-f5e905214cbb" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="4a61ed7e-6aa2-5c77-f289-990137d134aa" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="4a6add7c-1845-1745-6898-b4a2a676b8a8" />
+      <row amount="30" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4a6add7c-1845-1745-6898-b4a2a676b8a8" />
+      <row amount="1" is_equipped="True" item_id="f7359b93-8312-4f13-8c51-ddb671a9edff" weapon_preset_id="4a6add7c-1845-1745-6898-b4a2a676b8a8" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4a6d4f24-d1c4-9ce2-ac73-7917fbc1fda5" />
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="4a6d4f24-d1c4-9ce2-ac73-7917fbc1fda5" />
+      <row amount="1" is_equipped="True" item_id="405c1865-413d-43b8-8db9-c44a0eefd350" weapon_preset_id="4a6e1361-a98e-d6fd-d683-2a4aca26fdaf" />
+      <row amount="25" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4a7092eb-74ed-127c-2d61-27279fefa7ab" />
+      <row amount="1" is_equipped="True" item_id="7c1ee5f9-e089-4ee5-9f65-524976e86e7d" weapon_preset_id="4a7092eb-74ed-127c-2d61-27279fefa7ab" />
+      <row amount="1" is_equipped="True" item_id="b97a2084-a5ca-4d16-ab58-e4665afe212f" weapon_preset_id="4a7092eb-74ed-127c-2d61-27279fefa7ab" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="4a743a77-952a-e498-bbc0-e6af28ec26be" />
+      <row amount="1" is_equipped="True" item_id="6ec15d56-4f77-4751-af72-e6225f825ae8" weapon_preset_id="4a8568fa-eecb-9e2b-4cc1-246efffad3ac" />
+      <row amount="1" is_equipped="True" item_id="dcdc05d3-2ac9-40b1-b54f-d25c91966de8" weapon_preset_id="4a8568fa-eecb-9e2b-4cc1-246efffad3ac" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="4a8a6ebe-d8b6-2646-c322-8828de52db8a" />
+      <row amount="1" is_equipped="True" item_id="04c2c966-f55b-4afe-b0c2-bfdf4ba0deeb" weapon_preset_id="4a92227a-bc3c-61fc-02be-a88122000c86" />
+      <row amount="1" is_equipped="True" item_id="709c3428-ee1c-4fbe-87d1-8282660308fb" weapon_preset_id="4a92227a-bc3c-61fc-02be-a88122000c86" />
+      <row amount="1" is_equipped="True" item_id="8e2ccaa1-17c2-4cef-b378-e71dc83bddb7" weapon_preset_id="4a9add55-bd48-5754-931d-f78922e89cbe" />
+      <row amount="1" is_equipped="True" item_id="a1ba1e1d-a9dd-4b31-b518-184070831576" weapon_preset_id="4a9add55-bd48-5754-931d-f78922e89cbe" />
+      <row amount="1" is_equipped="True" item_id="539f94d5-d9b4-4e0b-a0b1-8403d27d96ff" weapon_preset_id="4ab453d1-337b-6584-d861-0ac85dfdb9a2" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="4ab453d1-337b-6584-d861-0ac85dfdb9a2" />
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="4ab891a0-fd71-6d7a-d479-288ea4bbbdb9" />
+      <row amount="1" is_equipped="True" item_id="b48f2290-b002-4b87-baf7-ad55a44727a1" weapon_preset_id="4ab891a0-fd71-6d7a-d479-288ea4bbbdb9" />
+      <row amount="1" is_equipped="True" item_id="772c5d38-66b3-43f7-9757-5f10439aee97" weapon_preset_id="4adfabd9-2d74-0fea-a56e-b4eefca35bb1" />
+      <row amount="1" is_equipped="True" item_id="e3ee5787-f4c5-42b7-a900-33dc97c60706" weapon_preset_id="4adfabd9-2d74-0fea-a56e-b4eefca35bb1" />
+      <row amount="1" is_equipped="True" item_id="0d03afe4-9785-44d2-88d2-2c870de8dbfa" weapon_preset_id="4ae03169-042b-8c08-5fd9-db1cee64269c" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="4ae03169-042b-8c08-5fd9-db1cee64269c" />
+      <row amount="40" is_equipped="True" item_id="dfea5d01-b25c-414a-9ab4-6911a5f82118" weapon_preset_id="4ae03169-042b-8c08-5fd9-db1cee64269c" />
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="4af2b7c4-503c-6019-ad68-fb458ade0ba3" />
+      <row amount="1" is_equipped="True" item_id="26ddf0fa-c425-42a2-8879-fabaa66f414e" weapon_preset_id="4af6ffc9-63bc-3568-5c59-fe3186bc19a0" />
+      <row amount="1" is_equipped="True" item_id="405c1865-413d-43b8-8db9-c44a0eefd350" weapon_preset_id="4aff6e73-864d-54de-819b-9b4d69272a82" />
+      <row amount="1" is_equipped="True" item_id="788c57a8-ae7a-43a7-8236-07fec193531c" weapon_preset_id="4aff6e73-864d-54de-819b-9b4d69272a82" />
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="4aff9a06-8b6a-80b0-03ac-566df8e8648a" />
+      <row amount="1" is_equipped="True" item_id="cea13fef-025c-47bb-b148-9783b9951acc" weapon_preset_id="4aff9a06-8b6a-80b0-03ac-566df8e8648a" />
+      <row amount="40" is_equipped="True" item_id="dfea5d01-b25c-414a-9ab4-6911a5f82118" weapon_preset_id="4aff9a06-8b6a-80b0-03ac-566df8e8648a" />
+      <row amount="1" is_equipped="True" item_id="ad443031-370e-4a63-ba12-ee3fc4c338a8" weapon_preset_id="4b027b41-9f68-3d0b-4186-53aec9bb0294" />
+      <row amount="1" is_equipped="True" item_id="1ff6e150-de1d-4cff-b263-e3dad48eef1a" weapon_preset_id="4b1b9431-0498-e4d1-56c4-5daec98dd889" />
+      <row amount="1" is_equipped="True" item_id="481e7576-a6ee-4732-ba2f-98b88b430c41" weapon_preset_id="4b1c6ab4-5323-090e-0f61-6e66102b5086" />
+      <row amount="1" is_equipped="True" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" weapon_preset_id="4b1c6ab4-5323-090e-0f61-6e66102b5086" />
+      <row amount="30" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4b1c6ab4-5323-090e-0f61-6e66102b5086" />
+      <row amount="1" is_equipped="True" item_id="9f754566-7fb2-47e1-951b-22c27debb3c8" weapon_preset_id="4b2289ad-1a5e-96ab-5c9d-6c885924a593" />
+      <row amount="1" is_equipped="True" item_id="931be8b2-e9e7-48f8-84f9-54f438d19cc4" weapon_preset_id="4b2ca980-204a-8d99-e95c-fc5fa3bcda8e" />
+      <row amount="1" is_equipped="True" item_id="3ef71c79-57c2-4f28-8f31-a091d9b78798" weapon_preset_id="4b3e6785-b67d-e259-82f6-799df28696a5" />
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="4b3e6785-b67d-e259-82f6-799df28696a5" />
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="4b4e5ce6-7693-a920-657f-c4ea5ddc8d97" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="4b4e5ce6-7693-a920-657f-c4ea5ddc8d97" />
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="4b59b7fb-bd26-55de-d547-204b72ee2eb6" />
+      <row amount="1" is_equipped="True" item_id="ef79c956-744e-4731-a385-ecf9c57b3adc" weapon_preset_id="4b59b7fb-bd26-55de-d547-204b72ee2eb6" />
+      <row amount="1" is_equipped="True" item_id="47267303-7658-40a7-b39c-57aa8093c176" weapon_preset_id="4bacfd45-e139-3207-baaa-3a36e4693dbd" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="4bacfd45-e139-3207-baaa-3a36e4693dbd" />
+      <row amount="25" is_equipped="True" item_id="802507e9-d620-47b5-ae66-08fcc314e26a" weapon_preset_id="4bacfd45-e139-3207-baaa-3a36e4693dbd" />
+      <row amount="1" is_equipped="True" item_id="14aaa78f-49fe-49aa-bf46-bc6b8b06a6b7" weapon_preset_id="4bbe1b5c-486b-52f5-2e75-e94c89c452b0" />
+      <row amount="1" is_equipped="True" item_id="214f7911-d9be-4260-b5cb-590f96ffde9a" weapon_preset_id="4bbe1b5c-486b-52f5-2e75-e94c89c452b0" />
+      <row amount="1" is_equipped="True" item_id="af7fd872-0830-4e33-843e-5c015bbe9e73" weapon_preset_id="4bc5ce00-2aca-6f4b-63df-e3160fbda8b2" />
+      <row amount="1" is_equipped="True" item_id="ef79c956-744e-4731-a385-ecf9c57b3adc" weapon_preset_id="4bc5ce00-2aca-6f4b-63df-e3160fbda8b2" />
+      <row amount="1" is_equipped="True" item_id="2e32ab30-aa7e-4628-8482-a229a68dfa72" weapon_preset_id="4bd43b45-4f2e-5f81-22b8-2c61db9487ac" />
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="4bd43b45-4f2e-5f81-22b8-2c61db9487ac" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="4bdca0d2-4a50-78bc-a71f-d620f77d07ac" />
+      <row amount="1" is_equipped="True" item_id="b129a71e-cadb-47db-bc2c-6ce85e3b278c" weapon_preset_id="4bdca0d2-4a50-78bc-a71f-d620f77d07ac" />
+      <row amount="1" is_equipped="True" item_id="01b86c1e-1614-4310-8bed-10b7682e5815" weapon_preset_id="4be7ad9e-b1fe-853f-7ac8-ba576a56fa89" />
+      <row amount="30" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4be7ad9e-b1fe-853f-7ac8-ba576a56fa89" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="4be7ad9e-b1fe-853f-7ac8-ba576a56fa89" />
+      <row amount="1" is_equipped="True" item_id="1af2b27c-06bf-42a9-b203-8e7c83361d50" weapon_preset_id="4be9cec7-f6fd-9de7-e61e-98a8b6cdf18b" />
+      <row amount="1" is_equipped="True" item_id="5878eeed-a6b6-481c-ac10-9e7cd5958988" weapon_preset_id="4be9cec7-f6fd-9de7-e61e-98a8b6cdf18b" />
+      <row amount="30" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4bef7303-ffc3-f699-4749-0cbb34070e88" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="4bef7303-ffc3-f699-4749-0cbb34070e88" />
+      <row amount="1" is_equipped="True" item_id="b063cb37-8f17-49b9-88f8-04111fc81838" weapon_preset_id="4bef7303-ffc3-f699-4749-0cbb34070e88" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4bf0eeca-2933-ddd0-f7f3-cad7c56cbea5" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="4bf0eeca-2933-ddd0-f7f3-cad7c56cbea5" />
+      <row amount="1" is_equipped="True" item_id="58649b63-8239-4ef5-a834-5530d145fe95" weapon_preset_id="4c053c3e-d588-8f90-9cb2-e1d80c8a2daf" />
+      <row amount="1" is_equipped="True" item_id="871cbc55-35cf-4397-846e-7bf05d4308c7" weapon_preset_id="4c053c3e-d588-8f90-9cb2-e1d80c8a2daf" />
+      <row amount="25" is_equipped="True" item_id="ad6f0f01-aec4-44d1-982c-1210eb01b74a" weapon_preset_id="4c053c3e-d588-8f90-9cb2-e1d80c8a2daf" />
+      <row amount="1" is_equipped="True" item_id="6c67d354-a472-442b-9d43-7ba805880aa6" weapon_preset_id="4c06773c-2de1-759e-cccc-1bc88f81cfa6" />
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="4c06773c-2de1-759e-cccc-1bc88f81cfa6" />
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="4c120c8f-d862-09b7-8009-57fdb2ffddb8" />
+      <row amount="1" is_equipped="True" item_id="8ef902ea-0c32-44c9-b101-71f35b9cbe3d" weapon_preset_id="4c120c8f-d862-09b7-8009-57fdb2ffddb8" />
+      <row amount="1" is_equipped="True" item_id="5e079d0b-0909-45c8-9306-8ac579b7b407" weapon_preset_id="4c1fc964-e302-31e9-1969-79e942aeddad" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4c24f9be-26a6-b301-0ba2-ae7bc71bc0b6" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="4c24f9be-26a6-b301-0ba2-ae7bc71bc0b6" />
+      <row amount="15" is_equipped="True" item_id="802507e9-d620-47b5-ae66-08fcc314e26a" weapon_preset_id="4c24f9be-26a6-b301-0ba2-ae7bc71bc0b6" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="4c24f9be-26a6-b301-0ba2-ae7bc71bc0b6" />
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="4c2c60d7-79c3-fb6e-5f6a-87b6894d5fa1" />
+      <row amount="1" is_equipped="True" item_id="e5fc1a89-9bb1-44a9-a524-c6834a5e2e76" weapon_preset_id="4c40fadc-34f2-def9-3d13-35f2ecdc4797" />
+      <row amount="1" is_equipped="True" item_id="db35e15d-ccc0-4c59-b76e-f7d6be6939f2" weapon_preset_id="4c43e0ad-5227-2e6c-27bc-ee53d67935a1" />
+      <row amount="1" is_equipped="True" item_id="d41af9ba-400f-49ae-91fa-38c7da4b815b" weapon_preset_id="4c4872a1-b283-6145-1f0e-5561fe4e7780" />
+      <row amount="1" is_equipped="True" item_id="53dffc64-bf9c-4a28-af02-a2ec9705d4a7" weapon_preset_id="4c56d9ce-34d1-25b7-c69e-a1405daf9ba0" />
+      <row amount="1" is_equipped="True" item_id="709c3428-ee1c-4fbe-87d1-8282660308fb" weapon_preset_id="4c56d9ce-34d1-25b7-c69e-a1405daf9ba0" />
+      <row amount="30" is_equipped="True" item_id="802507e9-d620-47b5-ae66-08fcc314e26a" weapon_preset_id="4c56d9ce-34d1-25b7-c69e-a1405daf9ba0" />
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="4c616286-dcb3-a83d-24be-7ec532635daa" />
+      <row amount="1" is_equipped="True" item_id="98851303-bf50-4a41-9aa7-aa33e025d0fb" weapon_preset_id="4c6648e8-1c24-b4ce-7827-ff5e2f2fa491" />
+      <row amount="1" is_equipped="True" item_id="04c2c966-f55b-4afe-b0c2-bfdf4ba0deeb" weapon_preset_id="4c6ba7e1-6cc4-9170-9021-b4726217529e" />
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="4c6ba7e1-6cc4-9170-9021-b4726217529e" />
+      <row amount="1" is_equipped="True" item_id="53dffc64-bf9c-4a28-af02-a2ec9705d4a7" weapon_preset_id="4c7f52b3-d389-602a-88a5-b32a404b20a0" />
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="4c7f52b3-d389-602a-88a5-b32a404b20a0" />
+      <row amount="1" is_equipped="True" item_id="d5e6764d-18ba-44cb-8dd0-6640a17785a8" weapon_preset_id="4c7f52b3-d389-602a-88a5-b32a404b20a0" />
+      <row amount="1" is_equipped="True" item_id="1592a436-4a22-4636-b82d-14af8127ee01" weapon_preset_id="4c89cb51-f6be-ff42-4f8a-7deb8b019b90" />
+      <row amount="1" is_equipped="True" item_id="26ddf0fa-c425-42a2-8879-fabaa66f414e" weapon_preset_id="4c98959a-39f8-8433-cda7-1addc84f3cb6" />
+      <row amount="1" is_equipped="True" item_id="3846de6d-530b-4fcb-9d45-aac007498f04" weapon_preset_id="4c98959a-39f8-8433-cda7-1addc84f3cb6" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4c9c7247-fcbe-2591-c009-1827cba52980" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="4c9c7247-fcbe-2591-c009-1827cba52980" />
+      <row amount="1" is_equipped="True" item_id="b97a2084-a5ca-4d16-ab58-e4665afe212f" weapon_preset_id="4cabaf78-984a-d420-505a-c96e26e5b386" />
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="4cabaf78-984a-d420-505a-c96e26e5b386" />
+      <row amount="1" is_equipped="True" item_id="709c3428-ee1c-4fbe-87d1-8282660308fb" weapon_preset_id="4cac5a05-dbe1-4af6-3af0-352a1ef264a1" />
+      <row amount="1" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="4cac5a05-dbe1-4af6-3af0-352a1ef264a1" />
+      <row amount="1" is_equipped="True" item_id="e38a3c49-811b-4ff2-80d6-fc4d49d89ba5" weapon_preset_id="4cac5a05-dbe1-4af6-3af0-352a1ef264a1" />
+      <row amount="1" is_equipped="True" item_id="8f2764bc-e4e7-407a-b1ed-8ee221b2bb5d" weapon_preset_id="4cb02ae8-5038-6060-bac0-40959aca45b1" />
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="4cb48f10-3fa3-a2d7-a146-2531641de387" />
+      <row amount="1" is_equipped="True" item_id="823df2a1-bd59-4820-ab53-35e23c46149c" weapon_preset_id="4cb48f10-3fa3-a2d7-a146-2531641de387" />
+      <row amount="1" is_equipped="True" item_id="c6909d59-330f-4fd6-8dad-36b4bd73613a" weapon_preset_id="4cb89925-5760-ff57-9e43-4c1fc0b360af" />
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="4cbd5cfb-529f-f6f4-413a-76f0c7d660af" />
+      <row amount="1" is_equipped="True" item_id="ee4d4a9d-dfe7-432e-80ae-6be5ac6c6225" weapon_preset_id="4cbd5cfb-529f-f6f4-413a-76f0c7d660af" />
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="4cc14237-9738-93a8-ed45-c00608c28c89" />
+      <row amount="1" is_equipped="True" item_id="cf58c28c-f2bd-41a0-9c6d-764767d144cf" weapon_preset_id="4cc14237-9738-93a8-ed45-c00608c28c89" />
+      <row amount="1" is_equipped="True" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" weapon_preset_id="4cc1d00b-05d5-8b35-1b20-9f752b3102a1" />
+      <row amount="1" is_equipped="True" item_id="d133cf8c-dc76-48ca-a823-cf837e7f0f99" weapon_preset_id="4cc1d00b-05d5-8b35-1b20-9f752b3102a1" />
+      <row amount="1" is_equipped="True" item_id="772c5d38-66b3-43f7-9757-5f10439aee97" weapon_preset_id="4cc61f05-6b8c-912e-6390-6911c4188c80" />
+      <row amount="1" is_equipped="True" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" weapon_preset_id="4cc61f05-6b8c-912e-6390-6911c4188c80" />
+      <row amount="1" is_equipped="True" item_id="17b7104f-d747-41ed-b701-d964584a0b37" weapon_preset_id="4cc6e9e7-f723-863f-0392-3b230ca91aa7" />
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="4cc6e9e7-f723-863f-0392-3b230ca91aa7" />
+      <row amount="1" is_equipped="True" item_id="2e32ab30-aa7e-4628-8482-a229a68dfa72" weapon_preset_id="4ccdd9fc-4d24-d4ce-fb6e-d676007d2082" />
+      <row amount="1" is_equipped="True" item_id="709c3428-ee1c-4fbe-87d1-8282660308fb" weapon_preset_id="4ccdd9fc-4d24-d4ce-fb6e-d676007d2082" />
+      <row amount="1" is_equipped="True" item_id="17b7104f-d747-41ed-b701-d964584a0b37" weapon_preset_id="4cd8d57a-3da6-47b8-ae52-faa49ec4f0ac" />
+      <row amount="1" is_equipped="True" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" weapon_preset_id="4cd8d57a-3da6-47b8-ae52-faa49ec4f0ac" />
+      <row amount="1" is_equipped="True" item_id="4bf59325-6ee7-4200-8b61-ed0c505674ae" weapon_preset_id="4cd9fad2-77c1-d7dd-5afe-8c12d9479d95" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="4cd9fad2-77c1-d7dd-5afe-8c12d9479d95" />
+      <row amount="1" is_equipped="True" item_id="0eb0ac15-f0d9-49ce-9dd8-b37381a7a508" weapon_preset_id="4ceb78e4-e9c1-6787-d65f-0473dc4186b8" />
+      <row amount="1" is_equipped="True" item_id="e16b0af6-fb6a-43e2-9a9c-1b8c227e64b8" weapon_preset_id="4ceb78e4-e9c1-6787-d65f-0473dc4186b8" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="4cecef99-0122-dde0-f48a-913770e226ae" />
+      <row amount="1" is_equipped="True" item_id="cfa7a763-493e-41a7-98e8-7bd54bba4649" weapon_preset_id="4cecef99-0122-dde0-f48a-913770e226ae" />
+      <row amount="1" is_equipped="True" item_id="4cea28a0-0814-405a-bf24-4fd711f7eb63" weapon_preset_id="4cf1dda4-7cd0-cf31-87a1-684fff2a7e9d" />
+      <row amount="1" is_equipped="True" item_id="931be8b2-e9e7-48f8-84f9-54f438d19cc4" weapon_preset_id="4cf1dda4-7cd0-cf31-87a1-684fff2a7e9d" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="4cf7a942-43de-1c91-d613-2998a82a1383" />
+      <row amount="1" is_equipped="True" item_id="871cbc55-35cf-4397-846e-7bf05d4308c7" weapon_preset_id="4cf7a942-43de-1c91-d613-2998a82a1383" />
+      <row amount="1" is_equipped="True" item_id="ad6f0f01-aec4-44d1-982c-1210eb01b74a" weapon_preset_id="4cf7a942-43de-1c91-d613-2998a82a1383" />
+      <row amount="12" is_equipped="True" item_id="802507e9-d620-47b5-ae66-08fcc314e26a" weapon_preset_id="4cfb7bd6-3cd2-bb78-f99a-c9ba722c3fac" />
+      <row amount="1" is_equipped="True" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" weapon_preset_id="4d090869-dadf-5cd0-5a7c-c5d13b43978a" />
+      <row amount="1" is_equipped="True" item_id="ee4d4a9d-dfe7-432e-80ae-6be5ac6c6225" weapon_preset_id="4d1cefdc-63e6-cdd0-c7d0-3ab20cff5094" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="4d2bda6c-3849-b90b-dba9-4469a240ee9b" />
+      <row amount="1" is_equipped="True" item_id="5878eeed-a6b6-481c-ac10-9e7cd5958988" weapon_preset_id="4d2cd551-32b2-2b5a-8861-5105ac146ca5" />
+      <row amount="1" is_equipped="True" item_id="b129a71e-cadb-47db-bc2c-6ce85e3b278c" weapon_preset_id="4d2cd551-32b2-2b5a-8861-5105ac146ca5" />
+      <row amount="1" is_equipped="True" item_id="4bf59325-6ee7-4200-8b61-ed0c505674ae" weapon_preset_id="4d5118cb-d9f4-cd3a-f02b-3dc9a413f6ba" />
+      <row amount="1" is_equipped="True" item_id="b97a2084-a5ca-4d16-ab58-e4665afe212f" weapon_preset_id="4d5118cb-d9f4-cd3a-f02b-3dc9a413f6ba" />
+      <row amount="1" is_equipped="True" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" weapon_preset_id="4d579fbe-a5a8-3ad6-a174-2b86ff93ffbe" />
+      <row amount="1" is_equipped="True" item_id="608922e3-0405-4110-a026-dcd3c69b2bf2" weapon_preset_id="4d579fbe-a5a8-3ad6-a174-2b86ff93ffbe" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4d6427b6-7669-c7b4-b949-5c4e9c25dfaf" />
+      <row amount="1" is_equipped="True" item_id="e6391b02-c09c-495d-a980-ad675d523fb3" weapon_preset_id="4d6427b6-7669-c7b4-b949-5c4e9c25dfaf" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4d71291a-6911-589f-6fde-06b7a966b2b1" />
+      <row amount="1" is_equipped="True" item_id="931be8b2-e9e7-48f8-84f9-54f438d19cc4" weapon_preset_id="4d71291a-6911-589f-6fde-06b7a966b2b1" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4d76de45-1f1e-79f4-bd46-1c3d8eeca39f" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="4d76de45-1f1e-79f4-bd46-1c3d8eeca39f" />
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="4d778d32-2137-14ad-1a80-b83b331e5f86" />
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="4d778d32-2137-14ad-1a80-b83b331e5f86" />
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="4d77a19c-ee10-ad13-5838-29910a873a8c" />
+      <row amount="1" is_equipped="True" item_id="cf58c28c-f2bd-41a0-9c6d-764767d144cf" weapon_preset_id="4d77a19c-ee10-ad13-5838-29910a873a8c" />
+      <row amount="1" is_equipped="True" item_id="e0c5c6fb-6a02-4ead-9877-ff0464b92729" weapon_preset_id="4d975156-b2ee-4e4c-ff3e-e21266698c86" />
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="4d975156-b2ee-4e4c-ff3e-e21266698c86" />
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="4dabf063-4761-8bbc-e0da-9abd931cc5aa" />
+      <row amount="1" is_equipped="True" item_id="f7359b93-8312-4f13-8c51-ddb671a9edff" weapon_preset_id="4dabf063-4761-8bbc-e0da-9abd931cc5aa" />
+      <row amount="1" is_equipped="True" item_id="17b7104f-d747-41ed-b701-d964584a0b37" weapon_preset_id="4dbaa753-e2a1-91e2-ac23-1e1af69f019f" />
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="4dbaa753-e2a1-91e2-ac23-1e1af69f019f" />
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="4dbb17d8-5c49-53a1-b412-bf8b1a6d30ac" />
+      <row amount="1" is_equipped="True" item_id="5b7ed53e-3554-47c7-817b-b971a2d99713" weapon_preset_id="4dbb17d8-5c49-53a1-b412-bf8b1a6d30ac" />
+      <row amount="1" is_equipped="True" item_id="01b86c1e-1614-4310-8bed-10b7682e5815" weapon_preset_id="4dc520ca-9255-4fe5-0592-42523230ed93" />
+      <row amount="1" is_equipped="True" item_id="a5b31bbc-1e11-4831-835b-c06d5b13a7da" weapon_preset_id="4dc520ca-9255-4fe5-0592-42523230ed93" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="4dc520ca-9255-4fe5-0592-42523230ed93" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4dd0c4f9-434b-365e-9cca-4a3d086345af" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="4dd0c4f9-434b-365e-9cca-4a3d086345af" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="4ddac674-1016-4bfc-2a31-2285b1413481" />
+      <row amount="1" is_equipped="True" item_id="2e32ab30-aa7e-4628-8482-a229a68dfa72" weapon_preset_id="4ddcbf3d-09f3-a560-5984-1caff6a3788b" />
+      <row amount="1" is_equipped="True" item_id="488d9792-0dbf-41dc-a320-753d94d1f1b6" weapon_preset_id="4ddcbf3d-09f3-a560-5984-1caff6a3788b" />
+      <row amount="1" is_equipped="True" item_id="4c0874f3-67f9-4e5f-ad53-9ed29156acd5" weapon_preset_id="4de4f200-f602-2160-2aa8-dc8a73d738a6" />
+      <row amount="1" is_equipped="True" item_id="539f94d5-d9b4-4e0b-a0b1-8403d27d96ff" weapon_preset_id="4de4f200-f602-2160-2aa8-dc8a73d738a6" />
+      <row amount="1" is_equipped="True" item_id="ff2b21b8-c613-45ff-89c6-8a347cf37ff6" weapon_preset_id="4de95ab6-80a3-c41e-f034-cbead8d12e97" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="4e015933-a803-e3ba-b0a2-df3b7fcdfcb3" />
+      <row amount="1" is_equipped="True" item_id="8468933a-7d6b-4cf9-92f0-af5874d40a9b" weapon_preset_id="4e051c59-182f-9be1-21dc-7b73da9a6fbd" />
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="4e15ea14-b24d-2c13-a2cf-81155fc801a7" />
+      <row amount="1" is_equipped="True" item_id="788c57a8-ae7a-43a7-8236-07fec193531c" weapon_preset_id="4e15ea14-b24d-2c13-a2cf-81155fc801a7" />
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="4e28e32b-1e28-e0b2-e94c-97eab98c35a8" />
+      <row amount="1" is_equipped="True" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" weapon_preset_id="4e28e32b-1e28-e0b2-e94c-97eab98c35a8" />
+      <row amount="1" is_equipped="True" item_id="e0c5c6fb-6a02-4ead-9877-ff0464b92729" weapon_preset_id="4e315191-76be-8b97-5f81-9e9e0e889b94" />
+      <row amount="1" is_equipped="True" item_id="eef9a291-fa86-454b-9a01-22d92647f5f1" weapon_preset_id="4e315191-76be-8b97-5f81-9e9e0e889b94" />
+      <row amount="1" is_equipped="True" item_id="7377215a-a0ca-44a2-b11a-113a024191ca" weapon_preset_id="4e355fb0-44bd-902b-b1ae-03d886e26ba9" />
+      <row amount="1" is_equipped="True" item_id="e5ab81a9-d02e-4361-acf5-ac755df7f2dc" weapon_preset_id="4e355fb0-44bd-902b-b1ae-03d886e26ba9" />
+      <row amount="1" is_equipped="True" item_id="53dffc64-bf9c-4a28-af02-a2ec9705d4a7" weapon_preset_id="4e36b67c-ef7e-839c-1bb6-a948a25c38b4" />
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="4e36b67c-ef7e-839c-1bb6-a948a25c38b4" />
+      <row amount="30" is_equipped="True" item_id="802507e9-d620-47b5-ae66-08fcc314e26a" weapon_preset_id="4e36b67c-ef7e-839c-1bb6-a948a25c38b4" />
+      <row amount="1" is_equipped="True" item_id="e680ebb5-c752-4640-906d-70f332106154" weapon_preset_id="4e392b29-0613-a4f5-4135-0aaf76035195" />
+      <row amount="1" is_equipped="True" item_id="1af2b27c-06bf-42a9-b203-8e7c83361d50" weapon_preset_id="4e3c077c-34fb-b70c-825e-5390e152999c" />
+      <row amount="1" is_equipped="True" item_id="488d9792-0dbf-41dc-a320-753d94d1f1b6" weapon_preset_id="4e3c077c-34fb-b70c-825e-5390e152999c" />
+      <row amount="1" is_equipped="True" item_id="1592a436-4a22-4636-b82d-14af8127ee01" weapon_preset_id="4e3c8dcf-77a1-ba32-1b51-610e5f2a9182" />
+      <row amount="1" is_equipped="True" item_id="4cea28a0-0814-405a-bf24-4fd711f7eb63" weapon_preset_id="4e3c8dcf-77a1-ba32-1b51-610e5f2a9182" />
+      <row amount="1" is_equipped="True" item_id="488d9792-0dbf-41dc-a320-753d94d1f1b6" weapon_preset_id="4e41d059-b671-2049-13e8-b0f0f6f5579c" />
+      <row amount="25" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4e41d059-b671-2049-13e8-b0f0f6f5579c" />
+      <row amount="1" is_equipped="True" item_id="7c1ee5f9-e089-4ee5-9f65-524976e86e7d" weapon_preset_id="4e41d059-b671-2049-13e8-b0f0f6f5579c" />
+      <row amount="1" is_equipped="True" item_id="539f94d5-d9b4-4e0b-a0b1-8403d27d96ff" weapon_preset_id="4e432169-60b6-63b7-c356-9537c858b781" />
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="4e432169-60b6-63b7-c356-9537c858b781" />
+      <row amount="1" is_equipped="True" item_id="481e7576-a6ee-4732-ba2f-98b88b430c41" weapon_preset_id="4e50d708-fe26-68b3-0762-7c831fd6f08a" />
+      <row amount="1" is_equipped="True" item_id="4ef4527a-cf8b-4103-a845-0b1f531c0848" weapon_preset_id="4e50d708-fe26-68b3-0762-7c831fd6f08a" />
+      <row amount="30" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4e50d708-fe26-68b3-0762-7c831fd6f08a" />
+      <row amount="1" is_equipped="True" item_id="5bcd587a-4d97-4bad-a8b4-3248fc6d0cc6" weapon_preset_id="4e5f4902-cc86-a3ef-f761-f6df7ecbde97" />
+      <row amount="1" is_equipped="True" item_id="6c67d354-a472-442b-9d43-7ba805880aa6" weapon_preset_id="4e5f4902-cc86-a3ef-f761-f6df7ecbde97" />
+      <row amount="1" is_equipped="True" item_id="ad443031-370e-4a63-ba12-ee3fc4c338a8" weapon_preset_id="4e5fde5f-9009-f056-fb50-80814a070bbf" />
+      <row amount="1" is_equipped="True" item_id="6c67d354-a472-442b-9d43-7ba805880aa6" weapon_preset_id="4e607ce7-35bb-0943-71c8-9190d7cafc94" />
+      <row amount="1" is_equipped="True" item_id="937c90ad-fdee-45ff-a712-6fae845a5210" weapon_preset_id="4e607ce7-35bb-0943-71c8-9190d7cafc94" />
+      <row amount="1" is_equipped="True" item_id="c316062a-5633-4e1e-bea3-f226717c0258" weapon_preset_id="4e67a384-b8d4-5baa-035f-e80a4cab3888" />
+      <row amount="1" is_equipped="True" item_id="488d9792-0dbf-41dc-a320-753d94d1f1b6" weapon_preset_id="4e6c56f1-596a-1eae-4a34-56e61c4b78b2" />
+      <row amount="1" is_equipped="True" item_id="cf84a3f5-781a-4f1d-94b7-db8745a9682e" weapon_preset_id="4e6c56f1-596a-1eae-4a34-56e61c4b78b2" />
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="4e759c51-4d79-842a-2325-5d1d7829308c" />
+      <row amount="1" is_equipped="True" item_id="965cc83a-1d34-416f-aabd-c4a461a6e583" weapon_preset_id="4e759c51-4d79-842a-2325-5d1d7829308c" />
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="4e7d6fe5-f00a-e8a0-e4c9-2a70430e2888" />
+      <row amount="1" is_equipped="True" item_id="cf84a3f5-781a-4f1d-94b7-db8745a9682e" weapon_preset_id="4e7d6fe5-f00a-e8a0-e4c9-2a70430e2888" />
+      <row amount="1" is_equipped="True" item_id="5878eeed-a6b6-481c-ac10-9e7cd5958988" weapon_preset_id="4e93682b-12d9-9b9b-eb04-dddec029d18d" />
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="4e93682b-12d9-9b9b-eb04-dddec029d18d" />
+      <row amount="1" is_equipped="True" item_id="6096a15f-3d8a-496d-a24c-4776c10189d7" weapon_preset_id="4e9a767b-407d-a994-5954-1f0e435a4492" />
+      <row amount="12" is_equipped="True" item_id="802507e9-d620-47b5-ae66-08fcc314e26a" weapon_preset_id="4e9a767b-407d-a994-5954-1f0e435a4492" />
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="4e9a767b-407d-a994-5954-1f0e435a4492" />
+      <row amount="1" is_equipped="True" item_id="937c90ad-fdee-45ff-a712-6fae845a5210" weapon_preset_id="4eb7bfe0-49ba-90c0-7ce8-93da8f6c4498" />
+      <row amount="1" is_equipped="True" item_id="3e7657f2-d653-4e57-ae77-6f2225ac642b" weapon_preset_id="4eb9e370-d0e9-91a8-3426-7b070dafba8c" />
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="4eb9e370-d0e9-91a8-3426-7b070dafba8c" />
+      <row amount="1" is_equipped="True" item_id="b97a2084-a5ca-4d16-ab58-e4665afe212f" weapon_preset_id="4ecb4a73-3ffd-ffe9-b045-974008c9bf82" />
+      <row amount="1" is_equipped="True" item_id="9fb601d5-486c-4082-93cc-6356b0771b05" weapon_preset_id="4ecbbb95-0166-d42b-c869-04fc01ae0a9b" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4ecc388e-36e5-b240-b470-9970c8eb2382" />
+      <row amount="1" is_equipped="True" item_id="c9cc366b-7192-4261-8861-be7877e9ef17" weapon_preset_id="4ecc388e-36e5-b240-b470-9970c8eb2382" />
+      <row amount="1" is_equipped="True" item_id="c9cc366b-7192-4261-8861-be7877e9ef17" weapon_preset_id="4ed23fdb-47ff-5191-2517-975b12830c82" />
+      <row amount="1" is_equipped="True" item_id="7377215a-a0ca-44a2-b11a-113a024191ca" weapon_preset_id="4ed70ece-b22f-1694-7875-838a415194b9" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="4ed70ece-b22f-1694-7875-838a415194b9" />
+      <row amount="1" is_equipped="True" item_id="e6391b02-c09c-495d-a980-ad675d523fb3" weapon_preset_id="4ee11a89-8f7f-d306-e663-caab565440b5" />
+      <row amount="1" is_equipped="True" item_id="6ec15d56-4f77-4751-af72-e6225f825ae8" weapon_preset_id="4ee343e9-5e06-478e-143d-ec90df234aab" />
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="4ee343e9-5e06-478e-143d-ec90df234aab" />
+      <row amount="30" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4ee36f4f-8257-d4de-d7bc-71c90158ea9b" />
+      <row amount="1" is_equipped="True" item_id="b3fea5de-4ef1-4bcd-9836-7b3c7765ffbb" weapon_preset_id="4ee36f4f-8257-d4de-d7bc-71c90158ea9b" />
+      <row amount="1" is_equipped="True" item_id="e5ab81a9-d02e-4361-acf5-ac755df7f2dc" weapon_preset_id="4ee36f4f-8257-d4de-d7bc-71c90158ea9b" />
+      <row amount="1" is_equipped="True" item_id="30a02ab0-eb1d-4bf7-a53f-eb1004b2cbd8" weapon_preset_id="4ee94e49-4882-c0b4-8ff5-5f094970d995" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="4ee94e49-4882-c0b4-8ff5-5f094970d995" />
+      <row amount="1" is_equipped="True" item_id="5878eeed-a6b6-481c-ac10-9e7cd5958988" weapon_preset_id="4eeadf7c-203e-d7bd-c764-07f9c68d2f81" />
+      <row amount="25" is_equipped="True" item_id="710e3706-8974-404b-b23a-6f51670ef1ed" weapon_preset_id="4eeadf7c-203e-d7bd-c764-07f9c68d2f81" />
+      <row amount="1" is_equipped="True" item_id="7c1ee5f9-e089-4ee5-9f65-524976e86e7d" weapon_preset_id="4eeadf7c-203e-d7bd-c764-07f9c68d2f81" />
+      <row amount="1" is_equipped="True" item_id="5e2ba1cd-4a42-407c-9261-8afdbc3e86b4" weapon_preset_id="4eeea9a3-cfb2-d7bf-52cb-c7262e348c8b" />
+      <row amount="30" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="4eeea9a3-cfb2-d7bf-52cb-c7262e348c8b" />
+      <row amount="1" is_equipped="True" item_id="e38a3c49-811b-4ff2-80d6-fc4d49d89ba5" weapon_preset_id="4eeea9a3-cfb2-d7bf-52cb-c7262e348c8b" />
+      <row amount="1" is_equipped="True" item_id="af7fd872-0830-4e33-843e-5c015bbe9e73" weapon_preset_id="4ef7bf1a-572a-8e16-fa3b-f8e276f56192" />
+      <row amount="1" is_equipped="True" item_id="709c3428-ee1c-4fbe-87d1-8282660308fb" weapon_preset_id="4efacf44-618a-e69a-3872-c174f9645abc" />
+      <row amount="30" is_equipped="True" item_id="802507e9-d620-47b5-ae66-08fcc314e26a" weapon_preset_id="4efacf44-618a-e69a-3872-c174f9645abc" />
+      <row amount="1" is_equipped="True" item_id="cea13fef-025c-47bb-b148-9783b9951acc" weapon_preset_id="4efacf44-618a-e69a-3872-c174f9645abc" />
+      <row amount="1" is_equipped="True" item_id="8468933a-7d6b-4cf9-92f0-af5874d40a9b" weapon_preset_id="4efeb66d-6954-425a-4cdb-18d41b922ba7" />
+      <row amount="1" is_equipped="True" item_id="5b7ed53e-3554-47c7-817b-b971a2d99713" weapon_preset_id="4f20d3b0-1a98-1c40-d49c-f14e29ea31a6" />
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="4f20d3b0-1a98-1c40-d49c-f14e29ea31a6" />
+      <row amount="1" is_equipped="True" item_id="24a7c868-f23f-4799-8e64-331435a77404" weapon_preset_id="4f2169cd-fd45-78c0-7d9d-fa05359ea1b2" />
+      <row amount="1" is_equipped="True" item_id="772c5d38-66b3-43f7-9757-5f10439aee97" weapon_preset_id="4f239c7a-8bf8-a7c9-caca-b99f3fa68196" />
+      <row amount="1" is_equipped="True" item_id="e16b0af6-fb6a-43e2-9a9c-1b8c227e64b8" weapon_preset_id="4f239c7a-8bf8-a7c9-caca-b99f3fa68196" />
+      <row amount="1" is_equipped="True" item_id="db0725ac-c0e0-41db-b7a6-2887c57df612" weapon_preset_id="4f252a9d-4956-9948-f3e4-e89a3777649d" />
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="4f2984b6-974a-ffc8-ebdc-95b30c42e49e" />
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="4f2984b6-974a-ffc8-ebdc-95b30c42e49e" />
+      <row amount="1" is_equipped="True" item_id="ad443031-370e-4a63-ba12-ee3fc4c338a8" weapon_preset_id="4f2bd35d-5591-164e-e610-73873d04c797" />
+      <row amount="1" is_equipped="True" item_id="6ec15d56-4f77-4751-af72-e6225f825ae8" weapon_preset_id="4f2ce6f2-24ad-041b-c280-0f204cbb5fad" />
+      <row amount="1" is_equipped="True" item_id="ef79c956-744e-4731-a385-ecf9c57b3adc" weapon_preset_id="4f2ce6f2-24ad-041b-c280-0f204cbb5fad" />
+      <row amount="1" is_equipped="True" item_id="28a3a4be-3866-47be-91db-878888340674" weapon_preset_id="4f37075e-743d-6d3b-3400-b21134a65f8a" />
+      <row amount="1" is_equipped="True" item_id="47267303-7658-40a7-b39c-57aa8093c176" weapon_preset_id="4f83f0eb-d656-49b5-43bc-4a1a3536d1b1" />
+      <row amount="1" is_equipped="True" item_id="50ef44b2-73f9-412f-bb4b-29047887a11b" weapon_preset_id="4f83f0eb-d656-49b5-43bc-4a1a3536d1b1" />
+      <row amount="25" is_equipped="True" item_id="e5b3f681-3714-4623-97be-4015fa454797" weapon_preset_id="4f83f0eb-d656-49b5-43bc-4a1a3536d1b1" />
+      <row amount="1" is_equipped="True" item_id="7fc2317f-6237-4423-82d2-8c809f651e85" weapon_preset_id="4f920cb6-1a7a-cc08-ac45-39c6c54c13ab" />
+      <row amount="1" is_equipped="True" item_id="a415c3a7-82f0-4a73-925a-bb2c1674955f" weapon_preset_id="4f920cb6-1a7a-cc08-ac45-39c6c54c13ab" />
+      <row amount="30" is_equipped="True" item_id="c49aa63a-07a6-4417-9f9b-97f2712a4cd0" weapon_preset_id="4f920cb6-1a7a-cc08-ac45-39c6c54c13ab" />
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="4fa37283-00d2-c10c-2a6e-992d755ea28e" />
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="4faa43a9-8667-d8c8-10b4-d905c24723b2" />
+      <row amount="1" is_equipped="True" item_id="c2d79308-ce89-41e4-b07c-8c00f4496370" weapon_preset_id="4faa61be-303b-66a4-5412-cdd37ed46abe" />
+      <row amount="1" is_equipped="True" item_id="af7fd872-0830-4e33-843e-5c015bbe9e73" weapon_preset_id="4fdb3ad1-b8a0-9d72-e38d-f3cc50011684" />
+      <row amount="1" is_equipped="True" item_id="405c1865-413d-43b8-8db9-c44a0eefd350" weapon_preset_id="4fe62e00-b21b-241f-5c72-153f3235eebf" />
+      <row amount="1" is_equipped="True" item_id="f7359b93-8312-4f13-8c51-ddb671a9edff" weapon_preset_id="4fe62e00-b21b-241f-5c72-153f3235eebf" />
+      <row amount="1" is_equipped="True" item_id="30a02ab0-eb1d-4bf7-a53f-eb1004b2cbd8" weapon_preset_id="4fe7df63-c704-0f15-d4aa-870b9874efae" />
+      <row amount="1" is_equipped="True" item_id="488d9792-0dbf-41dc-a320-753d94d1f1b6" weapon_preset_id="4fe7df63-c704-0f15-d4aa-870b9874efae" />
+      <row amount="1" is_equipped="True" item_id="5348397f-9c7b-4638-8651-8f0764bb31af" weapon_preset_id="4ff69196-df32-c910-8df6-96d61f1e9392" />
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="4ff69196-df32-c910-8df6-96d61f1e9392" />
+      <row amount="1" is_equipped="True" item_id="2b652926-fb99-406f-9955-8a45dd1f1cd9" weapon_preset_id="4ff99075-417f-5abf-6465-f8cf1aa38dbd" />
+      <row amount="1" is_equipped="True" item_id="8e2ccaa1-17c2-4cef-b378-e71dc83bddb7" weapon_preset_id="4ff99075-417f-5abf-6465-f8cf1aa38dbd" />
+      <row amount="1" is_equipped="True" item_id="965cc83a-1d34-416f-aabd-c4a461a6e583" weapon_preset_id="4ffebc2f-7b87-393f-f7ba-00799f56559f" />
+	  
+  
+	  <row amount="1" is_equipped="True" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" weapon_preset_id="99999999-9999-9999-9999-000000000001" /><!--Pernach Mace-->
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000001" /><!--Polearm Halberd--><!--events-->	  			
+
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="99999999-9999-9999-9999-000000000002" /><!--Shortsword-->
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000002" /><!--Polearm Halberd--><!--Rattay,ambush2-->
+	  
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="99999999-9999-9999-9999-000000000003" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000003" /><!--Polearm Halberd--> 
+	  
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="99999999-9999-9999-9999-000000000004" /><!--Mace-->
+	  <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000004" /><!--Polearm Spear--><!--events-->
+	  
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="99999999-9999-9999-9999-000000000005" /><!--Cooper's Axe-->
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000005" /><!--Polearm Bill-->	  
+
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="99999999-9999-9999-9999-000000000006" /><!--Lumberjack Axe-->
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000006" /><!--Polearm Guisarme-->
+	  
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="99999999-9999-9999-9999-000000000007" /><!--Hunting Sword-->
+	  <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000007" /><!--Polearm Guisarme-->  
+  
+	  <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="99999999-9999-9999-9999-000000000008" /><!--Lumberjack Axe-->
+	  <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000008" /><!--Polearm Spear--><!--events-->	
+	  	  
+      <row amount="1" is_equipped="True" item_id="e0c5c6fb-6a02-4ead-9877-ff0464b92729" weapon_preset_id="99999999-9999-9999-9999-000000000009" /><!--Battleaxe-->
+	  <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="99999999-9999-9999-9999-000000000009" /><!--Polearm Bohemian Earspoon--><!--ambush2-->
+	  
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="99999999-9999-9999-9999-000000000010" /><!--Hunting Sword--><!--events-->
+	  <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000010" /><!--Polearm Spear--><!--events-->	
+	  
+      <row amount="1" is_equipped="True" item_id="e0c5c6fb-6a02-4ead-9877-ff0464b92729" weapon_preset_id="99999999-9999-9999-9999-000000000011" /><!--Battleaxe--><!--Rattay-->
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000011" /><!--Polearm Spear-->
+
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="99999999-9999-9999-9999-000000000012" /><!--Shortsword-->
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000012" /><!--Polearm Halberd--><!--Rattay-->
+
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="99999999-9999-9999-9999-000000000013" /><!--Mace-->
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="99999999-9999-9999-9999-000000000013" /><!--Polearm Bohemian Earspoon-->
+	  
+      <row amount="1" is_equipped="True" item_id="80425345-1243-4bc2-b3bf-40ebff4a7fba" weapon_preset_id="99999999-9999-9999-9999-000000000014" /><!--Axe-->
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000014" /><!--Polearm Spear--><!--Rattay-->
+
+      <row amount="1" is_equipped="True" item_id="ee4d4a9d-dfe7-432e-80ae-6be5ac6c6225" weapon_preset_id="99999999-9999-9999-9999-000000000015" /><!--Broad Axe--><!--events-->	
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="99999999-9999-9999-9999-000000000015" /><!--Polearm Bohemian Earspoon-->	
+
+      <row amount="1" is_equipped="True" item_id="e3ee5787-f4c5-42b7-a900-33dc97c60706" weapon_preset_id="99999999-9999-9999-9999-000000000016" /><!--Hunting Sword-->
+	  <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000016" /><!--Polearm Spear--><!--Rattay-->
+	  
+      <row amount="1" is_equipped="True" item_id="488d9792-0dbf-41dc-a320-753d94d1f1b6" weapon_preset_id="99999999-9999-9999-9999-000000000017" /><!--Spiked Warhammer-->	  
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="99999999-9999-9999-9999-000000000017" /><!--Polearm Bohemian Earspoon-->
+	  
+      <row amount="1" is_equipped="True" item_id="662a3ac5-5883-4b7d-bd84-173eaa136a73" weapon_preset_id="99999999-9999-9999-9999-000000000018" /><!--Short Pollaxe--><!--events-->
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000018" /><!--Polearm Halberd-->	
+	  
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="99999999-9999-9999-9999-000000000019" /><!--Shortsword--><!--events-->	
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000019" /><!--Polearm Halberd-->		
+	  
+      <row amount="1" is_equipped="True" item_id="e6391b02-c09c-495d-a980-ad675d523fb3" weapon_preset_id="99999999-9999-9999-9999-000000000020" /><!--Shortsword-->	
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000020" /><!--Polearm Halberd--><!--events-->
+
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="99999999-9999-9999-9999-000000000021" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000021" /><!--Polearm Halberd--><!--events--> 
+
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="99999999-9999-9999-9999-000000000022" /><!--Shortsword-->
+      <row amount="1" is_equipped="True" item_id="3ef71c79-57c2-4f28-8f31-a091d9b78798" weapon_preset_id="99999999-9999-9999-9999-000000000022" /><!--Polearm Lucerne Hammer--><!--Ambush2-->
+
+      <row amount="1" is_equipped="True" item_id="6c8a6e64-350c-4f47-9a3f-18e3450987ef" weapon_preset_id="99999999-9999-9999-9999-000000000023" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000023" /><!--Polearm Guisarme-->	  
+      
+      <row amount="1" is_equipped="True" item_id="4da4eeda-663b-4ef3-9793-518a3b9ac13a" weapon_preset_id="99999999-9999-9999-9999-000000000024" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="cf58c28c-f2bd-41a0-9c6d-764767d144cf" weapon_preset_id="99999999-9999-9999-9999-000000000024" /><!--Polearm Hunting Spear--><!--Rattay-->
+
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="99999999-9999-9999-9999-000000000025" /><!--Mace-->  
+	  <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000025" /><!--Polearm Guisarme-->
+	  
+      <row amount="1" is_equipped="True" item_id="9f754566-7fb2-47e1-951b-22c27debb3c8" weapon_preset_id="99999999-9999-9999-9999-000000000026" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000026" /><!--Polearm Halberd-->
+
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="99999999-9999-9999-9999-000000000027" /><!--Lumberjack Axe-->
+	  <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000027" /><!--Polearm Guisarme-->
+	  
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="99999999-9999-9999-9999-000000000028" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000028" /><!--Polearm Halberd--><!--events-->
+
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="99999999-9999-9999-9999-000000000029" /><!--Lumberjack Axe-->  
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000029" /><!--Polearm Bill-->
+
+      <row amount="1" is_equipped="True" item_id="f7359b93-8312-4f13-8c51-ddb671a9edff" weapon_preset_id="99999999-9999-9999-9999-000000000030" /><!--Club-->
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000030" /><!--Polearm Guisarme-->
+	  
+      <row amount="1" is_equipped="True" item_id="547dbb33-e2a7-414c-a2ea-379c96b776ee" weapon_preset_id="99999999-9999-9999-9999-000000000031" /><!--Axe-->
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000031" /><!--Polearm Bill-->
+      
+      <row amount="1" is_equipped="True" item_id="871cbc55-35cf-4397-846e-7bf05d4308c7" weapon_preset_id="99999999-9999-9999-9999-000000000032" /><!--Hunting Sword-->
+	  <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000032" /><!--Polearm Bill--><!--Rattay,ambush2-->
+
+      <row amount="1" is_equipped="True" item_id="871cbc55-35cf-4397-846e-7bf05d4308c7" weapon_preset_id="99999999-9999-9999-9999-000000000033" /><!--Hunting Sword--><!--ambush-->
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000033" /><!--Polearm Guisarme-->
+
+      <row amount="1" is_equipped="True" item_id="5bcd587a-4d97-4bad-a8b4-3248fc6d0cc6" weapon_preset_id="99999999-9999-9999-9999-000000000034" /><!--Heavy Battleaxe--><!--events-->
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000034" /><!--Polearm Halberd-->
+
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="99999999-9999-9999-9999-000000000035" /><!--Mace-->
+      <row amount="1" is_equipped="True" item_id="8ef902ea-0c32-44c9-b101-71f35b9cbe3d" weapon_preset_id="99999999-9999-9999-9999-000000000035" /><!--Polearm Bardiche--><!--Rattay-->
+	  
+      <row amount="1" is_equipped="True" item_id="6ec15d56-4f77-4751-af72-e6225f825ae8" weapon_preset_id="99999999-9999-9999-9999-000000000036" /><!--Heavy Warhammer--><!--events-->	  
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000036" /><!--Polearm Bill-->
+
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000037" /><!--Polearm Halberd--><!--events-->
+      <row amount="1" is_equipped="True" item_id="24a7c868-f23f-4799-8e64-331435a77404" weapon_preset_id="99999999-9999-9999-9999-000000000037" /><!--Warhammer-->
+
+      <row amount="1" is_equipped="True" item_id="ad443031-370e-4a63-ba12-ee3fc4c338a8" weapon_preset_id="99999999-9999-9999-9999-000000000038" /><!--Carpenter's Axe-->
+      <row amount="1" is_equipped="True" item_id="8ef902ea-0c32-44c9-b101-71f35b9cbe3d" weapon_preset_id="99999999-9999-9999-9999-000000000038" /><!--Polearm Bardiche--><!--ambush2-->
+      
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="99999999-9999-9999-9999-000000000039" /><!--Mace-->
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000039" /><!--Polearm Halberd--><!--Rattay,events-->
+      
+      <row amount="1" is_equipped="True" item_id="5ab5581a-be10-4520-9ab4-90c6985498d3" weapon_preset_id="99999999-9999-9999-9999-000000000040" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000040" /><!--Polearm Halberd--><!--ambush2-->
+
+      <row amount="1" is_equipped="True" item_id="980003b4-f81f-42c5-bdc7-5d389158aa4a" weapon_preset_id="99999999-9999-9999-9999-000000000041" /><!--Hunting Sword-->
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000041" /><!--Polearm Guisarme--><!--ambush2-->
+
+      <row amount="1" is_equipped="True" item_id="931be8b2-e9e7-48f8-84f9-54f438d19cc4" weapon_preset_id="99999999-9999-9999-9999-000000000042" /><!--Spiked Club-->
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000042" /><!--Polearm Bill-->
+
+      <row amount="1" is_equipped="True" item_id="196be21b-6d21-4dd6-84e4-c95ecd2092a7" weapon_preset_id="99999999-9999-9999-9999-000000000043" /><!--Mace-->
+      <row amount="1" is_equipped="True" item_id="cf58c28c-f2bd-41a0-9c6d-764767d144cf" weapon_preset_id="99999999-9999-9999-9999-000000000043" /><!--Polearm Hunting Spear--><!--Rattay-->
+
+      <row amount="1" is_equipped="True" item_id="788c57a8-ae7a-43a7-8236-07fec193531c" weapon_preset_id="99999999-9999-9999-9999-000000000044" /><!--Hunting Sword-->
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000044" /><!--Polearm Guisarme-->
+
+      <row amount="1" is_equipped="True" item_id="965cc83a-1d34-416f-aabd-c4a461a6e583" weapon_preset_id="99999999-9999-9999-9999-000000000045" /><!--Shortsword-->
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000045" /><!--Polearm Spear-->
+ 
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="99999999-9999-9999-9999-000000000046" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="99999999-9999-9999-9999-000000000046" /><!--Polearm Bohemian Earspoon-->
+
+	  <row amount="1" is_equipped="True" item_id="1ff6e150-de1d-4cff-b263-e3dad48eef1a" weapon_preset_id="99999999-9999-9999-9999-000000000047" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000047" /><!--Polearm Halberd-->
+
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="99999999-9999-9999-9999-000000000048" /><!--Lumberjack Axe-->
+	  <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000048" /><!--Polearm Spear-->
+	  
+      <row amount="1" is_equipped="True" item_id="58ef3e13-d40f-4b25-b4bc-3b06df0f2578" weapon_preset_id="99999999-9999-9999-9999-000000000049" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000049" /><!--Polearm Spear-->
+
+      <row amount="1" is_equipped="True" item_id="c9cc366b-7192-4261-8861-be7877e9ef17" weapon_preset_id="99999999-9999-9999-9999-000000000050" /><!--Shortsword-->
+	  <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000050" /><!--Polearm Bill-->
+	  
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="99999999-9999-9999-9999-000000000051" /><!--Cooper's Axe-->
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000051" /><!--Polearm Halberd-->	  
+  
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="99999999-9999-9999-9999-000000000052" /><!--Shortsword--> 
+      <row amount="1" is_equipped="True" item_id="b61b9315-d9b4-4a93-bcc0-3db9848886ab" weapon_preset_id="99999999-9999-9999-9999-000000000052" /><!--Lumberjack Axe-->	  
+	  <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000052" /><!--Polearm Bill-->	
+	  
+      <row amount="1" is_equipped="True" item_id="ee4d4a9d-dfe7-432e-80ae-6be5ac6c6225" weapon_preset_id="99999999-9999-9999-9999-000000000053" /><!--Broad Axe-->
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000053" /><!--Polearm Guisarme--><!--Ambush2-->
+	  
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="99999999-9999-9999-9999-000000000054" /><!--Shortsword--> 
+	  <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000054" /><!--Polearm Bill--> 
+	  
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="99999999-9999-9999-9999-000000000055" /><!--Polearm Bohemian Earspoon-->
+      <row amount="1" is_equipped="True" item_id="6ec15d56-4f77-4751-af72-e6225f825ae8" weapon_preset_id="99999999-9999-9999-9999-000000000055" /><!--Heavy Warhammer-->
+	 
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000056" /><!--Polearm Halberd--> 
+      <row amount="1" is_equipped="True" item_id="e16b0af6-fb6a-43e2-9a9c-1b8c227e64b8" weapon_preset_id="99999999-9999-9999-9999-000000000056" /><!--Raven's Break-->
+	  
+      <row amount="1" is_equipped="True" item_id="8ef902ea-0c32-44c9-b101-71f35b9cbe3d" weapon_preset_id="99999999-9999-9999-9999-000000000057" /><!--Polearm Bardiche-->
+      <row amount="1" is_equipped="True" item_id="4317a4e7-cfdc-4984-aab0-eba14f01e0ab" weapon_preset_id="99999999-9999-9999-9999-000000000057" /><!--Shortsword-->
+
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000058" /><!--Polearm Spear-->	  
+      <row amount="1" is_equipped="True" item_id="db35e15d-ccc0-4c59-b76e-f7d6be6939f2" weapon_preset_id="99999999-9999-9999-9999-000000000058" /><!--Shortsword-->
+	  
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000059" /><!--Polearm Spear-->
+      <row amount="1" is_equipped="True" item_id="c8072476-7ac0-4cdd-8cfc-51893e5c86c6" weapon_preset_id="99999999-9999-9999-9999-000000000059" /><!--Hunting Sword-->
+	  
+      <row amount="1" is_equipped="True" item_id="7377215a-a0ca-44a2-b11a-113a024191ca" weapon_preset_id="99999999-9999-9999-9999-000000000060" /><!--Polearm Glaive-->
+      <row amount="1" is_equipped="True" item_id="f7359b93-8312-4f13-8c51-ddb671a9edff" weapon_preset_id="99999999-9999-9999-9999-000000000060" /><!--Club-->
+	  
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000061" /><!--Polearm Bill-->
+      <row amount="1" is_equipped="True" item_id="9d9bdc38-9e6e-459f-8a75-700fdc1e604f" weapon_preset_id="99999999-9999-9999-9999-000000000061" /><!--Pernach Mace-->
+	  
+	  <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000062" /><!--Polearm Halberd-->	  
+      <row amount="1" is_equipped="True" item_id="db35e15d-ccc0-4c59-b76e-f7d6be6939f2" weapon_preset_id="99999999-9999-9999-9999-000000000062" /><!--Shortsword-->
+
+      <row amount="1" is_equipped="True" item_id="7377215a-a0ca-44a2-b11a-113a024191ca" weapon_preset_id="99999999-9999-9999-9999-000000000063" /><!--Polearm Glaive-->	  
+	  <row amount="1" is_equipped="True" item_id="e85bbb3c-a40e-4c42-94c2-61372a4e889a" weapon_preset_id="99999999-9999-9999-9999-000000000063" /><!--Morgenstern-->  
+
+      <row amount="1" is_equipped="True" item_id="44940b6c-f1f9-4ad1-9419-b5705a88e5b0" weapon_preset_id="99999999-9999-9999-9999-000000000064" /><!--Polearm Bill-->	  
+      <row amount="1" is_equipped="True" item_id="788c57a8-ae7a-43a7-8236-07fec193531c" weapon_preset_id="99999999-9999-9999-9999-000000000064" /><!--Hunting Sword-->
+
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000065" /><!--Polearm Spear-->		  
+      <row amount="1" is_equipped="True" item_id="c2d79308-ce89-41e4-b07c-8c00f4496370" weapon_preset_id="99999999-9999-9999-9999-000000000065" /><!--Mace-->
+
+      <row amount="1" is_equipped="True" item_id="0f5be0ac-ff11-4a01-a7f4-bf8e84c2e31b" weapon_preset_id="99999999-9999-9999-9999-000000000066" /><!--Polearm Spear-->	  
+      <row amount="1" is_equipped="True" item_id="aa8ebb16-e117-46ae-8c85-5c53ceb79394" weapon_preset_id="99999999-9999-9999-9999-000000000066" /><!--Cooper's Axe-->	  	  
+	  
+      <row amount="1" is_equipped="True" item_id="1f389792-6ddb-4060-8cc4-13bcc9117db8" weapon_preset_id="99999999-9999-9999-9999-000000000067" /><!--Polearm Halberd-->
+      <row amount="1" is_equipped="True" item_id="a8014877-ce10-4331-88ab-04173b6370ad" weapon_preset_id="99999999-9999-9999-9999-000000000067" /><!--Shortsword-->
+	  
+      <row amount="1" is_equipped="True" item_id="85b71c81-e087-47f1-a290-bb80ed1bfaf2" weapon_preset_id="99999999-9999-9999-9999-000000000068" /><!--Shortsword-->
+      <row amount="1" is_equipped="True" item_id="033fc7b6-17b6-486d-95cb-a22afb131be2" weapon_preset_id="99999999-9999-9999-9999-000000000068" /><!--Polearm Guisarme-->
+	  
+      <row amount="1" is_equipped="True" item_id="5e079d0b-0909-45c8-9306-8ac579b7b407" weapon_preset_id="99999999-9999-9999-9999-000000000069" /><!--Saber-->
+      <row amount="1" is_equipped="True" item_id="f2817f34-9e28-4b97-8f6c-d2b2a7aaa61b" weapon_preset_id="99999999-9999-9999-9999-000000000069" /><!--Polearm Bohemian Earspoon-->
+  
+    </rows>
+  </table>
+</database>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="skill2item_category" version="1">
+    <header>
+      <column name="item_category" type="character varying" />
+      <column name="skill_id" type="integer" />
+    </header>
+    <rows>
+      <row item_category="armor.cloth.*" skill_id="8" />
+      <row item_category="armor.decorated.*" skill_id="8" />
+      <row item_category="armor.default cloth.*" skill_id="8" />
+      <row item_category="armor.heavy leather.*" skill_id="8" />
+      <row item_category="armor.chain.*" skill_id="8" />
+      <row item_category="armor.light leather.*" skill_id="8" />
+      <row item_category="armor.plate.*" skill_id="8" />
+      <row item_category="armor.shoe.*" skill_id="8" />
+      <row item_category="helmet.*.*" skill_id="8" />
+      <row item_category="melee_weapon.axe.*" skill_id="8" />
+      <row item_category="melee_weapon.dagger.*" skill_id="8" />
+      <row item_category="melee_weapon.halberd.*" skill_id="8" />
+      <row item_category="melee_weapon.longsword.*" skill_id="8" />
+      <row item_category="melee_weapon.mace.*" skill_id="8" />
+      <row item_category="melee_weapon.sabre.*" skill_id="8" />
+      <row item_category="melee_weapon.shield.*" skill_id="8" />
+      <row item_category="melee_weapon.sword.*" skill_id="8" />
+      <row item_category="missile_weapon.*.*" skill_id="8" />
+      <row item_category="alchemy_material.skin.*" skill_id="14" />
+      <row item_category="alchemy_material.special.horn" skill_id="14" />
+      <row item_category="alchemy_material.special.tusk" skill_id="14" />
+      <row item_category="food.bowel.*" skill_id="14" />
+      <row item_category="food.meat.*" skill_id="14" />
+      <row item_category="misc.skin.*" skill_id="14" />
+      <row item_category="armor.cloth.*" skill_id="27" />
+      <row item_category="armor.decorated.*" skill_id="27" />
+      <row item_category="armor.default cloth.*" skill_id="27" />
+      <row item_category="armor.heavy leather.*" skill_id="28" />
+      <row item_category="armor.chain.*" skill_id="28" />
+      <row item_category="armor.light leather.*" skill_id="28" />
+      <row item_category="armor.plate.*" skill_id="28" />
+      <row item_category="helmet.*.*" skill_id="28" />
+      <row item_category="melee_weapon.axe.*" skill_id="29" />
+      <row item_category="melee_weapon.dagger.*" skill_id="29" />
+      <row item_category="melee_weapon.halberd.*" skill_id="29" />
+      <row item_category="melee_weapon.longsword.*" skill_id="29" />
+      <row item_category="melee_weapon.mace.*" skill_id="29" />
+      <row item_category="melee_weapon.sabre.*" skill_id="29" />
+      <row item_category="melee_weapon.shield.*" skill_id="29" />
+      <row item_category="melee_weapon.sword.*" skill_id="29" />
+      <row item_category="missile_weapon.*.*" skill_id="29" />
+      <row item_category="armor.shoe.*" skill_id="30" />
+	  
+	  <!-- Horse Gear -->
+      <row item_category="armor.horse_saddle_none.*" skill_id="8" />
+      <row item_category="armor.horse_saddle_one.*" skill_id="8" />
+      <row item_category="armor.horse_saddle_two.*" skill_id="8" />
+      <row item_category="armor.horse_saddle_three.*" skill_id="8" />
+      <row item_category="armor.horse_saddle_four.*" skill_id="8" />
+      <row item_category="armor.horse_saddle_five.*" skill_id="8" />
+      <row item_category="armor.horse_bridle_plain.*" skill_id="8" />
+      <row item_category="armor.horse_bridle_groom.*" skill_id="8" />
+      <row item_category="armor.horse_bridle_cavalry.*" skill_id="8" />
+      <row item_category="armor.horse_bridle_knight.*" skill_id="8" />
+      <row item_category="armor.horse_bridle_noble.*" skill_id="8" />
+      <row item_category="armor.horse_shoe_farm.*" skill_id="8" />
+      <row item_category="armor.horse_shoe_travel.*" skill_id="8" />
+      <row item_category="armor.horse_shoe_military.*" skill_id="8" />
+      <row item_category="armor.horse_shoe_noble.*" skill_id="8" />
+	  <row item_category="armor.spur_plain.*" skill_id="8" />
+	  <row item_category="armor.spur_cuman.*" skill_id="8" />
+	  <row item_category="armor.spur_knight.*" skill_id="8" />
+	  <row item_category="armor.spur_silver.*" skill_id="8" />
+	  <row item_category="armor.spur_gold.*" skill_id="8" />
+      <row item_category="armor.horse_saddle_none.*" skill_id="28" />
+      <row item_category="armor.horse_saddle_one.*" skill_id="28" />
+      <row item_category="armor.horse_saddle_two.*" skill_id="28" />
+      <row item_category="armor.horse_saddle_three.*" skill_id="28" />
+      <row item_category="armor.horse_saddle_four.*" skill_id="28" />
+      <row item_category="armor.horse_saddle_five.*" skill_id="28" />
+      <row item_category="armor.horse_bridle_plain.*" skill_id="28" />
+      <row item_category="armor.horse_bridle_groom.*" skill_id="28" />
+      <row item_category="armor.horse_bridle_cavalry.*" skill_id="28" />
+      <row item_category="armor.horse_bridle_knight.*" skill_id="28" />
+      <row item_category="armor.horse_bridle_noble.*" skill_id="28" />
+      <row item_category="armor.horse_shoe_farm.*" skill_id="28" />
+      <row item_category="armor.horse_shoe_travel.*" skill_id="28" />
+      <row item_category="armor.horse_shoe_military.*" skill_id="28" />
+      <row item_category="armor.horse_shoe_noble.*" skill_id="28" />
+	  <row item_category="armor.spur_plain.*" skill_id="28" />
+	  <row item_category="armor.spur_cuman.*" skill_id="28" />
+	  <row item_category="armor.spur_knight.*" skill_id="28" />
+	  <row item_category="armor.spur_silver.*" skill_id="28" />
+	  <row item_category="armor.spur_gold.*" skill_id="28" />
+    </rows>
+  </table>
+</database>

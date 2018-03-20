@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="combat_combo_step" version="1">
+    <header>
+      <column name="atk_combat_zone_id" type="integer" />
+      <column name="attack_type_id" type="integer" />
+      <column name="combat_combo_id" type="integer" />
+      <column name="input_class_id" type="integer" />
+      <column name="step" type="integer" />
+    </header>
+    <rows>
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="1" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="1" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="1" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="4" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="4" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="4" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="5" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="5" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="5" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="6" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="6" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="6" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="6" input_class_id="0" step="3" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="7" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="7" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="7" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="7" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="8" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="8" input_class_id="0" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="8" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="9" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="9" input_class_id="0" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="9" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="10" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="10" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="10" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="10" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="11" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="11" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="11" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="13" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="13" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="13" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="14" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="14" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="14" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="14" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="15" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="15" input_class_id="0" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="15" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="16" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="16" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="16" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="16" input_class_id="0" step="3" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="17" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="17" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="17" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="18" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="18" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="18" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="18" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="19" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="19" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="19" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="19" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="20" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="20" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="20" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="5" combat_combo_id="22" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="4" combat_combo_id="23" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="5" combat_combo_id="24" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="4" combat_combo_id="25" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="26" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="26" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="26" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="27" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="27" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="27" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="28" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="28" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="28" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="28" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="29" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="29" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="29" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="29" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="30" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="30" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="30" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="30" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="32" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="32" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="32" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="33" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="33" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="33" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="34" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="34" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="34" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="35" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="35" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="35" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="35" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="36" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="36" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="36" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="36" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="37" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="37" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="37" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="37" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="38" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="38" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="38" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="38" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="39" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="39" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="39" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="39" input_class_id="1" step="3" />
+	  <!-- Short Swords -->
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="40" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="40" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="40" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="40" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="41" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="41" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="41" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="41" input_class_id="1" step="3" />
+	  <!-- Axes -->
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="42" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="42" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="42" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="43" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="43" input_class_id="0" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="43" input_class_id="0" step="2" />
+	  <!-- Maces -->
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="44" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="44" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="44" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="45" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="45" input_class_id="0" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="45" input_class_id="0" step="2" />
+	  <!-- Polearms -->
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="46" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="46" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="46" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="47" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="47" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="47" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="48" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="48" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="48" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="49" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="49" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="49" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="49" input_class_id="0" step="3" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="50" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="50" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="50" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="50" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="51" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="51" input_class_id="0" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="51" input_class_id="0" step="2" />
+	  <!-- Daggers -->
+      <row atk_combat_zone_id="3" attack_type_id="" combat_combo_id="52" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="52" input_class_id="0" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="52" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="53" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="2" attack_type_id="" combat_combo_id="53" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="53" input_class_id="0" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="0" combat_combo_id="53" input_class_id="0" step="3" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="54" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="54" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="54" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="55" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="55" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="55" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="55" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="0" attack_type_id="" combat_combo_id="56" input_class_id="1" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="56" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="4" attack_type_id="" combat_combo_id="56" input_class_id="1" step="2" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="56" input_class_id="1" step="3" />
+      <row atk_combat_zone_id="" attack_type_id="" combat_combo_id="57" input_class_id="0" step="0" />
+      <row atk_combat_zone_id="1" attack_type_id="" combat_combo_id="57" input_class_id="1" step="1" />
+      <row atk_combat_zone_id="" attack_type_id="1" combat_combo_id="57" input_class_id="1" step="2" />
+    </rows>
+  </table>
+</database>

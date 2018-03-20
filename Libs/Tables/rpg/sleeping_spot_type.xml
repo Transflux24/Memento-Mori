@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="sleeping_spot_type" version="1">
+    <header>
+      <column name="sleeping_quality" type="real" />
+      <column name="sleeping_spot_type_id" type="integer" />
+      <column name="sleeping_spot_type_name" type="character varying" />
+    </header>
+    <rows>
+      <row sleeping_quality="1" sleeping_spot_type_id="0" sleeping_spot_type_name="exceptional" />
+      <row sleeping_quality="0.6" sleeping_spot_type_id="1" sleeping_spot_type_name="high" />
+      <row sleeping_quality="0.15" sleeping_spot_type_id="2" sleeping_spot_type_name="low" />
+      <row sleeping_quality="0.3" sleeping_spot_type_id="3" sleeping_spot_type_name="medium" />
+      <row sleeping_quality="0.075" sleeping_spot_type_id="4" sleeping_spot_type_name="ground" />
+    </rows>
+  </table>
+</database>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="soul_archetype" version="1">
+    <header>
+      <column name="base_stamina" type="real" />
+      <column name="body_base_armor" type="real" />
+      <column name="body_base_conspicuousness" type="real" />
+      <column name="body_base_visibility" type="real" />
+      <column name="gender_id" type="integer" />
+      <column name="inventory_capacity_multiplier" type="real" />
+      <column name="normal_body_weight" type="real" />
+      <column name="race_id" type="integer" />
+      <column name="relative_vitality_to_stamina" type="real" />
+      <column name="soul_archetype_id" type="integer" />
+      <column name="soul_archetype_name" type="character varying" />
+    </header>
+    <rows>
+      <row base_stamina="110" body_base_armor="2.5" body_base_conspicuousness="0" body_base_visibility="0" gender_id="0" inventory_capacity_multiplier="3" normal_body_weight="160" race_id="0" relative_vitality_to_stamina="100" soul_archetype_id="0" soul_archetype_name="NPC" />
+      <row base_stamina="110" body_base_armor="2.5" body_base_conspicuousness="0" body_base_visibility="0" gender_id="1" inventory_capacity_multiplier="3" normal_body_weight="120" race_id="0" relative_vitality_to_stamina="100" soul_archetype_id="1" soul_archetype_name="NPC_Female" />
+      <row base_stamina="110" body_base_armor="2.5" body_base_conspicuousness="0" body_base_visibility="0" gender_id="2" inventory_capacity_multiplier="1" normal_body_weight="80" race_id="0" relative_vitality_to_stamina="100" soul_archetype_id="2" soul_archetype_name="NPC_Child" />
+      <row base_stamina="110" body_base_armor="2" body_base_conspicuousness="0" body_base_visibility="0" gender_id="3" inventory_capacity_multiplier="1" normal_body_weight="1000" race_id="1" relative_vitality_to_stamina="400" soul_archetype_id="3" soul_archetype_name="Horse" />
+      <row base_stamina="110" body_base_armor="1.1" body_base_conspicuousness="0" body_base_visibility="0" gender_id="3" inventory_capacity_multiplier="1" normal_body_weight="140" race_id="2" relative_vitality_to_stamina="100" soul_archetype_id="4" soul_archetype_name="Sheep" />
+      <row base_stamina="110" body_base_armor="0" body_base_conspicuousness="0" body_base_visibility="0" gender_id="3" inventory_capacity_multiplier="1" normal_body_weight="6" race_id="3" relative_vitality_to_stamina="100" soul_archetype_id="5" soul_archetype_name="Hare" />
+      <row base_stamina="110" body_base_armor="1.2" body_base_conspicuousness="0" body_base_visibility="0" gender_id="3" inventory_capacity_multiplier="1" normal_body_weight="250" race_id="4" relative_vitality_to_stamina="100" soul_archetype_id="6" soul_archetype_name="Pig" />
+      <row base_stamina="110" body_base_armor="0" body_base_conspicuousness="0" body_base_visibility="0" gender_id="3" inventory_capacity_multiplier="1" normal_body_weight="2" race_id="5" relative_vitality_to_stamina="100" soul_archetype_id="7" soul_archetype_name="Hen" />
+      <row base_stamina="110" body_base_armor="1.1" body_base_conspicuousness="0" body_base_visibility="0" gender_id="3" inventory_capacity_multiplier="1" normal_body_weight="50" race_id="6" relative_vitality_to_stamina="100" soul_archetype_id="8" soul_archetype_name="Dog" />
+      <row base_stamina="110" body_base_armor="1.3" body_base_conspicuousness="0" body_base_visibility="0" gender_id="0" inventory_capacity_multiplier="1" normal_body_weight="185" race_id="8" relative_vitality_to_stamina="100" soul_archetype_id="9" soul_archetype_name="RedDeer" />
+      <row base_stamina="110" body_base_armor="1.2" body_base_conspicuousness="0" body_base_visibility="0" gender_id="1" inventory_capacity_multiplier="1" normal_body_weight="165" race_id="8" relative_vitality_to_stamina="100" soul_archetype_id="10" soul_archetype_name="DeerDoe" />
+      <row base_stamina="110" body_base_armor="1" body_base_conspicuousness="0" body_base_visibility="0" gender_id="3" inventory_capacity_multiplier="1" normal_body_weight="27" race_id="9" relative_vitality_to_stamina="100" soul_archetype_id="11" soul_archetype_name="RoeBuck" />
+      <row base_stamina="110" body_base_armor="1.6" body_base_conspicuousness="0" body_base_visibility="0" gender_id="3" inventory_capacity_multiplier="1" normal_body_weight="400" race_id="7" relative_vitality_to_stamina="100" soul_archetype_id="12" soul_archetype_name="Cow" />
+      <row base_stamina="110" body_base_armor="2.5" body_base_conspicuousness="0" body_base_visibility="0" gender_id="0" inventory_capacity_multiplier="1" normal_body_weight="160" race_id="0" relative_vitality_to_stamina="100" soul_archetype_id="13" soul_archetype_name="Hero" />
+      <row base_stamina="110" body_base_armor="1.7" body_base_conspicuousness="0" body_base_visibility="0" gender_id="3" inventory_capacity_multiplier="1" normal_body_weight="300" race_id="4" relative_vitality_to_stamina="100" soul_archetype_id="14" soul_archetype_name="Boar" />
+    </rows>
+  </table>
+</database>

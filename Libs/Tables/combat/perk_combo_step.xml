@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<database name="hammerheart">
+  <table name="perk_combo_step" version="1">
+    <header>
+      <column name="combo_id" type="integer" />
+      <column name="combo_step_id" type="integer" />
+      <column name="perk_id" type="uuid" />
+    </header>
+    <rows>
+      <row combo_id="19" combo_step_id="3" perk_id="0707d033-b576-4c1e-8473-71f231238019" />
+      <row combo_id="29" combo_step_id="3" perk_id="0775dcec-5dcd-48e7-810d-1fc97e4e203e" />
+      <row combo_id="16" combo_step_id="3" perk_id="2482ca95-50f3-4a58-b52c-5ce11c86464a" />
+      <row combo_id="1" combo_step_id="2" perk_id="263994d2-8daf-4be8-8f23-044b97fe09f4" />
+      <row combo_id="8" combo_step_id="2" perk_id="27a5265a-7a9a-4427-b27a-d1f6bf3f57a6" />
+      <row combo_id="34" combo_step_id="2" perk_id="29c03502-20b0-432d-a185-bc1230e129a4" />
+      <row combo_id="30" combo_step_id="3" perk_id="2b74821b-9312-4e76-9c22-d2a38ba9dd06" />
+      <row combo_id="5" combo_step_id="2" perk_id="550bfd6a-d59c-4327-9fff-d817ca206fdd" />
+      <row combo_id="27" combo_step_id="2" perk_id="56e4356c-6379-4c02-9e71-b075a9aaab34" />
+      <row combo_id="39" combo_step_id="3" perk_id="674fafd0-d4cc-46fd-9e07-5844606f62c9" />
+      <row combo_id="29" combo_step_id="3" perk_id="6789b350-5a2c-47cf-b752-4cb21a98af15" />
+      <row combo_id="26" combo_step_id="2" perk_id="6877656e-a05d-49d4-b3c1-7df579755a36" />
+      <row combo_id="18" combo_step_id="3" perk_id="695f248c-a8b3-4138-aabe-2dd19b6b886d" />
+      <row combo_id="37" combo_step_id="3" perk_id="74521242-77ce-4c8e-b879-e63e9674a616" />
+      <row combo_id="28" combo_step_id="3" perk_id="754cdd59-295f-4348-8ee5-52d21e6bb45f" />
+      <row combo_id="26" combo_step_id="2" perk_id="7b89f2c7-e5f3-415f-aec7-32d7655a94ba" />
+      <row combo_id="6" combo_step_id="3" perk_id="7d124502-f7ac-42ad-bb27-cba085fb69be" />
+      <row combo_id="19" combo_step_id="3" perk_id="89ec2cf8-6e0b-4468-a7d1-7e538b676467" />
+      <row combo_id="11" combo_step_id="2" perk_id="8a4e792a-efa9-4ed9-8fb1-1f75da58b1d9" />
+      <row combo_id="35" combo_step_id="3" perk_id="8b448dbd-dbaf-4ec0-bbdb-6115d0b0927a" />
+      <row combo_id="30" combo_step_id="3" perk_id="8e7f48ba-ba81-4254-892b-7b346f0c696a" />
+      <row combo_id="7" combo_step_id="3" perk_id="8f1af639-7e7f-49e3-ae25-e3cfefa2a054" />
+      <row combo_id="32" combo_step_id="2" perk_id="945f4bcb-801d-4602-9937-5333ed07eea1" />
+      <row combo_id="38" combo_step_id="3" perk_id="9b3a4284-ca92-44fe-a972-5bdba7c166f2" />
+      <row combo_id="20" combo_step_id="2" perk_id="a57871ef-d113-4d88-a6cc-b8f48d4906db" />
+      <row combo_id="14" combo_step_id="3" perk_id="a7a61670-8b7f-434d-83b0-725a41f8982a" />
+      <row combo_id="17" combo_step_id="2" perk_id="a974b67f-0785-43ce-b51f-9779ecf42fb1" />
+      <row combo_id="33" combo_step_id="2" perk_id="aa5a5039-98d0-4519-8e72-13e0a8e68bef" />
+      <row combo_id="4" combo_step_id="2" perk_id="ae52cf70-aa76-41b6-b244-c7a501b9a15e" />
+      <row combo_id="36" combo_step_id="3" perk_id="b4b8fd05-18bc-4f47-b411-371c89c61761" />
+      <row combo_id="13" combo_step_id="2" perk_id="bafac0ff-8896-4936-a52b-1522c574c796" />
+      <row combo_id="10" combo_step_id="3" perk_id="c1735df6-ef91-450a-932d-fc813bfcf025" />
+      <row combo_id="15" combo_step_id="2" perk_id="caf7c415-2b83-44a3-b79b-2ddc3437f58e" />
+      <row combo_id="27" combo_step_id="2" perk_id="d574c37d-08af-4576-bcfd-29ccfa79e5ba" />
+      <row combo_id="18" combo_step_id="3" perk_id="e8d9d23f-e293-4980-abd4-a3046b929771" />
+      <row combo_id="28" combo_step_id="3" perk_id="f3f6c0eb-1b03-46ad-89f5-7eda9e4ab548" />
+      <row combo_id="17" combo_step_id="2" perk_id="f9381ef9-9e4a-4120-9c44-0eaca364ba5e" />
+      <row combo_id="9" combo_step_id="2" perk_id="fc026911-ce2c-4a11-8f5d-259c2b68ba40" />
+	  <!-- Short Swords -->
+      <row combo_id="40" combo_step_id="3" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000009" />
+      <row combo_id="41" combo_step_id="3" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000010" />
+	  <!-- Axes -->
+      <row combo_id="42" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000012" />
+      <row combo_id="43" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000013" />
+	  <!-- Maces -->
+      <row combo_id="44" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000014" />
+      <row combo_id="45" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000015" />
+	  <!-- Polearms -->
+      <row combo_id="46" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000019" />
+      <row combo_id="47" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000020" />
+      <row combo_id="48" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000016" />
+      <row combo_id="49" combo_step_id="3" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000018" />
+      <row combo_id="50" combo_step_id="3" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000021" />
+      <row combo_id="50" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000017" />
+	  <!-- Daggers -->
+      <row combo_id="52" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000005" />
+      <row combo_id="53" combo_step_id="3" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000001" />
+      <row combo_id="54" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000002" />
+      <row combo_id="55" combo_step_id="3" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000006" />
+      <row combo_id="56" combo_step_id="3" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000007" />
+      <row combo_id="57" combo_step_id="2" perk_id="s1d3w4yz-d4rk-t1m3-3333-000000000003" />
+    </rows>
+  </table>
+</database>
