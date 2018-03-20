@@ -57,6 +57,10 @@ function CrimeUtils.CalculateConfrontationSkillCheckDifficulty()
 	end
 
 --	Begin Jail Time Test --
+
+	 if jailDays > 30 then 
+		return 30
+	end
 --	 if jailDays > 9 then 
 --		return 4
 --	end
