@@ -50,46 +50,14 @@
       <row item_category="armor.shoe.*" skill_id="30" />
 	  
 	  <!-- Horse Gear -->
-      <row item_category="armor.horse_saddle_none.*" skill_id="8" />
-      <row item_category="armor.horse_saddle_one.*" skill_id="8" />
-      <row item_category="armor.horse_saddle_two.*" skill_id="8" />
-      <row item_category="armor.horse_saddle_three.*" skill_id="8" />
-      <row item_category="armor.horse_saddle_four.*" skill_id="8" />
-      <row item_category="armor.horse_saddle_five.*" skill_id="8" />
-      <row item_category="armor.horse_bridle_plain.*" skill_id="8" />
-      <row item_category="armor.horse_bridle_groom.*" skill_id="8" />
-      <row item_category="armor.horse_bridle_cavalry.*" skill_id="8" />
-      <row item_category="armor.horse_bridle_knight.*" skill_id="8" />
-      <row item_category="armor.horse_bridle_noble.*" skill_id="8" />
-      <row item_category="armor.horse_shoe_farm.*" skill_id="8" />
-      <row item_category="armor.horse_shoe_travel.*" skill_id="8" />
-      <row item_category="armor.horse_shoe_military.*" skill_id="8" />
-      <row item_category="armor.horse_shoe_noble.*" skill_id="8" />
-	  <row item_category="armor.spur_plain.*" skill_id="8" />
-	  <row item_category="armor.spur_cuman.*" skill_id="8" />
-	  <row item_category="armor.spur_knight.*" skill_id="8" />
-	  <row item_category="armor.spur_silver.*" skill_id="8" />
-	  <row item_category="armor.spur_gold.*" skill_id="8" />
-      <row item_category="armor.horse_saddle_none.*" skill_id="28" />
-      <row item_category="armor.horse_saddle_one.*" skill_id="28" />
-      <row item_category="armor.horse_saddle_two.*" skill_id="28" />
-      <row item_category="armor.horse_saddle_three.*" skill_id="28" />
-      <row item_category="armor.horse_saddle_four.*" skill_id="28" />
-      <row item_category="armor.horse_saddle_five.*" skill_id="28" />
-      <row item_category="armor.horse_bridle_plain.*" skill_id="28" />
-      <row item_category="armor.horse_bridle_groom.*" skill_id="28" />
-      <row item_category="armor.horse_bridle_cavalry.*" skill_id="28" />
-      <row item_category="armor.horse_bridle_knight.*" skill_id="28" />
-      <row item_category="armor.horse_bridle_noble.*" skill_id="28" />
-      <row item_category="armor.horse_shoe_farm.*" skill_id="28" />
-      <row item_category="armor.horse_shoe_travel.*" skill_id="28" />
-      <row item_category="armor.horse_shoe_military.*" skill_id="28" />
-      <row item_category="armor.horse_shoe_noble.*" skill_id="28" />
-	  <row item_category="armor.spur_plain.*" skill_id="28" />
-	  <row item_category="armor.spur_cuman.*" skill_id="28" />
-	  <row item_category="armor.spur_knight.*" skill_id="28" />
-	  <row item_category="armor.spur_silver.*" skill_id="28" />
-	  <row item_category="armor.spur_gold.*" skill_id="28" />
+      <row item_category="armor.horse_saddle.*" skill_id="8" />
+      <row item_category="armor.horse_bridle.*" skill_id="8" />
+      <row item_category="armor.horse_shoe.*" skill_id="8" />
+	  <row item_category="armor.spur.*" skill_id="8" />
+      <row item_category="armor.horse_saddle.*" skill_id="28" />
+      <row item_category="armor.horse_bridle.*" skill_id="28" />
+      <row item_category="armor.horse_shoe.*" skill_id="28" />
+	  <row item_category="armor.spur.*" skill_id="28" />
     </rows>
   </table>
 </database>
