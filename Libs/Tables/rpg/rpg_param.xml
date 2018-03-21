@@ -141,7 +141,7 @@
       <row rpg_param_key="PickpocketingMisstargetingTolerance" rpg_param_value="2000" />
       <row rpg_param_key="PickpocketingStealthXP" rpg_param_value="9" />
       <row rpg_param_key="PickpocketingXP" rpg_param_value="11" />
-      <row rpg_param_key="QuestMoneyRewardScaleConstant" rpg_param_value="0.75" />
+      <row rpg_param_key="QuestMoneyRewardScaleConstant" rpg_param_value="0.9375" />
       <row rpg_param_key="RangedWpnSelfHarmCoef" rpg_param_value="30" />
       <row rpg_param_key="ReadingXpPerHour" rpg_param_value="45" />
       <row rpg_param_key="RecognitionTimeDistanceGain" rpg_param_value="0.1" />
