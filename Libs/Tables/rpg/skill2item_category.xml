@@ -54,10 +54,12 @@
       <row item_category="armor.horse_bridle.*" skill_id="8" />
       <row item_category="armor.horse_shoe.*" skill_id="8" />
 	  <row item_category="armor.spur.*" skill_id="8" />
+	  <row item_category="armor.horse_caparison.*" skill_id="8" />
       <row item_category="armor.horse_saddle.*" skill_id="28" />
       <row item_category="armor.horse_bridle.*" skill_id="28" />
       <row item_category="armor.horse_shoe.*" skill_id="28" />
 	  <row item_category="armor.spur.*" skill_id="28" />
+	  <row item_category="armor.horse_caparison.*" skill_id="28" />
     </rows>
   </table>
 </database>
